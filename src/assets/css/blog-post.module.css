@@ -1,0 +1,539 @@
+.innerPage {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+    padding-top: 140px;
+    padding-bottom: 95px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 1024px) {
+    .innerPage {
+        max-width: 95%;
+    }
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 980px) {
+    .innerPage {
+        max-width: 95%;
+        padding-top: 100px;
+        padding-bottom: 160px;
+    }
+}
+
+@media only screen and (max-width: 979px) and (min-width: 768px) {
+    .innerPage {
+        padding-bottom: 0;
+        max-width: 94%;
+        padding-top: 100px;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .innerPage {
+        padding-bottom: 0;
+        max-width: 100%;
+        width: 94%;
+        padding-top: 60px;
+    }
+}
+
+
+.innerPageLeft {
+    width: 65%;
+    float: left;
+}
+
+@media only screen and (max-width: 979px) and (min-width: 768px) {
+    .innerPageLeft {
+        width: 100%;
+        float: none;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .innerPageLeft {
+        width: 100%;
+        float: none;
+    }
+}
+
+.innerPageRight {
+    width: 32%;
+    float: right;
+    will-change: min-height;
+}
+
+@media only screen and (max-width: 979px) and (min-width: 768px) {
+    .innerPageRight {
+        width: 100%;
+        float: none;
+        overflow: hidden;
+        margin-top: 30px;
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .innerPageRight {
+        width: 100%;
+        float: none;
+    }
+}
+
+.sidebarInner {
+    transform: translate3d(0, 0, 0);
+    will-change: position, transform;
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 980px) {
+    .sidebarInner {
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 979px) and (min-width: 0px) {
+    .sidebarInner {
+        position: relative;
+        max-width: 100%;
+        width: 100%;
+        transform: none;
+        left: 0;
+        bottom: 0;
+        top: 0;
+    }
+}
+
+.sidebar {
+    width: 100%;
+    padding-bottom: 28px;
+}
+
+@media (min-width: 981px) {
+    .sidebar {
+        padding-left: 30px;
+        /*float: left;*/
+    }
+}
+
+@media (max-width: 980px) {
+    .sidebar {
+        margin-left: 0;
+        border-left: none;
+        float: none;
+        width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+.detail {
+    padding-bottom: 25px;
+    position: relative;
+    z-index: 50;
+    display: block;
+}
+
+@media screen and (max-width: 1024px) {
+    .detail {
+        overflow: hidden;
+    }
+}
+
+.fullImg {
+    background: none;
+    margin: 0 0 40px 0;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.featuredImg {
+    height: auto;
+    border-radius: 5px;
+}
+
+.fullTitle {
+    margin: -12px 0 0;
+    font-size: 40px;
+    color: #0E1738;
+    line-height: 52px;
+    font-weight: bold;
+    padding: 0;
+    font-family: "Work Sans", Arial, sans-serif;
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 980px) {
+    .fullTitle {
+        margin: 20px auto auto;
+    }
+}
+
+@media only screen and (max-width: 979px) and (min-width: 768px) {
+    .fullTitle {
+        font-size: 35px;
+        line-height: 40px;
+        margin: 20px auto auto;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .fullTitle {
+        line-height: 33px;
+        font-size: 25px;
+        margin: 20px auto auto;
+    }
+}
+
+.fullHeader {
+    margin: 26px 0;
+    padding: 0;
+    max-width: 1200px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.fullContent {
+    color: #0E1738;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 30px;
+    padding: 0;
+    position: relative;
+    margin: 0 auto;
+    min-height: 230px;
+    background: #fff;
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 980px) {
+    .fullContent {
+        font-size: 19px;
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 979px) and (min-width: 768px) {
+    .fullContent {
+        font-size: 19px;
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .fullContent {
+        padding: 0;
+    }
+}
+
+.postContent {
+    display: flex;
+    flex-direction: column;
+    max-width: 920px;
+}
+
+.postContent code {
+    margin-bottom: 10px;
+    font-family: Courier New, monospace;
+}
+
+.postContent p {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 765px) {
+    .postContent p {
+        overflow-wrap: break-word;
+    }
+}
+
+.postContent h2 {
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .postContent h2 {
+        line-height: 25px;
+        font-size: 18px;
+    }
+}
+
+.postContent h3 {
+    color: #333333;
+    line-height: 35px;
+    font-size: 25px;
+    letter-spacing: 0;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .postContent h3 {
+        line-height: 25px;
+        font-size: 18px;
+    }
+}
+
+.postContent h4 {
+    font-weight: 700;
+}
+
+.postContent strong {
+    color: #090a0b;
+}
+
+.postContent a {
+    color: #b87fbc;
+}
+
+.postContent ul {
+    margin: 0 0 1.5em;
+    min-width: 100%;
+    list-style: disc;
+    padding-left: 1.3em;
+    padding-right: 1.5em;
+}
+
+.postContent li {
+    word-break: break-word;
+    margin: .5em 0;
+    padding-left: .3em;
+    line-height: 1.6em;
+}
+
+.postContent ul li {
+    list-style: disc;
+}
+
+.postContent li:first-child {
+    margin-top: 0;
+}
+
+.postContent figure figcaption {
+    margin: 0 35px 0 35px;
+    text-align: center;
+}
+
+.postContent blockquote {
+    margin: 50px 0;
+    padding-left: 0;
+    border-left: 0;
+    border-top: 3px solid #652f73;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 21px;
+    border-bottom: 3px solid #652f73;
+    position: relative;
+}
+
+.postContent blockquote:before {
+    transform: rotate(25deg);
+    content: "";
+    border-width: 65px 25px 20px 25px;
+    border-style: solid;
+    border-color: rgba(106,47,108,0.4) transparent transparent transparent;
+    position: absolute;
+    top: -50px;
+    left: 70px;
+}
+
+.postContent blockquote:after {
+    transform: rotate(75deg);
+    content: "";
+    border-width: 55px 24px 20px 25px;
+    border-style: solid;
+    border-color: transparent transparent transparent rgba(99,150,255,.4);
+    position: absolute;
+    bottom: -60px;
+    right: 20px;
+}
+
+.fullMeta {
+    justify-content: inherit;
+    align-items: inherit;
+    text-transform: capitalize;
+    color: #9BA5AB;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 300;
+}
+
+.authorSection {
+    width: 60%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: -5px;
+}
+
+.author {
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+}
+
+.divider {
+    display: inline-block;
+    margin: 0 2px 1px;
+}
+
+.socialLinkWidget {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: -5px;
+}
+
+/*@media only screen and (max-width: 1280px) and (min-width: 980px) {
+    .socialLinkWidget {
+        width: 45%;
+    }
+}*/
+
+/*@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .socialLinkWidget {
+        width: 100%;
+        display: inline-block;
+        margin-top: 20px;
+    }
+}*/
+
+.socialLinkWidgetUL {
+    float: right;
+}
+
+.socialLinkWidgetLI {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .socialLinkWidgetLI {
+        margin-right: 5px;
+        overflow-wrap: break-word;
+    }
+}
+
+.socialLinkWidgetLink {
+    width: 35px;
+    height: 35px;
+    color: #556274;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 9px;
+}
+
+.blogUserInfoArea {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-top: 1.5px solid #E5E6F3;
+    border-bottom: 1.5px solid #E5E6F3;
+}
+
+.userInformationBox {
+    width: 100%;
+    overflow: hidden;
+}
+
+.userPicture {
+    width: 16%;
+    float: left;
+    margin-right: 20px;
+}
+
+.userPictureImg {
+    border-radius: 50%;
+}
+
+.userInfoArea {
+    width: 30%;
+    float: left;
+    padding-top: 26px;
+    color: #652f73;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .userInfoArea {
+        width: 40%;
+        padding-top: 15px;
+    }
+}
+
+.authorDescription {
+    color: #0e1738;
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 16px;
+}
+
+.relatedBlogSection {
+    margin-top: 30px;
+}
+
+.recentPostsHeading {
+    padding: 0;
+    margin-bottom: 30px;
+    color: #0E1738;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 32px;
+    line-height: 46px;
+}
+
+.relatedBlogColumn {
+    width: 32%;
+    float: left;
+    margin-right: 2%;
+}
+
+.relatedBlogColumn:last-child {
+    margin-right: 0;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0px) {
+    .relatedBlogColumn {
+        width: 100%;
+        float: none;
+        margin-right: 0;
+        margin-bottom: 23px;
+    }
+}
+
+.relatedBlogTitle {
+    padding-right: 15px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    color: #171717;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 28px;
+}
+
+.relatedBlogFullMeta {
+    justify-content: inherit;
+    align-items: inherit;
+    text-transform: capitalize;
+    color: #9BA5AB;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 300;
+}
+
+.relatedPostContent {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: #0E1738;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 29px;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="27px" height="18px" viewBox="0 0 27 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M0 0L26.2329 0L26.2329 2.1654L0 2.1654L0 0Z" transform="translate(0 0.046458)" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group-8">
+    <g id="Group-3" transform="translate(0 0.04356)">
+      <path d="M0 0L26.2329 0L26.2329 2.1654L0 2.1654L0 0Z" transform="translate(0 0.046458)" id="Clip-2" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M0.819759 2.1654L25.4132 2.1654C25.8657 2.1654 26.2329 1.6803 26.2329 1.0827C26.2329 0.48501 25.8656 0 25.4132 0L0.819759 0C0.367222 0 0 0.4851 0 1.0827C0 1.6803 0.36729 2.1654 0.819759 2.1654" transform="translate(-1.3628572E-05 0.046458)" id="Fill-1" fill="#0E1738" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <path d="M25.4131 0L0.81969 0C0.367222 0 0 0.4851 0 1.0827C0 1.6803 0.36729 2.1654 0.81969 2.1654L25.4131 2.1654C25.8657 2.1654 26.2328 1.6803 26.2328 1.0827C26.2328 0.4851 25.8657 0 25.4131 0" transform="translate(3.407143E-05 7.669089)" id="Fill-4" fill="#0E1738" fill-rule="evenodd" stroke="none" />
+    <path d="M17.2153 0L0.819759 0C0.367154 0 0 0.4851 0 1.0827C0 1.68039 0.367222 2.1654 0.819759 2.1654L17.2153 2.1654C17.6679 2.1654 18.035 1.6803 18.035 1.0827C18.0351 0.48501 17.6679 0 17.2153 0" transform="translate(8.1978245 15.24816)" id="Fill-6" fill="#0E1738" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

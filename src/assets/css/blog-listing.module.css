@@ -1,0 +1,87 @@
+.mainBlogWrapper {
+    padding-top: 140px;
+    padding-bottom: 95px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 767px) {
+    .mainBlogWrapper {
+        padding-top: 80px;
+    }
+}
+
+.container {
+    padding-top: 15px;
+    width: 100%;
+    max-width: 1220px;
+    position: relative;
+    text-align: left;
+    margin: auto;
+}
+
+.algoliaSearchBox {
+    max-width: 487px;
+    margin: auto;
+}
+
+@media screen and (max-width: 767px) {
+    .algoliaSearchBox {
+        max-width: 386px;
+        margin: auto;
+        padding: 0px 15px;
+    }
+}
+
+.searchLabel {
+    color: #171717;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.blogListWrapper {
+    position: relative;
+    min-height: 350px;
+    margin-top: 80px;
+}
+
+@media screen and (max-width: 767px) {
+    .blogListWrapper {
+        position: relative;
+        margin-top: 30px;
+    }
+}
+
+.blogList {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+@media screen and (max-width: 767px) {
+    .blogList {
+        padding: 0 10px;
+    }
+}
+
+.paginationContainer {
+    text-align: right;
+    margin: 0 0.85%;
+}
+
+@media only screen and (max-width: 1279px) and (min-width: 768px) {
+    .paginationContainer {
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .paginationContainer {
+        text-align: center;
+        margin: 20px 0.85%;
+    }
+}

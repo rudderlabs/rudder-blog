@@ -1,0 +1,206 @@
+@font-face {font-family: "ETmoudles";
+  src: url("../fonts/ETmoudles/ETmoudles.eot"); /* IE9*/
+  src: url("../fonts/ETmoudles/ETmoudles.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/ETmoudles/ETmoudles.woff2") format("woff2"), /* chrome、firefox */
+  url("../fonts/ETmoudles/ETmoudles.woff") format("woff"), /* chrome、firefox */
+  url("../fonts/ETmoudles/ETmoudles.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../fonts/ETmoudles/ETmoudles.svg#ETmoudles") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "dashicons";
+  src: url("../fonts/dashicons/dashicons.eot"); /* IE9*/
+  src: url("../fonts/dashicons/dashicons.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../fonts/dashicons/dashicons.woff2") format("woff2"), /* chrome firefox */
+  url("../fonts/dashicons/dashicons.woff") format("woff"), /* chrome firefox */
+  url("../fonts/dashicons/dashicons.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+  url("../fonts/dashicons/dashicons.svg#dashicons") format("svg"); /* iOS 4.1- */
+}
+
+article,
+aside,
+footer,
+header,
+hgroup,
+nav,
+section {
+  display: block;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+input.text,
+input.title,
+input[type=text],
+select,
+textarea {
+  margin: 0;
+}
+
+a, abbr, acronym, address, applet, b, big, blockquote, body, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, tt, u, ul, var {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: 0 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding-bottom: 10px;
+  color: #333;
+  font-weight: 500;
+  line-height: 1em;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Work Sans', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 500;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  font-family: 'Work Sans', Arial, sans-serif;
+  color: #0E1738;
+}
+
+body strong {
+  font-family: 'Work Sans', Arial, sans-serif;
+  color: #0E1738;
+}
+
+body h1 {
+  font-size: 50px;
+  line-height: 22px;
+  color: #151E41;
+}
+
+body h2 {
+  font-size: 40px;
+  line-height: 52px;
+  font-weight: 700;
+}
+body h3 {
+  font-size: 32px;
+  line-height: 46px;
+}
+body h4 {
+  font-size: 24px;
+  line-height: 36px;
+}
+body h5 {
+  font-size: 22px;
+  line-height: 36px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 30px;
+  color: #0E1738;
+  font-family: 'Work Sans', Arial, sans-serif;
+  padding-bottom: 1em;
+}
+
+a {
+  color: #b87fbc;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 980px) {
+  .sticky {
+    max-width: 100% !important;
+    left: 0;
+    border-radius: 0;
+    top: 0;
+  }
+}
+
+ul, li {
+  list-style: none;
+}
+
+blockquote {
+  border-color: #2ea3f2;
+}
+
+blockquote:before,
+blockquote:after {
+  content: none;
+}
+
+input[type="email"],
+input[type="tel"] {
+  direction: ltr;
+}
+
+img.wp-smiley,
+img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+
+  body h1 {
+    font-size: 32px;
+    line-height: 44px;
+  }
+
+  body h2 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+
+  body h3 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+
+  body h4 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  body h5 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
+
