@@ -121,8 +121,14 @@
 }
 
 .subscriptionFormOutput {
-    display: none;
     margin: 2em 0.5em 1em;
     padding: 0.2em 1em;
     border: 2px solid #00a0d2;
+}
+
+.error {
+    color: #dc3232;
+    font-size: 1em;
+    font-weight: normal;
+    display: block;
 }
