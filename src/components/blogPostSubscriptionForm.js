@@ -30,7 +30,7 @@ const BlogPostSubscriptionForm = (props) => {
 
     window.rudderanalytics.identify('', {
         email: email,
-        form_id: "Blog-header-Subscribe-form",
+        form_id: htmlId,
         utm_source: params.get('utm_source'),
         utm_medium: params.get('utm_medium'),
         utm_campaign: params.get('utm_campaign'),
@@ -60,7 +60,7 @@ const BlogPostSubscriptionForm = (props) => {
       {
         traits: {
           email: email,
-          form_id: "Blog-header-Subscribe-form",
+          form_id: htmlId,
         }
       });
 
