@@ -1,20 +1,21 @@
 ---
-title: "The Data Engineering Megatrend: A Brief History”
+title: "The Data Engineering Megatrend: A Brief History"
 date: 2020-12-03T00:00:00+05:30
 featureImg: ../assets/markdown/riseofdataengineer.blog.rs.png
 category: 
-Author: Eric Dodds
+author: Eric Dodds
 authorPic: ../assets/author/Eric-Dodds.png
 authorPosition: 
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 slug: "the-data-engineering-megatrend-a-brief-history"
 ---
 
+
 Earlier this year, Tomasz Tunguz[ gave a presentation](https://www.linkedin.com/pulse/five-important-trends-data-one-megatrend-powering-them-tomasz-tunguz/) on five trends in data and the "megatrend" that is powering them all. He makes the case (and we would agree) that the megatrend driving "changes in data design philosophy and tooling" is "the rise of the data engineer." This blog discusses the history of data engineering megatrend over the past 20 years.
 
 But how did we get here? The actual work of dealing with data has been around for a long time (think DBAs). Though as a unique discipline, data engineering is relatively new. Google Trends shows the term starting to pick up steam in 2016, and recently it has hit near peak popularity. 
 
-&lt;script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2402_RC03/embed_loader.js">&lt;/script> &lt;script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"data engineer","geo":"US","time":"2004-01-01 2020-11-20"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=data%20engineer","guestPath":"https://trends.google.com:443/trends/embed/"}); &lt;/script>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"data engineer","geo":"US","time":"2004-01-01 2020-12-18"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=data%20engineer","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
 Engineers specialize as needs arise. Today, the data is available in surplus due to massive digitalization. Hence, there is a rapid growth in the need for data engineering and the related data infrastructure. As a result, people and tooling are required to perform the job. 
 
