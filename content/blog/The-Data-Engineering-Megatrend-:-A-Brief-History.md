@@ -17,6 +17,7 @@ But how did we get here? The actual work of dealing with data has been around fo
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"data engineer","geo":"US","time":"2004-01-01 2020-12-18"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=data%20engineer","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
+
 Engineers specialize as needs arise. Today, the data is available in surplus due to massive digitalization. Hence, there is a rapid growth in the need for data engineering and the related data infrastructure. As a result, people and tooling are required to perform the job. 
 
 That rapid growth over the last 15-20 years, though, has created interesting dynamics within organizations and between teams that produce and consume data. 
@@ -29,7 +30,7 @@ That rapid growth over the last 15-20 years, though, has created interesting dyn
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.jpg "image_tooltip")
+![The Rise of Data Engineer over two decades](../assets/markdown/The rise of the data engineer.jpg)
 **The Rise of the Data Engineer** - _click to open in a new tab_
 
 
