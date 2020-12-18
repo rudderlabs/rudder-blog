@@ -26,10 +26,6 @@ That rapid growth over the last 15-20 years, though, has created interesting dyn
 ## **A Brief History of Data Teams and Tooling **
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![The Rise of Data Engineer over two decades](../assets/markdown/The rise of the data engineer.jpg)
 **The Rise of the Data Engineer** - _click to open in a new tab_
 
