@@ -78,10 +78,7 @@ In our case, the following two event models are returned in the response.
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![Two event models are returned in the response](/assets/markdown/product_purchased.png)
 
 
 In the returned payloads, we notice that two distinct event models refer to the same event (product purchased). However, they have different **EventIdentifiers** (commonly referred to as the event name). 
@@ -95,10 +92,8 @@ The next thing we want to check in our investigation is the source of the differ
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image2.png "image_tooltip")
+![When we look at the WriteKey for each event, we notice that these events are coming from the same source](../assets/markdown/events-from-same-source.png)
 
 
 This narrows our investigation to this particular source. Still, if these events had come from different sources, we might want to pull all event models from those sources individually to determine if there is variance by source. 
@@ -107,10 +102,7 @@ In that case, we would need the write key from each source. For example, we migh
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![All event models from the JavaScript SDK source running on our eCommerce site](../assets/markdown/event-models-from-JS-SDK.png)
 
 
 Here’s a sample request to pull the event models from this specific source:
@@ -123,11 +115,7 @@ Now we know that there are two event models for the product purchased event, and
 In the same response payload, notice that the **/event-models** endpoint also returns the total count of events. Here, we can see the **product_purchased** model is far less prevalent than the **Product Purchased** model. This suggests that there might have been a mistake in instrumentation or QA. 
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![The /event-models endpoint also returns the total count of events](../assets/markdown/Total_Count.png)
 
 
 
@@ -142,11 +130,7 @@ Here’s a sample request to pull schema versions for the **Product Purchased** 
 The response, in this case, returns two schema versions. Note that the versions are numbered and include a **VersionID**, which can be useful for additional investigation, logging, and troubleshooting. 
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![The versions are numbered and include a VersionID, which can be useful for additional investigation, logging, and troubleshooting](/assets/markdown/Identifying-differences-in-schema-versions.png")
 
 
 The first difference we notice between these events is that the more recent version of the event (**ID 48**) has an additional property called **sale_item**. Secondly, the more recent event has a much lower total count than the previous version. This suggests that someone updated instrumentation to include additional information about an item’s sale status on the product purchased event. 
