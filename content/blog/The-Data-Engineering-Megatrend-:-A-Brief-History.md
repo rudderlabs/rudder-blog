@@ -25,7 +25,6 @@ That rapid growth over the last 15-20 years, though, has created interesting dyn
 
 ## **A Brief History of Data Teams and Tooling **
 
-Here’s a visualization of their data flow: 
 
 ![The Rise of Data Engineer over the past two decades](../assets/markdown/The-rise-of-the-data-engineer.png)
 
