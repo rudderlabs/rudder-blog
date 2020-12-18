@@ -27,7 +27,7 @@ That rapid growth over the last 15-20 years, though, has created interesting dyn
 
 Here’s a visualization of their data flow: 
 
-![The Rise of Data Engineer](../assets/markdown/The rise of the data engineer.png)
+![The Rise of Data Engineer over the past two decades](../assets/markdown/The-rise-of-the-data-engineer.png)
 
 
 
