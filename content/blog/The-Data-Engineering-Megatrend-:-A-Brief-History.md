@@ -1,23 +1,13 @@
 ---
-
 title: "The Data Engineering Megatrend: A Brief History”
-
 date: 2020-12-03T00:00:00+05:30
-
 featureImg: ../assets/markdown/riseofdataengineer.blog.rs.png
-
 category: 
-
 Author: Eric Dodds
-
 authorPic: ../assets/author/Eric-Dodds.png
-
 authorPosition: 
-
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
-
 slug: "the-data-engineering-megatrend-a-brief-history"
-
 ---
 
 Earlier this year, Tomasz Tunguz[ gave a presentation](https://www.linkedin.com/pulse/five-important-trends-data-one-megatrend-powering-them-tomasz-tunguz/) on five trends in data and the "megatrend" that is powering them all. He makes the case (and we would agree) that the megatrend driving "changes in data design philosophy and tooling" is "the rise of the data engineer." This blog discusses the history of data engineering megatrend over the past 20 years.
