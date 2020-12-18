@@ -88,16 +88,14 @@ Non-IT teams faced a similar problem. Having point solutions was great for indiv
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image3.png "image_tooltip")
+![Data silos and independent functioning](../assets/markdown/Everyone-wanted-one.JPG)
  
 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.png "image_tooltip")
+![Data interdependency across various teams](../assets/markdown/Need-data-from-others.JPG)
 
 
 These pain points forced teams and entire businesses to wrestle through the decision between disconnected "best of breed" tooling for individual teams and software "suites" that centralized everything but was far less advanced (think Salesforce Marketing Cloud vs. Salesforce + Marketo). Both pathways created problems for IT/engineering. Best-of-breed tools created more silos, but enterprise suites played by their own database rules and weren't warehouse-friendly. 
