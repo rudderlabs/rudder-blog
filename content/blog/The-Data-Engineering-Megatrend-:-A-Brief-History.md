@@ -67,7 +67,7 @@ This boom in the software industry created the now-famous explosion of the "mar-
 
 
 
-![Data Engineering Mar-tech image](..assets/markdown/Mar-Tech.jpeg)
+![Data Engineering Mar-tech image](../assets/markdown/Mar-Tech.jpeg)
 
 **Mar-tech Landscape** - _click to open in a new tab_
 
