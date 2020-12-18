@@ -92,8 +92,6 @@ Non-IT teams faced a similar problem. Having point solutions was great for indiv
 ![Data silos and independent functioning](../assets/markdown/Everyone-wanted-one.JPG)
  
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![Data interdependency across various teams](../assets/markdown/Need-data-from-others.JPG)
 
