@@ -47,7 +47,9 @@ Another important precondition for successful event tracking is validating inges
 
 Unfortunately, only verifying a sample is not enough to capture all of the discrepancies in a production environment. Based on our customers’ feedback, we’ve built a solution that makes it easier to validate and track events consistently. 
 
-https://youtu.be/fs3Nkzm-NqY
+
+[![RudderStack Data Governance API Overview](https://img.youtu.be/fs3Nkzm-NqY.jpg)](https://youtu.be/fs3Nkzm-NqY "RudderStack Data Governance API Overview")
+
 
 
 ## **Understanding RudderStack Data Governance API**
