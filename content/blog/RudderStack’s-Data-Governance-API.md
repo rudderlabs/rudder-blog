@@ -130,7 +130,7 @@ Here’s a sample request to pull schema versions for the **Product Purchased** 
 The response, in this case, returns two schema versions. Note that the versions are numbered and include a **VersionID**, which can be useful for additional investigation, logging, and troubleshooting. 
 
 
-![The versions are numbered and include a VersionID, which can be useful for additional investigation, logging, and troubleshooting](/assets/markdown/Identifying-differences-in-schema-versions.png")
+![The versions are numbered and include a VersionID, which can be useful for additional investigation, logging, and troubleshooting](../assets/markdown/Identifying-differences-in-schema-versions.png")
 
 
 The first difference we notice between these events is that the more recent version of the event (**ID 48**) has an additional property called **sale_item**. Secondly, the more recent event has a much lower total count than the previous version. This suggests that someone updated instrumentation to include additional information about an item’s sale status on the product purchased event. 
