@@ -17,6 +17,7 @@ authorPosition:
 authorDescription: "Content Writer at RudderStack. Techie at heart and loves to stay up to date with tech happenings across the globe. Loves singing and composing songs."
 
 slug: "rudderstack-supports-segment-as-a-source-integration"
+---
 
 RudderStack proudly announces a great addition to our Source[ integrations](https://rudderstack.com/integration/)<span style="text-decoration:underline;"> </span>- Segment. Segment is a popular **Customer Data Platform (CDP)**.  Businesses use Segment to capture and send their customer event data to different destinations for further analytics.
 
