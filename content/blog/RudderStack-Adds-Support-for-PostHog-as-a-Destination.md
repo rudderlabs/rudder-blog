@@ -8,7 +8,7 @@ featureImg: ../assets/markdown/releasesupportposthog.blog.rs.png
 
 category: 
 
-author:  
+author:  Savia Lobo
 
 authorPic: ../assets/author/Savia-Lobo.png
 
