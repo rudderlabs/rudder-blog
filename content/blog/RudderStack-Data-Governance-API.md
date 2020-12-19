@@ -4,7 +4,7 @@ title: "RudderStack’s Data Governance API"
 
 date: 2020-12-10T00:00:00+05:30
 
-featureImg: ../assets/markdown/[datagovernanceapi.blog.rs.png](https://github.com/rudderlabs/rudder-blog/blob/main/content/assets/markdown/datagovernanceapi.blog.rs.png)
+featureImg: ../assets/markdown/datagovernanceapi.blog.rs.png
 
 category: 
 
