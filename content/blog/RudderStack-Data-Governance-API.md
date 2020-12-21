@@ -48,7 +48,7 @@ Another important precondition for successful event tracking is validating inges
 Unfortunately, only verifying a sample is not enough to capture all of the discrepancies in a production environment. Based on our customers’ feedback, we’ve built a solution that makes it easier to validate and track events consistently. 
 
 
-[![RudderStack Data Governance API Overview](https://img.youtu.be/fs3Nkzm-NqY.jpg)](https://youtu.be/fs3Nkzm-NqY "RudderStack Data Governance API Overview")
+(https://youtu.be/fs3Nkzm-NqY)
 
 
 
@@ -80,7 +80,7 @@ In our case, the following two event models are returned in the response.
 
 
 
-![Two event models are returned in the response](/assets/markdown/product_purchased.png)
+![Two event models are returned in the response](../assets/markdown/product_purchased.png)
 
 
 In the returned payloads, we notice that two distinct event models refer to the same event (product purchased). However, they have different **EventIdentifiers** (commonly referred to as the event name). 
@@ -132,7 +132,7 @@ Here’s a sample request to pull schema versions for the **Product Purchased** 
 The response, in this case, returns two schema versions. Note that the versions are numbered and include a **VersionID**, which can be useful for additional investigation, logging, and troubleshooting. 
 
 
-![The versions are numbered and include a VersionID, which can be useful for additional investigation, logging, and troubleshooting](../assets/markdown/Identifying-differences-in-schema-versions.png")
+![The versions are numbered and include a VersionID, which can be useful for additional investigation, logging, and troubleshooting](../assets/markdown/Identifying-differences-in-schema-versions.png)
 
 
 The first difference we notice between these events is that the more recent version of the event (**ID 48**) has an additional property called **sale_item**. Secondly, the more recent event has a much lower total count than the previous version. This suggests that someone updated instrumentation to include additional information about an item’s sale status on the product purchased event. 
