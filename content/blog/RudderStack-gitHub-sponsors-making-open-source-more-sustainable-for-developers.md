@@ -10,8 +10,6 @@ authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T.
 slug: "RudderStack-gitHub-sponsors-making-open-source-more-sustainable-for-developers"
 ---
 
-# RudderStack + GitHub Sponsors: Making Open Source More Sustainable for Developers
-
 We all use **Open Source Software (OSS)** all the time, even when we don’t know it. The backbone of the Internet is built on OSS. OSS makes standing on the shoulders of coding giants as easy as forking a repo, which just isn’t possible with closed source software. Yet a vast majority of developers that build and architect OSS, unless in the small, incredibly lucky minority of developers fully employed by a company or organization to do open source work, don’t get compensated for their work. We are working to change that.
 
 
