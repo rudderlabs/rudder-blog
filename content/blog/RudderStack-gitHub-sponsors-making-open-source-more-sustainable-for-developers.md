@@ -1,7 +1,7 @@
 ---
 title: "RudderStack + GitHub Sponsors: Making Open Source More Sustainable for Developers"
 date: 2020-12-21T00:00:00+05:30
-featureImg: ../assets/markdown/githubsponsors.png
+featureImg: ../assets/markdown/rudderstackgithubsponsors1.blog.rs.png
 category: 
 author: Gavin Johnson
 authorPic: ../assets/author/Gavin-Johnson.png
