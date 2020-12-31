@@ -3,10 +3,10 @@ title: "What is Data Control?"
 date: 2020-12-31T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstack-blog-data-control-data-privacy-data-access.jpg
 category: 
-author: Eric Dodds
-authorPic: ../assets/author/Eric-Dodds.png
+author: Soumyadeb Mitra
+authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
-authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
+authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "what-is-data-control"
 ---
 
