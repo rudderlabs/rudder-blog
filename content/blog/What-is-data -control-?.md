@@ -12,8 +12,6 @@ slug: "what-is-data-control"
 
 
 
-# What is Data Control?
-
 The concept of having “control over your customer data” has become a big topic in the last few years. We also covered it briefly in one of our [blogs](https://rudderstack.com/blog/rudderstack-it-is-time-to-take-back-control-of-your-data) in the past. Companies are increasingly discussing this often at the C-suite and board levels. 
 
 Entire companies have been built on the value proposition of data control. But what exactly does it mean to have control over your data?  
