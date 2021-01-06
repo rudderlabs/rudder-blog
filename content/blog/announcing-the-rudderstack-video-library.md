@@ -1,7 +1,7 @@
 ---
 title: "Announcing the RudderStack Video Library"
 date: 2020-12-31T00:00:00+05:30
-featureImg: ../assets/markdown/RudderStack-Video-Library.jpg
+featureImg: ../assets/markdown/rudderstackvideolibrary.jpg
 category: 
 author: Eric Dodds
 authorPic: ../assets/author/Eric-Dodds.png
