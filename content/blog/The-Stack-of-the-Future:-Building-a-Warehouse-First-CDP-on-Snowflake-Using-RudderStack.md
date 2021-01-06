@@ -32,7 +32,7 @@ A **warehouse-first** approach to your CDP places the _warehouse_ at the center 
 
 Traditionally, the primary function of a warehouse in your customer data stack was to serve as a container for storing information from various sources. In other words, you used warehouses as a repository of data, primarily for storage and analytics use cases. 
 
-Modern warehouses like Snowflake, though, have enabled teams to build interesting use cases far beyond data storage. For example, [Panther](https://runpanther.io/) enables you to use Snowflake as a robust security data lake. With [Tapad](https://www.tapad.com/), a cross-device advertising and content delivery platform, you can pipe your third-party data directly into Snowflake for enrichment. 
+Modern warehouses like Snowflake, though, have enabled teams to build interesting use cases far beyond data storage. For example, [Panther](https://runpanther.io/) enables you to use Snowflake as a robust security data lake. With [Tapad](https://www.tapad.com/), a cross-device advertising and content delivery platform, you can pipe your third-party data directly into Snowflake for enrichment. And [MessageGears](https://messagegears.com/products/integrations/snowflake/) is a customer marketing platform that runs on top of a brand’s Snowflake customer data environment, providing advanced customer data segmentation and activation capabilities.
 
 RudderStack makes comprehensive data collection and routing to Snowflake easy for your data engineers, and also enables them to send the same data to downstream teams and tools for activation. (And soon, RudderStack will turn Snowflake into a data _source_ for the rest of the stack…more on that below.) 
 
