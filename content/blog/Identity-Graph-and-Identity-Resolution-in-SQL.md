@@ -1,5 +1,6 @@
 ---
 title: "Identity Graph and Identity Resolution in SQL"
+siteMetadescription:
 date: 2020-05-13T00:00:00+05:30
 featureImg: ../assets/Identity-Resolution-750x355.jpg
 category: Engineering

@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Supports Data Warehouses: Amazon Redshift, Google BigQuery, and Snowflake"
+siteMetadescription:
 date: 2020-02-14T00:00:00+05:30
 featureImg: ../assets/mike-benson-_8bMP04RFio-unsplash-750x355.jpg
 category: Product Announcements

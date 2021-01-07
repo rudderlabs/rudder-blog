@@ -1,5 +1,6 @@
 ---
 title: "RudderStack + GitHub Sponsors: Making Open Source More Sustainable for Developers"
+siteMetadescription:
 date: 2020-12-21T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstackgithubsponsors1.blog.rs.png
 category: 

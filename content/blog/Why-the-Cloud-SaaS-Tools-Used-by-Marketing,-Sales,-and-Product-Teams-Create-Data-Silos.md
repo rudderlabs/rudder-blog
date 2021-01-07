@@ -1,5 +1,6 @@
 ---
 title: "Why the Cloud SaaS Tools Used by Marketing, Sales, and Product Teams Create Data Silos"
+siteMetadescription:
 date: 2020-10-08T00:00:00+05:30
 featureImg: ../assets/2rs.blog_-750x355.png
 category: Thoughts & Opinions

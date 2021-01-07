@@ -1,6 +1,7 @@
 ---
 
 title: "RudderStack Adds Support for PostHog as a Destination"
+siteMetadescription:
 
 date: 2020-12-01T00:00:00+05:30
 

@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for A/B Testing Platform: VWO (Beta)"
+siteMetadescription:
 date: 2020-01-27T00:00:00+05:30
 featureImg: ../assets/Support-VMO-750x355.jpg
 category: Product Announcements

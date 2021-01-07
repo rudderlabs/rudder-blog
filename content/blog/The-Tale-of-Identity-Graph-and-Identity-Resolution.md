@@ -1,5 +1,6 @@
 ---
 title: "The Tale of Identity Graph and Identity Resolution"
+siteMetadescription:
 date: 2020-05-05T00:00:00+05:30
 featureImg: ../assets/rupixen-com-Q59HmzK38eQ-unsplash-750x355.jpg
 category: Engineering

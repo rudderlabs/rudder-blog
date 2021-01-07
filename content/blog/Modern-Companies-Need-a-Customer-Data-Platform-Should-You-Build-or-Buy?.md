@@ -1,5 +1,6 @@
 ---
 title: "Modern Companies Need a Customer Data Platform. Should You Build or Buy?"
+siteMetadescription:
 date: 2020-11-20T00:00:00+05:30
 featureImg: ../assets/buildvsbuy.blog_.rs_-750x355.png
 category: 

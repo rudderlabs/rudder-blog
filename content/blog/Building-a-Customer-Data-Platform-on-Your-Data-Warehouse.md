@@ -1,5 +1,6 @@
 ---
 title: "Building a Customer Data Platform on Your Data Warehouse"
+siteMetadescription:
 date: 2020-02-26T00:00:00+05:30
 featureImg: ../assets/bekir-donmez-eofm5R5f9Kw-unsplash-750x355.jpg
 category: Thoughts & Opinions

@@ -1,5 +1,6 @@
 ---
 title: "Clickstream Analytics: A Gamechanger for eCommerce"
+siteMetadescription:
 date: 2019-12-26T00:00:00+05:30
 featureImg: ../assets/9rs.blog_-750x355.png
 category: Thoughts & Opinions

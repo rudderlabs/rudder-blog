@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Mobile Attribution Platforms: Kochava, Branch, Adjust, and AppsFlyer"
+siteMetadescription:
 date: 2020-02-03T00:00:00+05:30
 featureImg: ../assets/Group-750x355.jpg
 category: Product Announcements

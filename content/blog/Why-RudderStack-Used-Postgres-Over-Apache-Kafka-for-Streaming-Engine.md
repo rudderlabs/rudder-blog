@@ -1,5 +1,6 @@
 ---
 title: "Why RudderStack Used Postgres Over Apache Kafka for Streaming Engine"
+siteMetadescription:
 date: 2020-09-08T00:00:00+05:30
 featureImg: ../assets/4.blog_.rs1_-750x355.png
 category: Engineering

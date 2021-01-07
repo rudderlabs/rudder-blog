@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Business Messaging Platform: Intercom"
+siteMetadescription:
 date: 2019-11-01T00:00:00+05:30
 featureImg: ../assets/messaging-750x355.jpg
 category: Product Announcements

@@ -1,5 +1,6 @@
 ---
 title: "The Stack of the Future: Building a Warehouse-First CDP on Snowflake Using RudderStack"
+siteMetadescription:
 date: 2020-11-04T00:00:00+05:30
 featureImg: ../assets/integration5.blog_.rs_.png
 category: 

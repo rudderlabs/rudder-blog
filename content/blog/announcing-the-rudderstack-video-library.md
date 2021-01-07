@@ -1,5 +1,6 @@
 ---
 title: "Announcing the RudderStack Video Library"
+siteMetadescription:
 date: 2020-12-31T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstackvideolibrary.jpg
 category: 

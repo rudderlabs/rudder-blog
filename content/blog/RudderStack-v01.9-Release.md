@@ -1,5 +1,6 @@
 ---
 title: "RudderStack v0.1.9 Release"
+siteMetadescription:
 date: 2020-05-06T00:00:00+05:30
 featureImg: ../assets/Release-Notes-750x355.jpg
 category: Product Announcements

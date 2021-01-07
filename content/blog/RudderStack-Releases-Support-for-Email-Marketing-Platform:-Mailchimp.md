@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Email Marketing Platform: Mailchimp"
+siteMetadescription:
 date: 2019-11-25T00:00:00+05:30
 featureImg: ../assets/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash-750x355.jpg
 category: Product Announcements

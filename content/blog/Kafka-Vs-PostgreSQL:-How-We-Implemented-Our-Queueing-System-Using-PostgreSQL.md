@@ -1,5 +1,6 @@
 ---
 title: "Kafka Vs. PostgreSQL: How We Implemented Our Queueing System Using PostgreSQL"
+siteMetadescription:
 date: 2020-09-23T00:00:00+05:30
 featureImg: ../assets/5.blog_.rs_-750x355.png
 category: Engineering

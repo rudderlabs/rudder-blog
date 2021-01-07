@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Content Analytics Platform: Chartbeat"
+siteMetadescription:
 date: 2019-12-20T00:00:00+05:30
 featureImg: ../assets/thibault-carron-sGj7PE3z-h8-unsplash-750x355.jpg
 category: Product Announcements

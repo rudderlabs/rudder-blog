@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Website Recording Platforms: FullStory and Hotjar"
+siteMetadescription:
 date: 2020-02-03T00:00:00+05:30
 featureImg: ../assets/Support-2-750x355.jpg
 category: Product Announcements

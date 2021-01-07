@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Advertising Platform: Google Ads"
+siteMetadescription:
 date: 2019-11-12T00:00:00+05:30
 featureImg: ../assets/Bigquery-1-750x355.jpg
 category: Product Announcements
