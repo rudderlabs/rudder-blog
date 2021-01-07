@@ -1,5 +1,6 @@
 ---
 title: "How to Access and Query Your Google BigQuery Data Using Python and R"
+siteMetadescription:
 date: 2020-08-04T00:00:00+05:30
 featureImg: ../assets/8rs.blog_-750x355.png
 category: Tutorials

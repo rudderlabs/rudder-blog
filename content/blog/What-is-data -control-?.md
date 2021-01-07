@@ -1,5 +1,6 @@
 ---
 title: "What is Data Control?"
+siteMetadescription:
 date: 2020-12-31T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstack-blog-data-control-data-privacy-data-access.jpg
 category: 

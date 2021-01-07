@@ -1,5 +1,6 @@
 ---
 title: "Why Event-based or MTU-based Pricing is Broken"
+siteMetadescription:
 date: 2020-06-24T00:00:00+05:30
 featureImg: ../assets/11rs.blog_-750x355.png
 category: Thoughts & Opinions

@@ -1,5 +1,6 @@
 ---
 title: "Using SQLite on Unity for Android and iOS"
+siteMetadescription:
 date: 2020-03-10T00:00:00+05:30
 featureImg: ../assets/erik-mclean-C3T8KTZxTFM-unsplash1-750x355.jpg
 category: Tutorials

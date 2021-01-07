@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Supports Event Streaming Platform: Apache Kafka"
+siteMetadescription:
 date: 2020-11-02T00:00:00+05:30
 featureImg: ../assets/integration3.blog_.rs_.png
 category: Product Announcements

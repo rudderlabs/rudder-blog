@@ -1,5 +1,6 @@
 ---
 title: "Game Analytics for Mobile: Casino Game Case Study"
+siteMetadescription:
 date: 2020-03-26T00:00:00+05:30
 featureImg: ../assets/106290165-750x355.jpg
 category: Case Studies

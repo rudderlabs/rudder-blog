@@ -1,5 +1,6 @@
 ---
 title: "Introducing RudderStack"
+siteMetadescription:
 date: 2019-08-30T00:00:00+05:30
 featureImg: ../assets/steer-data-bg-750x355.jpg
 category: Product Announcements

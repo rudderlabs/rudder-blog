@@ -1,5 +1,6 @@
 ---
 title: "How to Access and Query Your Amazon Redshift Data Using Python and R"
+siteMetadescription:
 date: 2020-08-10T00:00:00+05:30
 featureImg: ../assets/7.blog_.rs_-1-750x355.png
 category: Tutorials

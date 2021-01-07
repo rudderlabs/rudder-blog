@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Supports Segment as a Source Integration"
+siteMetadescription:
 date: 2020-12-09T00:00:00+05:30
 featureImg: ../assets/markdown/releasesupportsegment.blog.rs.png
 category: 

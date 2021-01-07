@@ -1,5 +1,6 @@
 ---
 title: "Simplifying Event Filtering and Value Aggregation with RudderStack"
+siteMetadescription:
 date: 2020-05-20T00:00:00+05:30
 featureImg: ../assets/15.blog_.rs_-750x355.png
 category: Engineering

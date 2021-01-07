@@ -15,11 +15,12 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const siteUrl = data.site.siteMetadata?.siteUrl || ``
   const currentUrl = siteUrl + location.pathname;
+  const siteDescription = post.frontmatter?.siteMetadescription || post.excerpt;
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
-        description={post.excerpt}
+        description={siteDescription}
         meta={[{
           property: `og:type`,
           content: 'article',
@@ -178,6 +179,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        siteMetadescription
         category
         author
         authorDescription

@@ -1,5 +1,6 @@
 ---
 title: "Introducing RudderStack Transformations"
+siteMetadescription:
 date: 2020-04-22T00:00:00+05:30
 featureImg: ../assets/Transformations-750x355.jpg
 category: Product Announcements

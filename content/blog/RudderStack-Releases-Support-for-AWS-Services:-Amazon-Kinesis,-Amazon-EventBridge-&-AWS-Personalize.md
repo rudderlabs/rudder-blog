@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for AWS Services: Amazon Kinesis, Amazon EventBridge & AWS Personalize"
+siteMetadescription:
 date: 2020-11-05T00:00:00+05:30
 featureImg: ../assets/integration2.blog_.rs_.png
 category: Product Announcements

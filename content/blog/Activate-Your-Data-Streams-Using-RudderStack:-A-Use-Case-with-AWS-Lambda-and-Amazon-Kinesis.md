@@ -1,5 +1,6 @@
 ---
 title: "Activate Your Data Streams Using RudderStack: A Use-Case with AWS Lambda and Amazon Kinesis"
+siteMetadescription:
 date: 2020-05-19T00:00:00+05:30
 featureImg: ../assets/17.blog_.rs_.png
 category: Case Studies

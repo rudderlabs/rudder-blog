@@ -1,5 +1,6 @@
 ---
 title: "The Data Engineering Megatrend: A Brief History"
+siteMetadescription:
 date: 2020-12-03T00:00:00+05:30
 featureImg: ../assets/markdown/riseofdataengineer.blog.rs.png
 category: 

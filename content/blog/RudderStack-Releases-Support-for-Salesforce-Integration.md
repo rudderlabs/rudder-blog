@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Salesforce Integration"
+siteMetadescription:
 date: 2020-02-09T00:00:00+05:30
 featureImg: ../assets/bill-oxford-fGqsewtsJY-unsplash-750x355.jpg
 category: Product Announcements
