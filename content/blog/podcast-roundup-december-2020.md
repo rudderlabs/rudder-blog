@@ -27,7 +27,7 @@ Our December playlist included a follow-up episode with [Earnnest](https://earnn
 Check out the highlights below and subscribe to get new episodes every week. 
 
 
-## **Applying the Event Sourcing Pattern at Scale with Andrew Elster from Earnnest **
+## Applying the Event Sourcing Pattern at Scale with Andrew Elster from Earnnest
 
 This talk with Andrew Elster is part two of a previous episode with [Earnnest](https://earnnest.com/), a digital platform originally designed for facilitating real estate transactions. 
 
@@ -35,10 +35,6 @@ Andrew shared how their current focus is abstracting the functionality of the pl
 
 We also learned about the benefits of the Elixr/Phoenix framework used by Andrew and his team. It’s not incredibly common to see startups like Earnnest built on Elixr, but we learned about several of the advantages Andrew has discovered as he’s built out their event sourcing platform and prepared for scale. 
 
- \
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![Earnnest Podcast Quote](../assets/markdown/earnnestpodcast.jpg)
@@ -47,7 +43,7 @@ We also learned about the benefits of the Elixr/Phoenix framework used by Andrew
 _Listen to this [episode](https://datastackshow.com/podcast/16-applying-the-event-sourcing-pattern-at-scale-with-andrew-elster-from-earnnest/)_.
 
 
-## **Working with Data at Netflix with Ioannis Papapanagiotou**
+## Working with Data at Netflix with Ioannis Papapanagiotou
 
 Netflix is renowned for their innovation in engineering and Eric and Kostas had the privilege of talking with Ioannis Papapanagiotou, a former senior engineering manager at Netflix. Ioannis dives into his work with the data integration and data storage needs and how they have evolved over the past few years. 
 
@@ -61,8 +57,6 @@ Another interesting point Iaonnis shared is how Netflix is implementing **Change
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![Netflix Podcast Quote](../assets/markdown/netflixpodcast.jpg)
 
@@ -70,7 +64,7 @@ Another interesting point Iaonnis shared is how Netflix is implementing **Change
 Listen to the full [episode](https://datastackshow.com/podcast/17-working-with-data-at-netflix-with-ioannis-papanagiotou/). 
 
 
-## **Data Science in Health Insurance with Jason Haupt of Bind**
+## Data Science in Health Insurance with Jason Haupt of Bind
 
 Because he’s a data scientist by day, you might not know that Jason Haupt is also a Ph.D. in particle physics. Eric and Kostas get a fascinating look into his path from the world of physics, working at the Large Hadron Collider at CERN, to the world of healthcare, leading data science at Bind. Jason talks about what Bind is, what it does, and their cloud-native approach to managing data using AWS services. 
 
@@ -80,8 +74,6 @@ Jason also dug into the relationship between his data science team and the marke
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![Bind Podcast Quote](../assets/markdown/bindpodcast.jpg)
 
@@ -89,7 +81,7 @@ Jason also dug into the relationship between his data science team and the marke
 Listen to the full [episode](https://datastackshow.com/podcast/18-data-science-in-health-insurance-with-jason-haupt-of-bind/).
 
 
-## **Explore More Podcast Episodes and Subscribe**
+## Explore More Podcast Episodes and Subscribe
 
 We publish new episodes every week and we have a great lineup of guests this spring. Listen to more episodes and subscribe to[ The Data Stack Show website](https://datastackshow.com/).
 
