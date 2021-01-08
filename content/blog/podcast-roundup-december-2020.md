@@ -1,7 +1,7 @@
 ---
 title: "Podcast RoundUp - December 2020"
 siteMetadescription: The Data Stack Show podcasts from NetFlix, Earnnest, and Bind with RudderStack team.
-date: 2021-07-23T00:00:00+05:30
+date: 2021-01-07T00:00:00+05:30
 featureImg: ../assets/markdown/decemberpodcastroundup.png
 category: 
 author: Savia Lobo
