@@ -3,6 +3,8 @@
 
 ## RudderStack Blog
 
+The RudderStack blog is now open-source. 
+
 This repository contains the relevant code and markdown source files for [rudderstack.com/blog](https://rudderstack.com/blog/).
 
 ## Contribute
