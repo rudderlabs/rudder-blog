@@ -9,7 +9,9 @@ This repository contains the relevant code and markdown source files for [rudder
 
 ## Contribute
 
-We would love to see you contribute to the RudderStack blog, and make it accessible to all the developers coming from different backgrounds. This is why we’re open to contributions in two ways:
+We would love to see you contribute to the RudderStack blog. That's why we've made it accessible to all the developers coming from different backgrounds. 
+
+We’re open to contributions in two ways:
 
 - Open an **issue**:  If you see an article on [rudderstack.com/blog](https://rudderstack.com/blog) that could use an update, you can open an issue [here](https://github.com/rudderlabs/rudder-blog/issues)
 - Open a **pull request**:  You can also raise a pull request with your contribution
