@@ -1,6 +1,6 @@
 ---
 title: "Simplifying Event Filtering and Value Aggregation with RudderStack"
-siteMetadescription:
+siteMetadescription: RudderStack endorses its sophisticated mechanism solution to Simplifying Event Filtering and Value Aggregation outwardly introducing any standard mistakes.
 date: 2020-05-20T00:00:00+05:30
 featureImg: ../assets/15.blog_.rs_-750x355.png
 category: Engineering

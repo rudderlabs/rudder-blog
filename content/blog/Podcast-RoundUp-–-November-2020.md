@@ -1,6 +1,6 @@
 ---
 title: "Podcast RoundUp – November 2020"
-siteMetadescription:
+siteMetadescription:Rudderstack brings you Podcast RoundUp. Highlighting the topics such as building open-source projects at scale & Digitizing amounts in the real-estate area
 date: 2020-11-26T00:00:00+05:30
 featureImg: ../assets/markdown/november-podcast-roundup.jpg
 category: 

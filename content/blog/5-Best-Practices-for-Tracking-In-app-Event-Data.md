@@ -1,6 +1,6 @@
 ---
 title: "5 Best Practices for Tracking In-app Event Data"
-siteMetadescription:aa
+siteMetadescription:
 date: 2020-01-29T00:00:00+05:30
 featureImg: ../assets/digital-dream-3-1456674-750x355.jpg
 category: Tutorials

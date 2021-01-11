@@ -1,7 +1,7 @@
 ---
 
 title: "RudderStack Adds Support for PostHog as a Destination"
-siteMetadescription:
+siteMetadescription:Rudderstack now supports an open-source self-hosted product analytics platform PostHog as a destination. Now with one-click deployment set up your own base.
 
 date: 2020-12-01T00:00:00+05:30
 

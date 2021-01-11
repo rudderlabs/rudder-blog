@@ -1,6 +1,6 @@
 ---
 title: "1mg’s Data Stack Explained: How They Harness and Activate Unlimited, Real-time Data"
-siteMetadescription:aa
+siteMetadescription: RudderStack breaks down 1mg’s data stack which allows harness unlimited data securely. Also explains the tools they use to activate this data for analytics.
 date: 2020-09-23T00:00:00+05:30
 featureImg: ../assets/3.blog_.rs_-750x355.png
 category: Case Studies

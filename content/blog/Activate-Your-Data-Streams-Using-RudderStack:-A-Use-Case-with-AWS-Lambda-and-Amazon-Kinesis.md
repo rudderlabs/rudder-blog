@@ -1,6 +1,6 @@
 ---
 title: "Activate Your Data Streams Using RudderStack: A Use-Case with AWS Lambda and Amazon Kinesis"
-siteMetadescription:
+siteMetadescription: RudderStack approaches the routing data using Amazon Kinesis and AWS Lambda Functions.So that one can easily activate the Data Streams by using Rudderstack
 date: 2020-05-19T00:00:00+05:30
 featureImg: ../assets/17.blog_.rs_.png
 category: Case Studies

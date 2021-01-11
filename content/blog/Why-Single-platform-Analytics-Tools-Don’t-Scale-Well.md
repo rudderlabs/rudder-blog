@@ -1,6 +1,6 @@
 ---
 title: "Why Single-platform Analytics Tools Don’t Scale Well"
-siteMetadescription:
+siteMetadescription: Why Single Platform analytics tools do not scale well? RuddertStack responds based on setups and power of insights causing future problems at the early stage.
 date: 2020-07-02T00:00:00+05:30
 featureImg: ../assets/10.blog_.rs_-750x355.png
 category: Thoughts & Opinions

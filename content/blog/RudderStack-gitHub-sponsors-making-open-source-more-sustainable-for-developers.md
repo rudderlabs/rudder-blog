@@ -1,6 +1,6 @@
 ---
 title: "RudderStack + GitHub Sponsors: Making Open Source More Sustainable for Developers"
-siteMetadescription:
+siteMetadescription:Partnered with GitHub Rudderstack is making the OS more sustainable for developers. This helps the developers to compensate at better channels & supports OS.
 date: 2020-12-21T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstackgithubsponsors1.blog.rs.png
 category: 

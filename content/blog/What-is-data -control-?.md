@@ -1,6 +1,6 @@
 ---
 title: "What is Data Control?"
-siteMetadescription:
+siteMetadescription:  The RudderStack offers vital information on Data control. They explain having authority over data. Along with the access aperture & security+privacy control.
 date: 2020-12-31T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstack-blog-data-control-data-privacy-data-access.jpg
 category: 

@@ -1,7 +1,7 @@
 ---
 
 title: "RudderStack’s Data Governance API"
-siteMetadescription:
+siteMetadescription:RudderStack Data Governance API is a process of investigating data inconsistency. They give access to events like versions of payload schema & data types.
 
 date: 2020-12-10T00:00:00+05:30
 

@@ -1,6 +1,6 @@
 ---
 title: "Game Analytics for Mobile: Casino Game Case Study"
-siteMetadescription:
+siteMetadescription: RudderStack now explains to optimize mobile game analytics and presents a complete guide for the amazing casino game & how Wynn Casino Game used RudderStack.
 date: 2020-03-26T00:00:00+05:30
 featureImg: ../assets/106290165-750x355.jpg
 category: Case Studies
