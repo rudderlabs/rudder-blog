@@ -36,8 +36,6 @@ We look forward to your feedback on improving this project.
 
 <!----variable's---->
 
-\*\* Update variable links. \*\*
-
 [slack]: https://resources.rudderstack.com/join-rudderstack-slack
 [issue]: https://github.com/rudderlabs/rudder-repo-template/issues/new
 [CLA]: https://rudderlabs.wufoo.com/forms/rudderlabs-contributor-license-agreement
