@@ -3,24 +3,25 @@
 
 ## RudderStack Blog
 
-The RudderStack blog is now open-source. 
+The RudderStack blog is open-source. We share the best knowledge and experience we have gained about customer data in all its shapes and forms (e.g. customer data platforms, customer data infrastructure, event streaming, analytics, etc.). 
 
-This repository contains the relevant code and markdown source files for [rudderstack.com/blog](https://rudderstack.com/blog/).
+This repository contains the relevant code and markdown source files for [rudderstack.com/blog](https://rudderstack.com/blog/). 
 
 ## Contribute
 
-We would love to see you contribute to the RudderStack blog. That's why we've made it accessible to all the developers coming from different backgrounds. 
+The RudderStack blog is open to contribution. If you have a post that you have written or would like to write about customer data, even if it isn't RudderStack-specific, we would love to have you contribute it to the RudderStack blog. 
 
-We’re open to contributions in two ways:
+We’re open to contributions in two ways: 
+- Open an **issue**:  If you have an idea for a post you'd like to contribute, open an issue with your idea [here](https://github.com/rudderlabs/rudder-blog/issues). That way we can review and give feedback before you spend time and effort writing. Additionally, if you see a post on [rudderstack.com/blog](https://rudderstack.com/blog) that could use an update, you can open an issue. 
+- Open a **pull request**:  If you have already written a post that you'd like to contribute, you can raise a pull request with your contribution. 
 
-- Open an **issue**:  If you see an article on [rudderstack.com/blog](https://rudderstack.com/blog) that could use an update, you can open an issue [here](https://github.com/rudderlabs/rudder-blog/issues)
-- Open a **pull request**:  You can also raise a pull request with your contribution
+Every contribution will be reviewed, but not every contribution is guaranteed to be published. If the post is relevant and written well, we will review, give feedback, and publish. 
 
-Get more information on how to contribute [here](CONTRIBUTING.md).
+Get more information on how to contribute [here](CONTRIBUTING.md). 
 
 ## License
 
-The RudderStack blog is released under the [AGPLv3 License][agplv3_license].
+The RudderStack blog is released under the [AGPLv3 License][agplv3_license]. 
 
 ## Follow Us
 
@@ -37,8 +38,8 @@ The RudderStack blog is released under the [AGPLv3 License][agplv3_license].
 
 ## :clap:  Our Supporters
 
-[![Stargazers repo roster for @rudderlabs/rudder-server](https://reporoster.com/stars/rudderlabs/rudder-server)](https://github.com/rudderlabs/rudder-server/stargazers)
-[![Forkers repo roster for @rudderlabs/rudder-server](https://reporoster.com/forks/rudderlabs/rudder-server)](https://github.com/rudderlabs/rudder-server/network/members)
+[![Stargazers repo roster for @rudderlabs/rudder-server](https://reporoster.com/stars/rudderlabs/rudder-blog)](https://github.com/rudderlabs/rudder-blog/stargazers)
+[![Forkers repo roster for @rudderlabs/rudder-server](https://reporoster.com/forks/rudderlabs/rudder-blog)](https://github.com/rudderlabs/rudder-blog/network/members)
 
 <!----variables---->
 
