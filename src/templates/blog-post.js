@@ -12,6 +12,7 @@ import { Link } from "gatsby"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
+  const metatitle = post.frontmatter?.siteMetatitle || post.frontmatter.title
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const siteUrl = data.site.siteMetadata?.siteUrl || ``
   const currentUrl = siteUrl + location.pathname;
@@ -19,7 +20,7 @@ const BlogPostTemplate = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
-        title={post.frontmatter.title}
+        title={metatitle}
         description={siteDescription}
         meta={[{
           property: `og:type`,
@@ -179,6 +180,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        siteMetatitle
         siteMetadescription
         category
         author
