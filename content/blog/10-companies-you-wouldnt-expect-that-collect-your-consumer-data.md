@@ -1,6 +1,7 @@
 ---
 title: "Ten Companies You Wouldn't Expect That Collect Consumer Data"
-siteMetadescription: "This blog exposes 10 companies that collect consumer data but do not appear to collect data."
+siteMetadescription: "This blog exposes ten companies that collect consumer data but do not appear to collect data."
+date: 2021-01-13T00:00:00+05:30
 featureImg: ../assets/10companieswhocollectyourdata.blog.rs.png
 category: 
 author: Soumyadeb Mitra
