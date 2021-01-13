@@ -1,7 +1,7 @@
 ---
 title: "1mg’s Data Stack Explained: How They Harness and Activate Unlimited, Real-time Data"
 siteMetadescription:
-siteMetatitle:
+siteMetaTitle:
 date: 2020-09-23T00:00:00+05:30
 featureImg: ../assets/3.blog_.rs_-750x355.png
 category: Case Studies
