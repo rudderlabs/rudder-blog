@@ -117,6 +117,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       authorDescription: String
       authorPosition: String
       slug: String
+      siteMetaTitle: String
       siteMetadescription: String
     }
 
