@@ -22,11 +22,13 @@ _“Contributors don’t give to the cause. They are a part of it.”_
 RudderStack is an open-source customer data pipeline tool for developers. Being open source is a tag we wear with pride, so much so that we recently partnered with GitHub for [GitHub Sponsors for Companies](https://github.com/sponsors). We value the developer community that works hard to build and support open source projects. In a recent [blog](https://rudderstack.com/blog/RudderStack-gitHub-sponsors-making-open-source-more-sustainable-for-developers), we explained why RudderStack directly compensates developers for their contributions to our project. This post discusses why and how we open-sourced our content and took the next step in our open source journey.
 
 
+
 ## Why we Open Sourced our Blog and Docs
 
 Said simply, bringing more voices to the table increases our content’s quality and value, both in thought leadership and our technical documentation. 
 
 We want developers to share their ideas, thoughts, and findings while working with RudderStack, customer data, and data in general. We want to learn about the data stacks you are building, problems you are solving, and solutions you are creating. Blogs, tutorials, and even case studies are great ways to share that knowledge.  In short, we want you to contribute!
+
 
 
 ## Our Previous Blog Infrastructure
@@ -38,9 +40,11 @@ From a site performance and version-control standpoint, though, it’s less stra
 All-in-all, building an open-source, version-controlled blog that enables developers to create content and submit it via pull requests easily is a cumbersome and tricky process on WordPress.
 
 
+
 ## Open Source Frameworks Options for our Blog
 
 When we decided to open-source our blog and docs, we were spoilt for choices. Today there are multiple well-supported and fully-featured frameworks for open-source content creation. Some of the options that we considered were  [Ghost](https://ghost.org/features/), [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/), [Nanoc](https://nanoc.ws/), and [Gatsby](https://www.gatsbyjs.com/). There are even more frameworks beyond these,  and each tool has its pros and cons. Which one do we recommend? Well, we don’t. The best tool for you is the one that fulfills your requirements.
+
 
 
 ## Why we Picked Gatsby
@@ -60,9 +64,11 @@ Here’s why we chose it:
 *   A vast modern web development community contributes to it.
 
 
+
 ## Wait, What About the Docs?
 
 Our docs still run on Gitbook but are now open-sourced so that others can contribute. We are currently exploring other open-source frameworks like Slate that will give us more flexibility and better telemetry. We will write another post when we make a decision and complete the migration. 
+
 
 
 ## We are Open Source now!
@@ -70,6 +76,7 @@ Our docs still run on Gitbook but are now open-sourced so that others can contri
 So, the RudderStack Blog and Docs are now open source. We’re excited about contributions from the RudderStack community and beyond. 
 
 In fact, developers have already started contributing to our documentation. Recently, [Benedikt](https://github.com/benedikt) from the [Userlist](https://userlist.com/) team created the [docs for the Userlist destination](https://docs.rudderstack.com/destinations/userlist) for RudderStack (see the pull request [here](https://github.com/rudderlabs/rudderstack-docs/pull/12)). They also built the Userlist integration, submitted a pull request, and it is now live on our platform!  This is the beauty of open source!
+
 
 
 ## How to Contribute
