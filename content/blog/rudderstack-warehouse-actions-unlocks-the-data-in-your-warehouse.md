@@ -201,7 +201,7 @@ Pachyderm Uses Warehouse Actions to Automate Their Onboarding E-mails
 
 
 
-![Pachyderm Stack - Warehouse Actions](https://github.com/rudderlabs/rudder-blog/blob/main/content/assets/markdown/Pachyderm_stack.jpg)
+![Pachyderm Stack - Warehouse Actions](../assets/markdown/Pachyderm_stack.jpg)
 
 
 
