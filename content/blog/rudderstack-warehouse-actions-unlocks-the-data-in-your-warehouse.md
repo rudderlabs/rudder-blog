@@ -5,7 +5,7 @@ siteMetadescription: "Launching Warehouse Actions - enables you to leverage proc
 
 date: 2021-01-26T00:00:00+05:30
 
-featureImg: ../assets/markdown/WarehouseActions.png
+featureImg: ../assets/markdown/warehouseasasourcelaunch.blog.rs.png
 
 category:
 
