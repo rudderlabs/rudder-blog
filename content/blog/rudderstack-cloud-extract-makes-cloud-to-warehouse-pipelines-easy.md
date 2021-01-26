@@ -40,7 +40,7 @@ The raw datasets from Cloud Extract can be routed to supported data warehouses (
 
 
 
-![Clooud Extract Architecture](../assets/markdown/rudderstack-cloud-extract-architecture.png)
+![Cloud Extract Architecture](../assets/markdown/rudderstack-cloud-extract-architecture.png)
 
 
 
