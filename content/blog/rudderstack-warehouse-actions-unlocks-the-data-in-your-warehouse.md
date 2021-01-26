@@ -45,7 +45,7 @@ Warehouse Actions makes feeding customer insights into your customer data pipeli
 ## How Warehouse Actions Works 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseActions.png)
+![Warehouse Actions]/assets/markdown/rudderstack-warehouse-actions-architecture.png
 
 
 RudderStack makes it easy to collect data from different sources, event and non-event, and securely ingest them into your warehouse. Once data is successfully ingested, your teams can then apply advanced queries or models to generate valuable data composites (either tables or views) that are frequently materialized (aka written) as their tables and stored in your data warehouse. For example, [dbt](https://www.getdbt.com/) can be used to transform data within your warehouses by simply writing select statements. dbt turns these select statements into tables and views.
