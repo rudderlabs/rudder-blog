@@ -40,7 +40,7 @@ The raw datasets from Cloud Extract can be routed to supported data warehouses (
 
 
 
-![Clooud Extract](../assets/markdown/rudderstack-cloud-extract-architecture.png)
+![Clooud Extract Architecture](../assets/markdown/rudderstack-cloud-extract-architecture.png)
 
 
 
@@ -66,7 +66,7 @@ Let’s use a real world example to walk through setup. We will set up Salesforc
 
 
 
-![Clooud Extract](../assets/markdown/Cloud2.png)
+![Picking Sources](../assets/markdown/Cloud2.png)
 
 
 
@@ -76,7 +76,7 @@ Let’s use a real world example to walk through setup. We will set up Salesforc
 
 
 
-![Clooud Extract](../assets/markdown/Cloud3.png)
+![Naming the Source](../assets/markdown/Cloud3.png)
 
 
 
@@ -84,7 +84,7 @@ Let’s use a real world example to walk through setup. We will set up Salesforc
 
 
 
-![Clooud Extract](../assets/markdown/Cloud4.png)
+![Authenticating the Salesforce Account](../assets/markdown/Cloud4.png)
 
 
 ```
@@ -98,7 +98,7 @@ Note: If you have already logged into your Salesforce account previously, clicki
 
 
 
-![Clooud Extract](../assets/markdown/Cloud5.png)
+![Deciding Run Frequency](../assets/markdown/Cloud5.png)
 **
 
 
@@ -107,7 +107,7 @@ Note: If you have already logged into your Salesforce account previously, clicki
 
 
 
-![Clooud Extract](../assets/markdown/Cloud6.png)
+![Choosing the Data](../assets/markdown/Cloud6.png)
 
 You have successfully configured Salesforce as a source in your RudderStack pipeline. RudderStack will start ingesting data at the specified frequency. 
 
@@ -117,13 +117,13 @@ You have successfully configured Salesforce as a source in your RudderStack pipe
 
 
 
-![Clooud Extract](../assets/markdown/Cloud7.png)
+![Connecting to the Warehouse](../assets/markdown/Cloud7.png)
 
 In this example, we will be importing the Lead data into Snowflake. Before setting up Snowflake as a destination, we need to create a database and a warehouse in Snowflake. We have also created an S3 bucket which acts as a staging area for the data flowing into Snowflake.
 
 
 
-![Clooud Extract](../assets/markdown/Cloud8.png)
+![Importing Lead Data](../assets/markdown/Cloud8.png)
 
 
 
@@ -133,12 +133,12 @@ In this example, we will be importing the Lead data into Snowflake. Before setti
 
 
 
-![Clooud Extract](../assets/markdown/Cloud9.png)
+![Naming Destinations](../assets/markdown/Cloud9.png)
 
 
 
 
-![Clooud Extract](../assets/markdown/Cloud10.png)
+![Cloud Extract](../assets/markdown/Cloud10.png)
 
 
 
@@ -147,21 +147,21 @@ In this example, we will be importing the Lead data into Snowflake. Before setti
 
 
 
-![Clooud Extract](../assets/markdown/Cloud11.png)
+![Adding a Transformation](../assets/markdown/Cloud11.png)
 
 That’s it! You have successfully added Snowflake as a destination for your Salesforce source. Your data will sync according to the schedule you defined. You can also trigger a sync manually by clicking on **Sync Now**.
 
 
 
 
-![Clooud Extract](../assets/markdown/Cloud12.png)
+![CSyncing](../assets/markdown/Cloud12.png)
 
 Once the sync is completed, you can go to your Snowflake Dashboard to verify that the new **Lead** table is present and  has been populated with data from the Salesforce:  
 
 
 
 
-![Clooud Extract](../assets/markdown/Cloud13.png)
+![Snowflake Dashboard](../assets/markdown/Cloud13.png)
 
 
 To explore the different Cloud Extract Sources and to know more details, visit our [documentation](https://docs.rudderstack.com/sources).
