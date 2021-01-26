@@ -45,7 +45,7 @@ Warehouse Actions makes feeding customer insights into your customer data pipeli
 ## How Warehouse Actions Works 
 
 
-![Warehouse Actions](../assets/markdown/rudderstack-warehouse-actions-architecture.png)
+![Warehouse Actions Architecture](../assets/markdown/rudderstack-warehouse-actions-architecture (1).png)
 
 
 RudderStack makes it easy to collect data from different sources, event and non-event, and securely ingest them into your warehouse. Once data is successfully ingested, your teams can then apply advanced queries or models to generate valuable data composites (either tables or views) that are frequently materialized (aka written) as their tables and stored in your data warehouse. For example, [dbt](https://www.getdbt.com/) can be used to transform data within your warehouses by simply writing select statements. dbt turns these select statements into tables and views.
@@ -73,7 +73,7 @@ In Snowflake, the query to calculate lead score and produce a table might look s
 
 
 
-![Warehouse Actions](../assets/markdown/WarehoiseImage1.png)
+![Calculating the Lead Score](../assets/markdown/WarehoiseImage1.png)
 
 With Warehouse Actions, you can easily pull the updated lead profiles from the table in Snowflake back through RudderStack and send them to Salesforce, meaning your sales team will have the most up-to-date status on new signups. Because the table is translated into an event stream, you can also route it to any other tools that need the lead score, like marketing automation and customer experience platforms. 
 
@@ -86,7 +86,7 @@ Configuring Warehouse Actions is simple and only takes a few minutes.
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage2.png)
+![Selecting Warehouse](../assets/markdown/WarehouseImage2.png)
 
 _Note: RudderStack currently supports Google BigQuery, Amazon Redshift, and Snowflake as sources. We have chosen Snowflake as a warehouse source in this example._
 
@@ -96,7 +96,7 @@ _Note: RudderStack currently supports Google BigQuery, Amazon Redshift, and Snow
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage3.png)
+![Naming the Source](../assets/markdown/WarehouseImage3.png)
 
 
 
@@ -105,7 +105,7 @@ _Note: RudderStack currently supports Google BigQuery, Amazon Redshift, and Snow
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage4.png)
+![Configuring Data](../assets/markdown/WarehouseImage4.png)
 
 
 
@@ -126,7 +126,7 @@ anonymous_id
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage5.png)
+![Defining Data to be Pulled](../assets/markdown/WarehouseImage5.png)
 
 
 
@@ -137,7 +137,7 @@ anonymous_id
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage6.png)
+![Scheduling](../assets/markdown/WarehouseImage6.png)
 
 
 
@@ -147,7 +147,7 @@ That’s it! Your data warehouse is now configured and added as a RudderStack so
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage7.png)
+![Warehouse is configured](../assets/markdown/WarehouseImage7.png)
 
 
 
@@ -156,7 +156,7 @@ Now that your table from Snowflake is set up in Warehouse Actions,  you can push
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage8.png)
+![Adding Salesforce as a Destination](../assets/markdown/WarehouseImage8.png)
 
 
 
@@ -165,7 +165,7 @@ Next, **name the destination**, and connect it to the Snowflake source in the **
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage9.png)
+![Connecting to Snowflake](../assets/markdown/WarehouseImage9.png)
 
 
 
@@ -181,7 +181,7 @@ That’s it! You have successfully added Salesforce as a destination. Your data 
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage11.png)
+![Syncing](../assets/markdown/WarehouseImage11.png)
 
 
 After your data has been synced, you can view the results by clicking on the “**Live Events**” option in the upper-right corner.
@@ -189,7 +189,7 @@ After your data has been synced, you can view the results by clicking on the “
 
 
 
-![Warehouse Actions](../assets/markdown/WarehouseImage12.png)
+![Viewing the Results](../assets/markdown/WarehouseImage12.png)
 
 
 _For detailed steps, read our documentation, [Configuring Data Warehouse Actions on RudderStack](https://docs.rudderstack.com/sources/data-warehouse-as-a-source)._
