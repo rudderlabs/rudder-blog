@@ -1,9 +1,8 @@
 ---
-
 title: "Introducing RudderStack Cloud Extract and Warehouse Actions"
 siteMetadescription: "Launching Warehouse Actions and Cloud Extract - work with data to and from your warehouse and cloud sources with RudderStack."
 
-date: 2021-01-26T00:00:00+05:30
+date: 2021-01-27T00:00:00+05:30
 
 featureImg: ../assets/markdown/warehouseandcloudsourceslaunch.blog.rs.png
 
