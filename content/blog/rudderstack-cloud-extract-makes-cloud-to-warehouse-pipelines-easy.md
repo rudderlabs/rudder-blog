@@ -99,7 +99,7 @@ Note: If you have already logged into your Salesforce account previously, clicki
 
 
 ![Deciding Run Frequency](../assets/markdown/Cloud5.png)
-**
+
 
 
 
@@ -154,7 +154,7 @@ That’s it! You have successfully added Snowflake as a destination for your Sal
 
 
 
-![CSyncing](../assets/markdown/Cloud12.png)
+![Syncing](../assets/markdown/Cloud12.png)
 
 Once the sync is completed, you can go to your Snowflake Dashboard to verify that the new **Lead** table is present and  has been populated with data from the Salesforce:  
 
