@@ -19,7 +19,7 @@ Slug: "introducing-rudderstack-cloud-extract-and-warehouse-actions"
 ---
 
 
-##Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack.
+## Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack.
 
 RudderStack **Event Stream** is what we are known for and has always been top-notch. Our SDKs and plugins, like our [Gatsby plugin](https://www.gatsbyjs.com/plugins/gatsby-plugin-rudderstack/), make it easy to instrument your sites and apps, collect your event data, and route it to all of your customer tools. Your event data isn’t all of your customer data though. It’s only a subset. You still have non-event customer data locked into cloud applications, like [Salesforce](https://docs.rudderstack.com/sources/salesforce) and [ZenDesk](https://docs.rudderstack.com/sources/zendesk), that is near-impossible to combine and correlate with your event data, apply deep analysis to, and activate in your customer tools. It’s too difficult to use _all_ of your customer data.
 
