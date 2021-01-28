@@ -88,7 +88,7 @@ Configuring Warehouse Actions is simple and only takes a few minutes.
 
 ![Selecting Warehouse](../assets/markdown/WarehouseImage2.png)
 
-_Note: RudderStack currently supports Google BigQuery, Amazon Redshift, and Snowflake as sources. We have chosen Snowflake as a warehouse source in this example._
+_Note: RudderStack currently supports Google BigQuery, ClickHouse, Amazon Redshift, Amazon S3, and Snowflake as sources. We have chosen Snowflake as a warehouse source in this example._
 
 
 
@@ -109,9 +109,9 @@ _Note: RudderStack currently supports Google BigQuery, Amazon Redshift, and Snow
 
 
 
+Please note that your source table must include at least one of the following columns for it to be considered a valid source:
 
 ```
-Please note that your source table must include at least one of the following columns for it to be considered a valid source:
 email
 user_id
 anonymous_id
@@ -121,7 +121,7 @@ anonymous_id
 
 
 
-5. Examine the table and define the data that should be pulled out of the data warehouse.  In our example, we are pulling lead emails and lead scores. Note that you see the payload sent through RudderStack and can modify that payload by including/excluding keys and modifying column names to match fields in downstream destinations. Once you’ve configured the payload, click on Next.
+5. Examine the table and define the data that should be pulled out of the data warehouse.  In our example, we are pulling lead emails and lead scores. Note that you see the payload sent through RudderStack and can modify that payload by including/excluding keys and modifying column names to match fields in downstream destinations. Once you’ve configured the payload, click on **Next**.
 
 
 
@@ -151,7 +151,7 @@ That’s it! Your data warehouse is now configured and added as a RudderStack so
 
 
 
-Now that your table from Snowflake is set up in Warehouse Actions,  you can push identify calls through RudderStack into Salesforce so your sales team can prioritize outreach. To do this, you need to add Salesforce as a destination by clicking on Connect Destinations or Add Destinations:
+Now that your table from Snowflake is set up in Warehouse Actions,  you can push `identify` calls through RudderStack into Salesforce so your sales team can prioritize outreach. To do this, you need to add Salesforce as a destination by clicking on **Connect Destinations** or **Add Destinations**:
 
 
 
@@ -194,7 +194,7 @@ After your data has been synced, you can view the results by clicking on the “
 
 _For detailed steps, read our documentation, [Configuring Data Warehouse Actions on RudderStack](https://docs.rudderstack.com/sources/data-warehouse-as-a-source)._
 
-Pachyderm Uses Warehouse Actions to Automate Their Onboarding E-mails
+## Pachyderm Uses Warehouse Actions to Automate Their Onboarding E-mails
 
 [Pachyderm](https://www.pachyderm.com/), an enterprise-grade, open-source data science platform, implemented Warehouse Actions for lead qualification. After creating an account, the first action Pachyderm wants their customers to do is create a workspace. They encourage users to do this in a series of drip emails sent through [HubSpot](https://www.hubspot.com/), but they don’t want these drip emails to go out to customers that have already created a workspace. This data is already in their data warehouse, and now, with Warehouse Actions, they can automatically exclude these customers from this drip email series.
 
@@ -209,7 +209,9 @@ Pachyderm uses their BI tool, [Sigma](https://www.sigmacomputing.com/), to creat
 
 Qualifying leads for drip emails is only one use case for Warehouse Actions. There are many more, and Pachyderm plans to increase their use of Warehouse Actions substantially.
 
-“_We have a bunch of uses for Warehouse Actions, and we’re only at the tip of the iceberg, really. A lot of what we want to do in the future will involve getting that data out of the warehouse with Warehouse Actions._” - Dan Baker, Marketing Operations Manager, [Pachyderm](https://www.pachyderm.com/).
+> “_We have a bunch of uses for Warehouse Actions, and we’re only at the tip of the iceberg, really. A lot of what we want to do in the future will involve getting that data out of the warehouse with Warehouse Actions._”
+
+>> -- ***Dan Baker**, Marketing Operations Manager, [Pachyderm](https://www.pachyderm.com/).*
 
 
 ## Try RudderStack Today
