@@ -2,8 +2,10 @@ import React, { useEffect } from "react"
 import FooterWidget from "./footerWidget";
 import styles from "../assets/css/footer.module.css"
 import { FontAwesomeIcon }  from '@fortawesome/react-fontawesome';
-import { faFacebook, faFacebookF, faTwitter } from "@fortawesome/free-brands-svg-icons"
-import logoImage from './../assets/images/logo-white.svg'
+import { faFacebook, faFacebookF, faTwitter, faLinkedin } from "@fortawesome/free-brands-svg-icons"
+import { faRssSquare } from "@fortawesome/free-solid-svg-icons"
+import logoImage from './../assets/images/rudderstack-white.svg'
+
 
 function Footer() {
   const widgets = [
@@ -17,6 +19,18 @@ function Footer() {
         {
           title: "Contact Us",
           href: "mailto:contact@rudderstack.com"
+        },
+        {
+          title: "We’re Hiring!",
+          href: "https://www.linkedin.com/company/rudderlabs/jobs/"
+        },
+        {
+          title: "Privacy Policy",
+          href: "/privacy-policy"
+        },
+        {
+          title: "Terms of Service",
+          href: "/master-service-agreement"
         }
       ]
     },
@@ -29,19 +43,15 @@ function Footer() {
         },
         {
           href: "https://github.com/rudderlabs/rudder-server",
-          title: "RudderStack Open Source"
+          title: "Open Source"
         },
         {
           href: "https://resources.rudderstack.com/open-source-segment-alternative-free-trial",
-          title: "RudderStack vs. Segment"
+          title: "Segment Comparison"
         },
         {
           href: "https://resources.rudderstack.com/rudderstack-vs-snowplow",
-          title: "RudderStack vs. Snowplow"
-        },
-        {
-          href: "/pricing",
-          title: "Pricing"
+          title: "Snowplow Comparison"
         }
       ]
     },
@@ -53,8 +63,16 @@ function Footer() {
           title: "Blog"
         },
         {
+          href: "/video-library",
+          title: "Video Library"
+        },
+        {
           href: "https://docs.rudderstack.com/",
           title: "Documentation"
+        },
+        {
+          href: "https://resources.rudderstack.com/join-rudderstack-slack",
+          title: "Slack Community"
         },
         {
           href: "https://datastackshow.com/",
@@ -76,57 +94,68 @@ function Footer() {
     <footer id="main-footer" className={styles.mainFooter}>
       <div className={styles.footerContainer}>
         <div id="footer-widgets" className={styles.footerWidgets}>
-          <div className={styles.footerWidget}>
-            <div id="media_image-2" className="fwidget et_pb_widget widget_media_image">
-              <img width={173}
-                   height={20}
-                   src={logoImage}
-                   data-lazy-type="image"
-                   className="image wp-image-28013  attachment-173x20 size-173x20 lazy-loaded" alt="RudderStack Logo"
-                   alt="RudderStack Logo"
-                   loading="lazy"
-                   style={{ maxWidth: "100%", height: "auto" }}
-              />
-            </div>
-          </div>
           {widgets.map((w, index) => {
             return <FooterWidget key={index} title={w.title} links={w.links}/>
           })}
+          <div className={styles.footerWidget}>
+          <div id="media_image-2" className="fwidget et_pb_widget widget_media_image">
+            <h4 className={styles.widgetTitle}>JOIN THE CONVERSATION</h4>
+            <p className={styles.footerText}>Learn more about the product and how other engineers are building their customer data pipelines.</p>
+            <a href="https://resources.rudderstack.com/join-rudderstack-slack" className={styles.slackButton}>Join our Slack Community</a>
+          </div>
+          </div>
+          <div className={styles.footerWidgetLast}>
+          <div>
+            <h4 className={styles.widgetTitle}>READ OUR DOCUMENTATION</h4>
+            <p className={styles.footerText}>Technical documentation on using RudderStack to collect, route and manage your event data securely.</p>
+            <a href="https://docs.rudderstack.com/" className={styles.docButton}>Go to docs <i class="fa fa-arrow-right"></i></a>
+          </div>
+          </div>
           <div style={{ clear: "both" }}/>
         </div>
       </div>
       <div id="footer-bottom" className={styles.footerBottom}>
         <div className={styles.footerContainer}>
           <div className="footer-bottom-area">
-            <div id="copy-right-area" className={styles.copyRightArea} role="complementary">
-              <div className="widget_text footer-copyright-widget">
-                <div className="textwidget custom-html-widget">
-                  <a href="https://www.iubenda.com/privacy-policy/49325816"
-                     className="iubenda-white iubenda-embed"
-                     title="Privacy Policy ">
-                    Privacy Policy
-                  </a>
-                </div>
-              </div>
-            </div>
             <div id="social-link-widget-area" className={styles.socialLinksArea} role="complementary">
               <div className="social-link-widget"/>
               <div className="textwidget">
                 <ul className={styles.socialLinksList}>
                   <li className={styles.socialLinksItem}>
-                    <a className={styles.socialLinksLink} title="Follow on facebook"
-                       href="https://www.facebook.com/company/rudderlabs/about/" target="_blank"
-                       rel="noopener noreferrer">
-                      <FontAwesomeIcon icon={faFacebookF} size="2x" />
+                    <a className={styles.socialLinksLink} title="Follow on twitter"
+                    href="https://twitter.com/rudderlabs" target="_blank" rel="noopener noreferrer">
+                      <FontAwesomeIcon icon={faTwitter} size="small" />
                     </a>
                   </li>
                   <li className={styles.socialLinksItem}>
                     <a className={styles.socialLinksLink} title="Follow on twitter"
-                       href="https://twitter.com/rudderlabs" target="_blank" rel="noopener noreferrer">
-                      <FontAwesomeIcon icon={faTwitter} size="2x" />
+                    href="https://twitter.com/rudderlabs" target="_blank" rel="noopener noreferrer">
+                      <FontAwesomeIcon icon={faLinkedin} size="small" />
+                    </a>
+                  </li>
+                  <li className={styles.socialLinksItem}>
+                    <a className={styles.socialLinksLink} title="Follow on twitter"
+                    href="https://twitter.com/rudderlabs" target="_blank" rel="noopener noreferrer">
+                      <FontAwesomeIcon icon={faRssSquare} size="small" />
                     </a>
                   </li>
                 </ul>
+                <div className={styles.footerLogo}>
+                  <a href="/">
+                  <img
+                  src={logoImage}
+                  alt="RudderStack Logo"
+                  className={styles.logoImg}
+                  />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div id="copy-right-area" className={styles.copyRightArea} role="complementary">
+              <div className="widget_text footer-copyright-widget">
+                <div className={styles.customTextWidget}>
+                  &copy; RudderLabs Inc.
+                </div>
               </div>
             </div>
           </div>

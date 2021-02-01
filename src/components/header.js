@@ -6,13 +6,13 @@ import styles from "../assets/css/header.module.css";
 function Header() {
   useEffect(() => {
     if (typeof window !== 'undefined' && typeof window.innerWidth !== 'undefined') {
-      if (window.innerWidth > 980) {
-        setLeftOffset(-window.innerWidth / 2);
-        setWidth(Math.min(1124, window.innerWidth));
+      if (window.innerWidth > 1080) {
+      //  setLeftOffset(-window.innerWidth / 2);
+      //  setWidth(Math.min(1124, window.innerWidth));
         setMenuDisplay("block");
       }
       else {
-        setWidth(window.innerWidth);
+      //  setWidth(window.innerWidth);
         setHamburgerDisplay("block");
       }
 
@@ -20,18 +20,18 @@ function Header() {
         if (typeof document === "undefined") return;
 
         const w = e.target.innerWidth;
-        if (w >= 950 || w <= 1010) {
-          if (w > 980) {
-            const megaWidth = Math.min(1124, w);
-            const offsetFromLeft = (w - megaWidth) / 2;
-            const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
-            setLeftOffset(offsetFromLeft - menuLeftOffset);
-            setWidth(megaWidth);
+        if (w >= 950 || w <= 1080) {
+          if (w > 1080) {
+          //  const megaWidth = Math.min(1124, w);
+          //  const offsetFromLeft = (w - megaWidth) / 2;
+          //  const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
+          //  setLeftOffset(offsetFromLeft - menuLeftOffset);
+          //  setWidth(megaWidth);
             setHamburgerDisplay("none");
             setMenuDisplay("block");
           }
           else {
-            setWidth(w);
+          //  setWidth(w);
             setMenuDisplay("none");
             setHamburgerDisplay("block");
           }
@@ -51,33 +51,57 @@ function Header() {
 
   const [menuDisplay, setMenuDisplay] = useState("none");
   const [megaDisplay, setMegaDisplay] = useState("none");
+  const [megaDisplayLearn, setMegaDisplayLearn] = useState("none");
   const [hamburgerDisplay, setHamburgerDisplay] = useState("none");
   const [hamburgerCloseDisplay, setHamburgerCloseDisplay] = useState("none");
-  const [leftOffset, setLeftOffset] = useState(0);
-  const [width, setWidth] = useState(1124);
+  // const [leftOffset, setLeftOffset] = useState(0);
+  // const [width, setWidth] = useState(1124);
   const [stickyContainer, setStickyContainer] = useState(false);
 
   let to;
 
   const hideMegaMenuIfDesktop = () => {
-    if (typeof window !== 'undefined' && window.innerWidth > 980) {
+    if (typeof window !== 'undefined' && window.innerWidth > 1080) {
       to = window.setTimeout(function() {
-        setMegaDisplay("none")
-      }, 300);
+        setMegaDisplay("none");setMegaDisplayLearn("none");
+      }, 200);
     }
   };
 
   const showMegaMenuIfDesktop = () => {
-    if (typeof window !== 'undefined' && window.innerWidth > 980) {
+    if (typeof window !== 'undefined' && window.innerWidth > 1080) {
       if (to) {
         window.clearTimeout(to);
       }
-      const megaWidth = Math.min(1124, window.innerWidth);
-      const offsetFromLeft = (window.innerWidth - megaWidth) / 2;
-      const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
-      setLeftOffset(offsetFromLeft - menuLeftOffset);
-      setWidth(megaWidth);
+    //  const megaWidth = Math.min(1124, window.innerWidth);
+    //  const offsetFromLeft = (window.innerWidth - megaWidth) / 2;
+    //  const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
+    //  setLeftOffset(offsetFromLeft - menuLeftOffset);
+    //  setWidth(megaWidth);
+      setMegaDisplayLearn("none");
       setMegaDisplay("block");
+    }
+  }
+  const hideMegaMenuIfDesktopLearn = () => {
+    if (typeof window !== 'undefined' && window.innerWidth > 1080) {
+      to = window.setTimeout(function() {
+        setMegaDisplayLearn("none")
+      }, 300);
+    }
+  };
+
+  const showMegaMenuIfDesktopLearn = () => {
+    if (typeof window !== 'undefined' && window.innerWidth > 1080) {
+      if (to) {
+        window.clearTimeout(to);
+      }
+    //  const megaWidth = Math.min(1124, window.innerWidth);
+    //  const offsetFromLeft = (window.innerWidth - megaWidth) / 2;
+    //  const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
+    //  setLeftOffset(offsetFromLeft - menuLeftOffset);
+    //  setWidth(megaWidth);
+      setMegaDisplay("none");
+      setMegaDisplayLearn("block");
     }
   }
 
@@ -86,16 +110,34 @@ function Header() {
       if (to) {
         window.clearTimeout(to);
       }
-      if (window.innerWidth > 980) {
-        const megaWidth = Math.min(1124, window.innerWidth);
-        const offsetFromLeft = (window.innerWidth - megaWidth) / 2;
-        const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
-        setLeftOffset(offsetFromLeft - menuLeftOffset);
-        setWidth(megaWidth);
+      if (window.innerWidth > 1080) {
+      //  const megaWidth = Math.min(1124, window.innerWidth);
+      //  const offsetFromLeft = (window.innerWidth - megaWidth) / 2;
+      //  const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
+      //  setLeftOffset(offsetFromLeft - menuLeftOffset);
+      //  setWidth(megaWidth);
       }
       setMegaDisplay("block");
     }
   }
+
+  const showMegaMenuLearn = () => {
+  console.log("learn")
+    if (typeof window !== 'undefined') {
+      if (to) {
+        window.clearTimeout(to);
+      }
+      if (window.innerWidth > 1080) {
+      //  const megaWidth = Math.min(1124, window.innerWidth);
+      //  const offsetFromLeft = (window.innerWidth - megaWidth) / 2;
+      //  const menuLeftOffset = document.getElementById("header-menu").getBoundingClientRect().x;
+      //  setLeftOffset(offsetFromLeft - menuLeftOffset);
+      //  setWidth(megaWidth);
+      }
+      setMegaDisplayLearn("block");
+    }
+  }
+
 
   return (
     <header id="main-header-1" className={styles.mainHeader}>
@@ -142,14 +184,6 @@ function Header() {
                 style={{display: hamburgerCloseDisplay}}
               />
               <ul id="header-menu" className={styles.menu} style={{display: menuDisplay}}>
-                <li className={styles.menuItem}>
-                  <a className={styles.menuLink}
-                    href="/integration/"
-                    tabIndex={0}
-                  >
-                    Integrations
-                  </a>
-                </li>
                 <li className={styles.menuItem}
                     onMouseEnter={showMegaMenuIfDesktop}
                     onMouseLeave={hideMegaMenuIfDesktop}
@@ -173,15 +207,16 @@ function Header() {
                     Product
                     <span className={styles.dropdownIndicator} />
                   </a>
-                  <ul id="sub-menu"
-                      className={styles.subMenu}
-                      style={{ left: leftOffset, width: width, display: megaDisplay }}
+                  <ul id="product-sub-menu"
+                      className={styles.productSubMenu}
+                      style={{  display: megaDisplay }}
                   >
                     <li className={styles.subMenuItem}>
                       <a className={`${styles.rudderstackCloudLink} ${styles.subMenuLink}`}
                          href="https://resources.rudderstack.com/rudderstack-cloud"
                       >
                         RudderStack Cloud
+                        <p>Fully managed, scalable and production ready customer data pipelines for your data infrastructure.</p>
                       </a>
                     </li>
                     <li className={styles.subMenuItem}>
@@ -189,39 +224,130 @@ function Header() {
                          href="https://resources.rudderstack.com/rudderstack-cloud"
                       >
                         RudderStack Open Source
+                        <p>All the core features and integrations that make RudderStack the customer data pipeline of your data infrastructure.</p>
                       </a>
                     </li>
                     <li className={styles.subMenuItem}>
-                      <a className={`${styles.documentationLink} ${styles.subMenuLink}`}
+                      <a className={`${styles.normalLink} ${styles.subMenuLink}`}
                          href="https://resources.rudderstack.com/rudderstack-cloud"
                       >
-                        Documentation
+                        Event Stream
                       </a>
                     </li>
                     <li className={styles.subMenuItem}>
-                      <a className={`${styles.rudderSegmentLink} ${styles.subMenuLink}`}
+                      <a className={`${styles.normalLink} ${styles.subMenuLink}`}
                          href="https://resources.rudderstack.com/rudderstack-cloud"
                       >
-                        Rudder vs. Segment
+                        Warehouse Actions
                       </a>
                     </li>
                     <li className={styles.subMenuItem}>
-                      <a className={`${styles.rudderSnowplowLink} ${styles.subMenuLink}`}
+                      <a className={`${styles.normalLink} ${styles.subMenuLink}`}
                          href="https://resources.rudderstack.com/rudderstack-cloud"
                       >
-                        Rudder vs. Snowplow
+                        Cloud Extract
                       </a>
                     </li>
                   </ul>
                 </li>
-                <li className={styles.menuItem}>
-                  <Link className={styles.menuLink}
-                     to="/"
-                     tabIndex={2}
+                <li className={styles.menuItem}
+                onMouseEnter={showMegaMenuIfDesktopLearn}
+                onMouseLeave={hideMegaMenuIfDesktopLearn}
                   >
-                    Blog
-                  </Link>
+                  <a id="product-link"
+                className={styles.menuLink}
+                href="/integration"
+                tabIndex={1}
+                onClick={(e) => {
+                  e.preventDefault();
+                  if (typeof window !== "undefined") {
+                    if (megaDisplayLearn === "block" && window.innerWidth <= 980) {
+                      setMegaDisplayLearn("none");
+                    }
+                    else if (megaDisplayLearn === "none") {
+                      showMegaMenuLearn();
+                    }
+                  }
+                }}
+                >
+                Learn
+                <span className={styles.dropdownIndicator} />
+                </a>
+                <ul id="sub-menu"
+                className={styles.subMenu}
+                style={{  width: '700px', display: megaDisplayLearn }}
+                >
+                <li className={styles.subMenuItem}>
+                <a className={`${styles.blogLink} ${styles.subMenuLink}`}
+                href="https://resources.rudderstack.com/rudderstack-cloud"
+                  >
+                  Blog
+                    <p>Read articles, feature announcements, community highlights and everything around data.</p>
+                </a>
                 </li>
+                <li className={styles.subMenuItem}>
+                <a className={`${styles.videLibraryLink} ${styles.subMenuLink}`}
+                href="https://resources.rudderstack.com/rudderstack-cloud"
+                  >
+                  Video Library
+                  <p>Watch tutorials on how to get the most out of RudderStack and your Customer Data.</p>
+                </a>
+                </li>
+                <li className={styles.subMenuItem}>
+                <a className={`${styles.migrationLink} ${styles.subMenuLink}`}
+                href="https://resources.rudderstack.com/rudderstack-cloud"
+                  >
+                  Migration Guides
+                  <p>Howtos and best practises for migrating from platforms like Snowplow and Segment to RudderStack.</p>
+                  </a>
+                  </li>
+                  <li className={styles.subMenuItem}>
+                <a className={`${styles.normalLink} ${styles.subMenuLink}`}
+                href="https://resources.rudderstack.com/rudderstack-cloud"
+                  >
+                  Documentation
+                </a>
+                </li>
+                  <li className={styles.subMenuItem}>
+                  <a className={`${styles.normalLink} ${styles.subMenuLink}`}
+                  href="https://resources.rudderstack.com/rudderstack-cloud"
+                    >
+                    Segment Comparison
+                  </a>
+                  </li>
+                  <li className={styles.subMenuItem}>
+                  <a className={`${styles.normalLink} ${styles.subMenuLink}`}
+                  href="https://resources.rudderstack.com/rudderstack-cloud"
+                    >
+                    Snowplow Comparison
+                  </a>
+                  </li>
+                  <li className={styles.subMenuItem}>
+                  <a className={`${styles.normalLink} ${styles.subMenuLink}`}
+                  href="https://resources.rudderstack.com/rudderstack-cloud"
+                    >
+                    Case Studies
+                  </a>
+                  </li>
+
+                  </ul>
+                </li>
+<li className={styles.menuItem}>
+<Link className={styles.menuLink}
+to="/"
+tabIndex={2}
+  >
+  Integrations
+  </Link>
+  </li>
+  <li className={styles.menuItem}>
+<Link className={styles.menuLink}
+to="/"
+tabIndex={2}
+  >
+  Docs
+  </Link>
+  </li>
                 <li className={styles.menuItem}>
                   <a className={styles.menuLink}
                      href="/pricing"
@@ -250,7 +376,7 @@ function Header() {
           </nav>
         </div>
         <div className={styles.freeTrialRegion}>
-          <a href="#" className={styles.freeTrialLink}>Free Trial</a>
+          <a href="#" className={styles.freeTrialLink}>Sign up free</a>
         </div>
       </div>
     </header>
