@@ -22,7 +22,8 @@ function Footer() {
         },
         {
           title: "We're Hiring!",
-          href: "https://www.linkedin.com/company/rudderlabs/jobs/"
+          href: "https://www.linkedin.com/company/rudderlabs/jobs/",
+          class: "menuHighlight"
         },
         {
           title: "Privacy Policy",
@@ -128,14 +129,14 @@ function Footer() {
                     </a>
                   </li>
                   <li className={styles.socialLinksItem}>
-                    <a className={styles.socialLinksLink} title="Follow on twitter"
-                    href="https://twitter.com/rudderlabs" target="_blank" rel="noopener noreferrer">
+                    <a className={styles.socialLinksLink} title="Follow on LinkedIn"
+                    href="https://www.linkedin.com/company/rudderlabs" target="_blank" rel="noopener noreferrer">
                       <FontAwesomeIcon icon={faLinkedin} size="small" />
                     </a>
                   </li>
                   <li className={styles.socialLinksItem}>
-                    <a className={styles.socialLinksLink} title="Follow on twitter"
-                    href="https://twitter.com/rudderlabs" target="_blank" rel="noopener noreferrer">
+                    <a className={styles.socialLinksLink} title="RSS Feed"
+                    href="https://rudderstack.com/blog/rss.xml" target="_blank" rel="noopener noreferrer">
                       <FontAwesomeIcon icon={faRssSquare} size="small" />
                     </a>
                   </li>

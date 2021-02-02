@@ -92,6 +92,9 @@
     font-family: 'Noto Sans', Arial, sans-serif;
     text-decoration: none;
 }
+.menuItemLink:hover {
+  text-decoration: underline;
+}
 
 h4.widgetTitle {
   color: #ffffff;
@@ -103,4 +106,8 @@ h4.widgetTitle {
   font-size: 12px;
   text-transform: uppercase;
   line-height: 36px;
+}
+.menuHighlight {
+  color: #FFBD33;
+  font-weight: 600;
 }

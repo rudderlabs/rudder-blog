@@ -31,7 +31,7 @@ function FooterWidget(props) {
             {links.map((l, index) => {
               return (
                 <li key={index} className={styles.menuItem}>
-                  <a href={l.href} className={styles.menuItemLink}>
+                  <a href={l.href} className={`${styles.menuItemLink} ${(l.class)?styles.menuHighlight:''}`}>
                     {l.title}
                   </a>
                 </li>
