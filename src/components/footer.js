@@ -21,7 +21,7 @@ function Footer() {
           href: "mailto:contact@rudderstack.com"
         },
         {
-          title: "We’re Hiring!",
+          title: "We're Hiring!",
           href: "https://www.linkedin.com/company/rudderlabs/jobs/"
         },
         {
