@@ -382,7 +382,7 @@ tabIndex={2}
           </nav>
         </div>
         <div className={styles.freeTrialRegion}>
-          <a href="#" className={styles.freeTrialLink}>Sign up free</a>
+          <a href="https://app.rudderlabs.com/signup?type=freetrial" className={styles.freeTrialLink}>Sign up free</a>
         </div>
       </div>
     </header>
