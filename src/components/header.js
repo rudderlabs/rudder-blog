@@ -54,6 +54,8 @@ function Header() {
   const [megaDisplayLearn, setMegaDisplayLearn] = useState("none");
   const [hamburgerDisplay, setHamburgerDisplay] = useState("none");
   const [hamburgerCloseDisplay, setHamburgerCloseDisplay] = useState("none");
+  const [openValue, setOpenValue] = useState("");
+  const [openLearnValue, setOpenLearnValue] = useState("");
   // const [leftOffset, setLeftOffset] = useState(0);
   // const [width, setWidth] = useState(1124);
   const [stickyContainer, setStickyContainer] = useState(false);
@@ -189,17 +191,19 @@ function Header() {
                     onMouseLeave={hideMegaMenuIfDesktop}
                 >
                   <a id="product-link"
-                     className={styles.menuLink}
+                     className={`${styles.menuLink} ${(openValue == 'open')?styles.open:''}`}
                      href="/integration"
                      tabIndex={1}
                      onClick={(e) => {
                        e.preventDefault();
                        if (typeof window !== "undefined") {
-                         if (megaDisplay === "block" && window.innerWidth <= 980) {
+                         if (megaDisplay === "block" && window.innerWidth <= 1080) {
                            setMegaDisplay("none");
+                           setOpenValue("");
                          }
                          else if (megaDisplay === "none") {
-                           showMegaMenu();
+                           showMegaMenu('block');
+                           setOpenValue("open");
                          }
                        }
                      }}
@@ -255,17 +259,19 @@ function Header() {
                 onMouseLeave={hideMegaMenuIfDesktopLearn}
                   >
                   <a id="product-link"
-                className={styles.menuLink}
+                className={`${styles.menuLink} ${(openLearnValue == 'open')?styles.open:''}`}
                 href="/integration"
                 tabIndex={1}
                 onClick={(e) => {
                   e.preventDefault();
                   if (typeof window !== "undefined") {
-                    if (megaDisplayLearn === "block" && window.innerWidth <= 980) {
+                    if (megaDisplayLearn === "block" && window.innerWidth <= 1080) {
                       setMegaDisplayLearn("none");
+                      setOpenLearnValue("");
                     }
                     else if (megaDisplayLearn === "none") {
                       showMegaMenuLearn();
+                      setOpenLearnValue("open");
                     }
                   }
                 }}

@@ -343,8 +343,6 @@
     height: 2px;
     width: 100%;
     background-color: #0E1738;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
     border-radius: 5px;
     -moz-transform: scale(0, 1);
     -o-transform: scale(0, 1);
@@ -357,19 +355,21 @@
     transition: transform 0.5s ease;
     display: inline-block;
     font: inherit;
-    font-family: dashicons;
     margin: 0 6px 0 0px;
     vertical-align: top;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: inherit;
-    background: transparent;
     top: auto;
 }
 
 .menuLink:hover {
     text-decoration: none;
     border-color: #fff;
+}
+
+.menuItem:hover a.menuLink:before {
+  transform: scale(1, 1);
 }
 
 @media only screen and (max-width: 1080px) and (min-width: 0px) {
@@ -439,6 +439,10 @@
     width: auto;
     right: auto;
     line-height: inherit;
+}
+
+.open .dropdownIndicator:after {
+  content: '\f142';
 }
 
 .subMenu, .productSubMenu {
@@ -666,5 +670,8 @@
     background: none;
     font-size: 14px;
     padding-left: 0px;
+  }
+  .freeSignUpItem {
+    display: none;
   }
 }
