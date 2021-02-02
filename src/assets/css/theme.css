@@ -68,7 +68,7 @@ body {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
-  font-family: 'Work Sans', Arial, sans-serif;
+  font-family: 'Noto Sans', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 500;
@@ -80,12 +80,12 @@ body h3,
 body h4,
 body h5,
 body h6 {
-  font-family: 'Work Sans', Arial, sans-serif;
+  font-family: 'Noto Sans', Arial, sans-serif;
   color: #0E1738;
 }
 
 body strong {
-  font-family: 'Work Sans', Arial, sans-serif;
+  font-family: 'Noto Sans', Arial, sans-serif;
   color: #0E1738;
 }
 
@@ -117,7 +117,7 @@ p {
   font-size: 18px;
   line-height: 30px;
   color: #0E1738;
-  font-family: 'Work Sans', Arial, sans-serif;
+  font-family: 'Noto Sans', Arial, sans-serif;
   padding-bottom: 1em;
 }
 

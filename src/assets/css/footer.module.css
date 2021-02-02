@@ -3,40 +3,19 @@
 }
 
 .footerBottom {
-    padding: 10px 0;
-    background-color: #F6F8F9;
+    padding: 10px 0 80px;
+    background-color: #101836;
     position: relative;
-    border-top: 5px solid #8B57A1;
-}
-
-.footerBottom:before,
-.footerBottom:after {
-    position: absolute;
-    content: "";
-    height: 5px;
-    width: 33%;
-    top: -5px;
-    border-top: 5px solid #8B57A1;
-}
-
-.footerBottom:after {
-    width: 25%;
-    left: 75%;
-    border-color:#6396FF;
-}
-
-.footerBottom:before {
-    width: 25%;
-    left: 50%;
-    border-color:#B87FBC;
+    overflow: auto;
 }
 
 .footerContainer {
-    width: 100%;
+    width: 80%;
     max-width: 1200px;
     position: relative;
     text-align: left;
     margin: auto;
+    overflow: auto;
 }
 
 @media only screen and (max-width: 1280px) and (min-width: 0px) {
@@ -47,14 +26,14 @@
 }
 
 .footerWidgets {
-    padding: 6% 0 0;
+    padding: 6% 0 20px;
 }
 
 .footerWidgets:after {
     clear: both;
 }
 
-@media only screen and (max-width: 1280px) and (min-width: 768px) {
+@media only screen and (max-width: 1280px) and (min-width: 980px) {
     .footerWidgets {
         padding: 50px 0;
     }
@@ -66,18 +45,19 @@
 }
 
 @media (min-width: 981px) {
-    .footerWidget {
-        width: 20.875%;
+    .footerWidget, .footerWidgetLast {
+        width: 15.6%;
         margin-right: 5.5%;
         margin-bottom: 5.5%;
+        float:left;
     }
 
-    .footerWidget:last-child {
+    .footerWidgetLast {
         margin-right: 0;
     }
 }
 
-@media only screen and (min-width: 0px) and (max-width: 767px) {
+@media only screen and (min-width: 0px) and (max-width: 980px) {
     .footerWidget {
         margin-bottom: 35px;
         text-align: center;
@@ -88,30 +68,31 @@
     .footerWidget:last-child {
         margin-bottom: 0;
     }
-}
 
-@media only screen and (min-width: 768px) and (max-width: 1280px) {
-    .footerWidget {
-        width: 25%;
-        margin: 0;
-    }
+  .footerWidget, .footerWidgetLast {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 35px;
+  }
 }
-
 .copyRightArea {
     width: 50%;
-    float: left;
+    float: right;
     line-height: 25px;
+    text-align: right;
+    padding-top:34px;
 }
 
 .socialLinksArea {
     width: 50%;
-    float: right;
+    float: left;
 }
 
 .socialLinksList {
     padding: 0;
     margin: 0;
-    text-align: right;
+    text-align: left;
     list-style: none;
 }
 
@@ -119,22 +100,85 @@
     display: inline-block;
     vertical-align: top;
     position: relative;
-    margin: 0 0 0 8px;
+    margin: 0 8px 10px 0px;
     padding: 0;
-    text-align: right;
+    text-align: left;
     list-style: none;
 }
 
 .socialLinksLink {
-    color: #fff;
-    background-color: #6a2f6c;
-    width: 30px;
-    height: 30px;
     border-radius: 50%;
     text-align: center;
-    font-size: 11px;
+    font-size: 15px;
     line-height: 11px;
     display: block;
     transition: all .4s ease-in-out;
-    padding-top: 4px;
+    color: #B1BECB;
+    text-decoration: none;
+    padding: 3px 5px 2px;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #B1BECB;
+}
+
+.socialLinksArea .fa-2x {
+  font-size: 11px;
+}
+
+.widgetTitle {
+  color: #ffffff;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0;
+  padding-bottom: 0px;
+  pointer-events: none;
+  font-size: 12px;
+  text-transform: uppercase;
+  line-height: 36px;
+}
+.footerText {
+  color: #b1becb;
+  padding-bottom: 0px;
+  line-height: 1.5em;
+  font-size: 14px;
+}
+.slackButton, .docButton {
+  color: #b1becb;
+  width: 220px;
+  position: relative;
+  border: 1px solid #E1E1E1;
+  border-radius: 50px;
+  background-color: #232D54;
+  display: inline-block;
+  margin-top: 10px;
+  padding:3px;
+  padding-left: 28px;
+}
+.slackButton:after {
+  content: "";
+  height: 18px;
+  position: absolute;
+  background-size: 18px;
+  background-image: url(../icons/group.png);
+  width: 18px;
+  background-repeat: no-repeat;
+  left: 4px;
+  top: 6px;
+}
+
+.docButton {
+  padding: 5px;
+  width: auto;
+}
+
+.customTextWidget {
+  color: #B1BECB;
+  position: absolute;
+  right: 0px;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.footerLogo img {
+  max-width: 173px;
 }
