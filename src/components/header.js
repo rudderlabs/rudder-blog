@@ -225,7 +225,7 @@ function Header() {
                     </li>
                     <li className={styles.subMenuItem}>
                       <a className={`${styles.rudderstackOpenSourceLink} ${styles.subMenuLink}`}
-                         href="https://resources.rudderstack.com/rudderstack-cloud"
+                         href="https://github.com/rudderlabs/rudder-server"
                       >
                         RudderStack Open Source
                         <p>All the core features and integrations that make RudderStack the customer data pipeline of your data infrastructure.</p>
@@ -233,21 +233,21 @@ function Header() {
                     </li>
                     <li className={styles.subMenuItem}>
                       <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                         href="https://resources.rudderstack.com/rudderstack-cloud"
+                         href="https://rudderstack.com/#event_stream"
                       >
                         Event Stream
                       </a>
                     </li>
                     <li className={styles.subMenuItem}>
                       <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                         href="https://resources.rudderstack.com/rudderstack-cloud"
+                         href="https://rudderstack.com/#warehouse_actions"
                       >
                         Warehouse Actions
                       </a>
                     </li>
                     <li className={styles.subMenuItem}>
                       <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                         href="https://resources.rudderstack.com/rudderstack-cloud"
+                         href="https://rudderstack.com/#cloud_extract"
                       >
                         Cloud Extract
                       </a>
@@ -285,7 +285,7 @@ function Header() {
                 >
                 <li className={styles.subMenuItem}>
                 <a className={`${styles.blogLink} ${styles.subMenuLink}`}
-                href="https://resources.rudderstack.com/rudderstack-cloud"
+                href="/blog"
                   >
                   Blog
                     <p>Read articles, feature announcements, community highlights and everything around data.</p>
@@ -293,7 +293,7 @@ function Header() {
                 </li>
                 <li className={styles.subMenuItem}>
                 <a className={`${styles.videLibraryLink} ${styles.subMenuLink}`}
-                href="https://resources.rudderstack.com/rudderstack-cloud"
+                href="/video-library"
                   >
                   Video Library
                   <p>Watch tutorials on how to get the most out of RudderStack and your Customer Data.</p>
@@ -301,7 +301,7 @@ function Header() {
                 </li>
                 <li className={styles.subMenuItem}>
                 <a className={`${styles.migrationLink} ${styles.subMenuLink}`}
-                href="https://resources.rudderstack.com/rudderstack-cloud"
+                href="https://docs.rudderstack.com/migration-guides"
                   >
                   Migration Guides
                   <p>Howtos and best practises for migrating from platforms like Snowplow and Segment to RudderStack.</p>
@@ -309,28 +309,28 @@ function Header() {
                   </li>
                   <li className={styles.subMenuItem}>
                 <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                href="https://resources.rudderstack.com/rudderstack-cloud"
+                href="https://docs.rudderstack.com/"
                   >
                   Documentation
                 </a>
                 </li>
                   <li className={styles.subMenuItem}>
                   <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                  href="https://resources.rudderstack.com/rudderstack-cloud"
+                  href="https://resources.rudderstack.com/open-source-segment-alternative-free-trial"
                     >
                     Segment Comparison
                   </a>
                   </li>
                   <li className={styles.subMenuItem}>
                   <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                  href="https://resources.rudderstack.com/rudderstack-cloud"
+                  href="https://resources.rudderstack.com/rudderstack-vs-snowplow"
                     >
                     Snowplow Comparison
                   </a>
                   </li>
                   <li className={styles.subMenuItem}>
                   <a className={`${styles.normalLink} ${styles.subMenuLink}`}
-                  href="https://resources.rudderstack.com/rudderstack-cloud"
+                  href="https://rudderstack.com/case-studies"
                     >
                     Case Studies
                   </a>
@@ -340,7 +340,7 @@ function Header() {
                 </li>
 <li className={styles.menuItem}>
 <Link className={styles.menuLink}
-to="/"
+to="/integration"
 tabIndex={2}
   >
   Integrations
@@ -348,7 +348,7 @@ tabIndex={2}
   </li>
   <li className={styles.menuItem}>
 <Link className={styles.menuLink}
-to="/"
+to="https://docs.rudderstack.com"
 tabIndex={2}
   >
   Docs
