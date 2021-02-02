@@ -14,13 +14,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 
 authorDescription: "Savia Lobo is a Content Writer at RudderStack. She is a techie at heart and loves to stay up to date with tech happenings across the globe. If she is not writing or reading, you will find her singing and composing songs."
 
-author: Gavin Johnson
-
-authorPic: ../assets/author/Gavin-Johnson.png
-
 authorPosition:
-
-authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
 
 slug: "open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics"
 ---
