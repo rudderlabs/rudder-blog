@@ -15,7 +15,6 @@
     position: relative;
     text-align: left;
     margin: auto;
-    overflow: auto;
 }
 
 @media only screen and (max-width: 1280px) and (min-width: 0px) {
@@ -44,7 +43,7 @@
     float: left;
 }
 
-@media (min-width: 981px) {
+@media (min-width: 1281px) {
     .footerWidget, .footerWidgetLast {
         width: 15.6%;
         margin-right: 5.5%;
@@ -57,7 +56,7 @@
     }
 }
 
-@media only screen and (min-width: 0px) and (max-width: 980px) {
+@media only screen and (min-width: 0px) and (max-width: 768px) {
     .footerWidget {
         margin-bottom: 35px;
         text-align: center;
@@ -181,4 +180,12 @@
 
 .footerLogo img {
   max-width: 173px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1280px) {
+  .footerWidget, .footerWidgetLast {
+    width: 25%;
+    float: left;
+    margin-bottom: 20px;
+  }
 }

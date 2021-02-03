@@ -281,7 +281,7 @@ function Header() {
                 </a>
                 <ul id="sub-menu"
                 className={styles.subMenu}
-                style={{  width: '700px', display: megaDisplayLearn }}
+                style={{  display: megaDisplayLearn }}
                 >
                 <li className={styles.subMenuItem}>
                 <a className={`${styles.blogLink} ${styles.subMenuLink}`}
