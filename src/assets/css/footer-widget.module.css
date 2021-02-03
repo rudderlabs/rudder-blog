@@ -3,7 +3,7 @@
     float: left;
 }
 
-@media (min-width: 981px) {
+@media (min-width: 1281px) {
     .footerWidget {
         width: 15.6%;
         margin-right: 5.5%;
@@ -11,7 +11,7 @@
     }
 }
 
-@media only screen and (min-width: 0px) and (max-width: 980px) {
+@media only screen and (min-width: 0px) and (max-width: 768px) {
     .footerWidget {
         margin-bottom: 35px;
         text-align: center;
@@ -24,9 +24,9 @@
     }
 }
 
-@media only screen and (min-width: 981px) and (max-width: 1280px) {
+@media only screen and (min-width: 768px) and (max-width: 1280px) {
     .footerWidget {
-        width: 20%;
+        width: 25%;
         margin: 0;
     }
 }
@@ -43,7 +43,7 @@
     pointer-events: none;
 }
 
-@media only screen and (min-width: 0px) and (max-width: 980px)  {
+@media only screen and (min-width: 0px) and (max-width: 768px)  {
     .widgetTitle {
         text-align: center;
         padding-bottom: 0;
@@ -69,7 +69,7 @@
     margin: 0;
 }
 
-@media only screen and (max-width: 980px) and (min-width: 0px) {
+@media only screen and (max-width: 768px) and (min-width: 0px) {
     .menuContainer {
         padding-top: 18px;
     }
