@@ -23,15 +23,17 @@ slug: "why-it-needs-to-own-the-cdp"
 
 In a [recent survey](http://customerexperiencematrix.blogspot.com/2020/09/when-cdps-fail-insights-from-cdp.html), 75 percent of respondents said they had already deployed a CDP, were in the process, or were planning on deployment in the next 12 months. VCs have poured over a billion dollars into new CDP startups while the legacy companies try to catch up by rebranding as CDPs to increase their valuations. 
 
-CDPs, though, are primarily leveraged by marketing departments, which is why the term isn’t familiar to many IT organizations. IT may be brought in to discuss security issues or potential technical impacts, but they are rarely part of CDPs’ strategic conversation. 
+While the adoption of CDPs is now widespread, I believe there is a fundamental flaw in the way organizations implement CDPs. In this post, I articulate why IT organizations should own CDP implementation and management. 
 
-The fact that IT isn’t a key voice in the CDP conversation is unfortunate. In my past experience, one of the primary reasons that many CDP projects don’t meet expectations or even fail completely. 
+
+## The Fundamental Flaw 
+
+Companies primarily leverage CDPs by marketing departments, which is why the term isn’t familiar to many IT organizations. Organizations may bring in IT to discuss security issues or potential technical impacts, but they are rarely part of CDPs’ strategic conversation. The fact that IT isn’t a key voice in the CDP conversation is. In my experience, one of the primary reasons that many CDP projects don’t meet expectations or even fail completely. 
 
 Despite mass adoption, CDPs aren’t a panacea for an organization’s customer data needs (though the marketing might make you think otherwise). The customer data conversation is much larger than a single software vendor. Furthermore, as we argued in a recent post on The New Stack, this requires technical discussions around the infrastructure and pipelines that connect the entire customer data stack. 
 
 While we believe the most advanced companies build an owned CDP on top of their warehouse, there is a place for third-party CDP functionality in marketing as a component of the stack for many companies. 
 
-In this post, we make the case that when the need for a CDP implementation does arise, IT organizations should not only be part of the conversation but should own the implementation and management. 
 
 
 ## Looking Back: Quick History on Customer Data Platforms and IT Organizations
