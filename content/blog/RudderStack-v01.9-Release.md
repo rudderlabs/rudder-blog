@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-v0-1-9-release"
+weight: 1000
 ---
 We are pleased to announce a new major release for [RudderStack](http://www.rudderstack.com). Make sure you check out our [Github Repository](https://github.com/rudderlabs/rudder-server) for our RudderStack v0.1.9 release.
 

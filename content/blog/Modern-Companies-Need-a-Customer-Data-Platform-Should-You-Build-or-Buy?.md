@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "modern-companies-need-a-customer-data-platform-should-you-build-or-buy"
+weight: 1000
 ---
 Each of your customers should feel like they are in a continual one-to-one conversation with your brand. You can only make that possible if you collect data from every touchpoint each customer has with your brand and unify that data in a single **Customer Data Platform** **(CDP)**. CDP feeds all of your downstream marketing and product tools with this rich, precise customer data. Ask your engineering team to do this though, and you’ll soon discover that collecting data from every customer touchpoint and unifying it is a significant technical challenge.  
 

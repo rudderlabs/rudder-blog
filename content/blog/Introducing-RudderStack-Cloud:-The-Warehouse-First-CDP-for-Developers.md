@@ -9,6 +9,7 @@ authorPic: ../assets/author/Eric-Dodds.png
 authorPosition: 
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 slug: "introducing-rudderstack-cloud-the-warehouse-first-cdp-for-developers-2"
+weight: 1000
 ---
 There’s never been a better time to be a data engineer, in large part due to the rapid innovation and rising popularity of modern warehouses and data processing tools. When working with customer data, though, collecting all of your relevant information in one place and making it usable around the organization is a non-trivial challenge.
 

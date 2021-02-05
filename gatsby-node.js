@@ -7,12 +7,12 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
 
-  // Get all markdown blog posts sorted by date
+  // Get all markdown blog posts sorted by weight
   const result = await graphql(
     `
       {
         allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: ASC }
+          sort: { fields: [frontmatter___weight], order: ASC }
           limit: 1000
         ) {
           nodes {
@@ -119,6 +119,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       slug: String
       siteMetaTitle: String
       siteMetadescription: String
+      weight: Int
     }
 
     type Fields {

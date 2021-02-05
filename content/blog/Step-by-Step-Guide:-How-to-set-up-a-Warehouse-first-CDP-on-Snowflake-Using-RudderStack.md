@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "step-by-step-guide-how-to-set-up-a-warehouse-first-cdp-on-snowflake-using-rudderstack"
+weight: 1000
 ---
 In our [previous post](https://rudderstack.com/blog/the-stack-of-the-future-building-a-warehouse-first-cdp-on-snowflake-using-rudderstack/), we described the stack of the future and why the top data engineering teams are building warehouse-first customer data platforms (CDPs) to feed their companies rich, comprehensive customer data. In this guide, we’ll show you how to build your own warehouse-first CDP on [Snowflake](https://www.snowflake.com/) using RudderStack, including a step-by-step walkthrough to setting up RudderStack on top of Snowflake and an overview of the architecture. Lastly, we’ll look at how to enable a few common CDP use-cases. 
 

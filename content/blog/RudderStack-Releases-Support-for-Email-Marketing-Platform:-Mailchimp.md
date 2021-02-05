@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-email-marketing-platform-mailchimp"
+weight: 1000
 ---
 We at [RudderStack](https://rudderstack.com) are pleased to announce support for Mailchimp, an industry-leading email marketing platform. With this integration, you can add potential leads and customers to your Mailchimp lists via an API call. RudderStack supports sending the event data to Mailchimp via the cloud mode.
 

@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "building-a-customer-data-platform-on-your-data-warehouse"
+weight: 1000
 ---
 Why a Customer Data Platform?
 -----------------------------

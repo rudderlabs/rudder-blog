@@ -9,6 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition:
 authorDescription: "Content Writer at RudderStack. Techie at heart and loves to stay up to date with tech happenings across the globe. Loves singing and composing songs."
 slug: "podcast-roundup-november-2020"
+weight: 1000
 
 ---
 

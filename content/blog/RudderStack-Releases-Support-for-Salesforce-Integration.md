@@ -9,6 +9,7 @@ authorPic: ../assets/author/Kostas.png
 authorPosition: 
 authorDescription: "Head of Product at RudderStack."
 slug: "rudderstack-releases-support-for-salesforce-integration"
+weight: 1000
 ---
 RudderStack is happy to announce that we now support Salesforce as an integration. We are releasing Salesforce for the managed version of [RudderStack](https://rudderstack.com). We are also including it in the open-source version of our stack that can be found on our [GitHub Repo](https://github.com/rudderlabs/rudder-server). RudderStack encourages you to clone the Git repository and use the integration. Bugs, suggestions, and pull requests are more than welcome!
 

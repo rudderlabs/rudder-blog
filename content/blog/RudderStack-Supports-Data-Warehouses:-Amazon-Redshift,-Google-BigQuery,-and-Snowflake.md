@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-data-warehouses-redshift-bigquery-snowflake"
+weight: 1000
 ---
 We are happy to announce that [RudderStack](https://rudderstack.com/) now supports the delivery of event data to the most advanced and popular data warehouses. This is an important release towards RudderStack’s vision of providing a secure, scalable, and consistent cloud event data pipeline. The cloud version of RudderStack can now route your event data securely and consistently to Amazon Redshift, Google BigQuery, and Snowflake. Also, we have released the support for these technologies as part of the open-source version of the platform. Please find this on our [GitHub](https://github.com/rudderlabs/rudder-server) page.
 

@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "why-rudderstack-used-postgres-over-apache-kafka-for-streaming-engine"
+weight: 1000
 ---
 **Overview**
 ------------

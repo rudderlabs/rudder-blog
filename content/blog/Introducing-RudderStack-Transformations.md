@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "introducing-rudderstack-transformations"
+weight: 1000
 ---
 [RudderStack](/) is an open-source platform for collecting and routing your customer event data (commonly known as [customer data infrastructure](https://rudderstack.com/blog/building-a-customer-data-platform-on-your-data-warehouse/) or CDI platform). RudderStack is enterprise-ready, with a special focus on data privacy and security. This blog talks more about RudderStack and RudderStack Transformations that allow you to customize your customer data platforms.  
 

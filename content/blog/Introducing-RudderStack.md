@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "introducing-rudderstack"
+weight: 1000
 ---
 The explosion of **SaaS (Software-as-a-Service)** tools across all major business verticals have led to the flow of customer data into numerous third-party organizations. This data flow is sometimes necessary. However, customers are often kept in the dark about how the data is being collected and used. As a recent example, the Ring app was found to be collecting data from their users’ phones and sharing it with multiple third-party trackers. With data privacy regulations such as GDPR and CCPA in place, having a good understanding of the customer data flow – both within and outside the organization – has now become more important than ever.
 

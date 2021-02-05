@@ -18,6 +18,7 @@ authorPosition:
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 
 slug: "rudderstack-releases-support-for-confluent-cloud-and-lytics"
+weight: 1000
 
 ---
 

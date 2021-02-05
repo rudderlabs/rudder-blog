@@ -9,6 +9,7 @@ authorPic: ../assets/author/Eric-Dodds.png
 authorPosition: 
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 slug: "the-data-engineering-megatrend-a-brief-history"
+weight: 1000
 ---
 
 

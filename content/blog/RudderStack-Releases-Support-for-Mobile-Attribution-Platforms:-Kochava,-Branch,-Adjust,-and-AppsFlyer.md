@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-support-for-mobile-attribution-platforms-kochava-branch-adjust-appsflyer"
+weight: 1000
 ---
 We at [RudderStack](https://rudderstack.com/) are happy to announce support for Kochava, Adjust, AppsFlyer, and Branch – the leading mobile attribution platforms in the market today. You can now configure your mobile devices with our SDKs, which are available for both Android and iOS, and seamlessly send your event data to these platforms for attribution.  
 
