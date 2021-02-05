@@ -17,6 +17,7 @@ authorPosition:
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 
 slug: "why-it-needs-to-own-the-cdp"
+weight: 1000
 ---
 
 **CDP (Customer Data Platform)** has become a broad, confusing term in the world of software, but that hasn’t slowed down the adoption of tools claiming the label. 

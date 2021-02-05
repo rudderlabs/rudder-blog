@@ -9,6 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorDescription: "Savia Lobo is a Content Writer at RudderStack. She is a techie at heart and loves to stay up to date with tech happenings across the globe. If she is not writing or reading, you will find her singing and composing songs."
 authorPosition:
 slug: "podcast-roundUp-january-2021"
+weight: 1000
 ---
 
 

@@ -17,6 +17,7 @@ authorDescription: "Savia Lobo is a Content Writer at RudderStack. She is a tech
 authorPosition:
 
 slug: "open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics"
+weight: 1000
 ---
 
 _Thank you Yakko Majuri from [PostHog](https://posthog.com/) for coming up with the idea for this article and for your feedback and contributions to it._

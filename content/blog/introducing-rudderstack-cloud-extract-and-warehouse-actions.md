@@ -15,7 +15,8 @@ authorPic: ../assets/author/Gavin-Johnson.png
 authorPosition:
 
 authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
-slug: "introducing-rudderstack-cloud-extract-and-warehouse-actions" 
+slug: "introducing-rudderstack-cloud-extract-and-warehouse-actions"
+weight: 1000
 ---
 
 

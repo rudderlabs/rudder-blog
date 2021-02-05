@@ -9,6 +9,7 @@ authorPic: ../assets/author/Vedika-Naik.JPG
 authorPosition: 
 authorDescription: "Head of Content at RudderStack. Forever in search of new technologies, trends, and ideas."
 slug: "the-open-source-story-open-sourcing-rudderstack-blog-and-docs"
+weight: 1000
 ---
 
 ## It’s all About Open Source
