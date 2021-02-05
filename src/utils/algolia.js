@@ -2,7 +2,7 @@ const indexName = process.env.GATSBY_ALGOLIA_INDEX_NAME;
 
 const pageQuery = `{
   pages: allMarkdownRemark(
-    sort: { fields: [frontmatter___weight], order: ASC }
+    sort: { fields: [frontmatter___weight,frontmatter___date], order: [ASC, DESC] }
   ) {
     edges {
       node {

@@ -71,7 +71,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       limit: 19,
-      sort: { fields: [frontmatter___weight], order: ASC }
+      sort: { fields: [frontmatter___weight,frontmatter___date], order: [ASC, DESC] }
     ) {
       pageInfo {
         currentPage
