@@ -1,6 +1,6 @@
 ---
 title: "Protect Your Event Data Before It’s Too Late!!"
-siteMetadescription:
+siteMetadescription: RudderStack helps to secure the not-so-well-protected data from the third-party vendors.With the open-source, Rudder data plane control over the event data.
 date: 2020-03-15T00:00:00+05:30
 featureImg: ../assets/photo-1459347268516-3ed71100e718-750x355.jpeg
 category: Thoughts & Opinions

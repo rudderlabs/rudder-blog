@@ -1,6 +1,6 @@
 ---
 title: "Building a Reliable Customer Data Infrastructure"
-siteMetadescription:
+siteMetadescription: A typical example of Data-Intensive Application. RudderStack briefly tells CDI and its core & the infrastructure for seizing, processing and routing events.
 date: 2020-05-24T00:00:00+05:30
 featureImg: ../assets/16.blog_.rs_.png
 category: Thoughts & Opinions

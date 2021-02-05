@@ -1,12 +1,12 @@
 ---
 title: "RudderStack + GitHub Sponsors: Making Open Source More Sustainable for Developers"
-siteMetadescription:
+siteMetadescription: "Partnered with GitHub Rudderstack is making the OS more sustainable for developers. This helps the developers to compensate at better channels & supports OS."
 date: 2020-12-21T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstackgithubsponsors1.blog.rs.png
-category: 
+category:
 author: Gavin Johnson
 authorPic: ../assets/author/Gavin-Johnson.png
-authorPosition: 
+authorPosition:
 authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
 slug: "RudderStack-gitHub-sponsors-making-open-source-more-sustainable-for-developers"
 weight: 1000

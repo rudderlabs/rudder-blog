@@ -1,6 +1,6 @@
 ---
 title: "RudderStack Releases Support for DigitalOcean Spaces, TVSquared, and Heap.io"
-siteMetadescription:
+siteMetadescription: Now for TV attribution & real-time analytics, RudderStack supports DigitalOcean Spaces, TVSquared, and Heap Analytics. Will securely deliver events to analytics machines.
 date: 2020-11-18T00:00:00+05:30
 featureImg: ../assets/rudderstack-destinations-digital-ocean-spaces-tv-squared-heap.jpg
 category: 

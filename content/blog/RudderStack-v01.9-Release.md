@@ -1,6 +1,6 @@
 ---
 title: "RudderStack v0.1.9 Release"
-siteMetadescription:
+siteMetadescription: RudderStack has a  new major release. This release includes some new features as well as crucial bug fixes. Overall focus on enhancements for power and play.
 date: 2020-05-06T00:00:00+05:30
 featureImg: ../assets/Release-Notes-750x355.jpg
 category: Product Announcements

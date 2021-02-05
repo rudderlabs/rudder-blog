@@ -1,6 +1,6 @@
 ---
 title: "Churn Prediction using BigQueryML"
-siteMetadescription:
+siteMetadescription: RudderStack explains how to churn prediction can happen using Google’s BigQueryML together with the clickstream data gathered and delivered using the stage.
 date: 2020-03-13T00:00:00+05:30
 featureImg: ../assets/arseny-togulev-MECKPoKJYjM-unsplash-750x355.jpg
 category: Engineering

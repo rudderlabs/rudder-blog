@@ -1,12 +1,12 @@
 ---
 title: "RudderStack Releases Support for Source Integrations: Looker and Auth0"
-siteMetadescription:
+siteMetadescription: "RudderStack got new addition in the Source Integrations catalog Looker & Auth0. This will ingest and route the named destination for further analytics."
 date: 2020-11-18T00:00:00+05:30
 featureImg: ../assets/rudderstack-sources-looker-auth0.jpg
-category: 
+category:
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
-authorPosition: 
+authorPosition:
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-releases-support-for-source-integrations-looker-and-auth0"
 weight: 1000
@@ -29,7 +29,7 @@ Auth0 provides secure solutions to add authentication and authorization function
 What’s Next?
 ------------
 
-  
+
 At RudderStack, we are committed to help you make the most of your customer event data through our integrations. Even when your event data flows through RudderStack, we do not persist any data and securely route them to your desired destinations. 
 
 Looker and Auth0 are few of our initial source integrations. That said, we will continue building cutting-edge integrations as sources to help you make the most of your data and build customer relations better! For more information, browse through our [documentation](https://docs.rudderstack.com/destinations).

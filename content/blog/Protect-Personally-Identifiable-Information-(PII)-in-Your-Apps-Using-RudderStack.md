@@ -1,6 +1,6 @@
 ---
 title: "Protect Personally Identifiable Information (PII) in Your Apps Using RudderStack"
-siteMetadescription:
+siteMetadescription: Use RudderStack to protect the Personally Identifiable Information (PII) in Your Apps. We  simplify the process of making PII notes  on the streaming data.
 date: 2020-04-03T00:00:00+05:30
 featureImg: ../assets/Police-750x355.jpg
 category: Engineering

@@ -1,6 +1,6 @@
 ---
 title: "Identity Graph and Identity Resolution in SQL"
-siteMetadescription:
+siteMetadescription: Having a problem with identity resolution. RudderStack sponsors a  modern solution which is the identity of graph and identity resolution in a SQL database
 date: 2020-05-13T00:00:00+05:30
 featureImg: ../assets/Identity-Resolution-750x355.jpg
 category: Engineering

@@ -1,6 +1,6 @@
 ---
 title: "Mattermost’s Data Stack Explained: How They Leverage Unlimited Data For Customer Analytics"
-siteMetadescription:
+siteMetadescription: The Mattermost Data Stack finally explained by RudderStack. Also tells the open-source and values along with strict data privacy & security requirement.
 date: 2020-10-12T00:00:00+05:30
 featureImg: ../assets/Mattermost-2-750x355.png
 category: Case Studies

@@ -1,6 +1,6 @@
 ---
 title: "Why Event-based or MTU-based Pricing is Broken"
-siteMetadescription:
+siteMetadescription: RudderStack clarifies why using events or MTUs as a proxy can become complex when aligning with costs and avoid seeing a whole view of a user’s behavior.
 date: 2020-06-24T00:00:00+05:30
 featureImg: ../assets/11rs.blog_-750x355.png
 category: Thoughts & Opinions

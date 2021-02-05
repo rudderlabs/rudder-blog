@@ -1,6 +1,6 @@
 ---
 title: "Clickstream Data Mining Techniques: An Introduction"
-siteMetadescription:
+siteMetadescription: RudderStack introduces the Clickstream Data Mining Techniques by comprising the two main key algorithms. The Markov Chain, as well as the cSPADE algorithm.
 date: 2020-07-23T00:00:00+05:30
 featureImg: ../assets/9rs.blog_-750x355.png
 category: Tutorials

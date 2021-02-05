@@ -1,6 +1,6 @@
 ---
 title: "RudderStack Releases Support for Google Pub/Sub and Monetate"
-siteMetadescription:
+siteMetadescription: RudderStack makes two new additions in the integration suite - Google Pub/Sub and Monetate. Send the event data to the ells by simply adding on the dashboard.
 date: 2020-10-29T00:00:00+05:30
 featureImg: ../assets/integration1.blog_.rs_.png
 category: Product Announcements

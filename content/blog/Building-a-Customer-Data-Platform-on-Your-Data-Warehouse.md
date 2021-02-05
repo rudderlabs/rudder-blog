@@ -1,6 +1,6 @@
 ---
 title: "Building a Customer Data Platform on Your Data Warehouse"
-siteMetadescription:
+siteMetadescription: RudderStack builds a Customer Data Platform on the Data Warehouse. Where one can join all the customer data into a program & gets personalized UI encounter.
 date: 2020-02-26T00:00:00+05:30
 featureImg: ../assets/bekir-donmez-eofm5R5f9Kw-unsplash-750x355.jpg
 category: Thoughts & Opinions
