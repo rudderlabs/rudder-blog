@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "data-streams-using-rudderstack-with-aws-lambda-and-amazon-kinesis"
+weight: 1000
 ---
 **This blog presents an approach for routing data to RudderStack using Amazon Kinesis and AWS Lambda Functions.**
 

@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "why-event-based-or-mtu-based-pricing-is-broken"
+weight: 1000
 ---
 At [RudderStack](https://rudderstack.com/), we believe in sharing ways to build quality customer data infrastructure. Sharing an open-source product is at the heart of what we do. We also offer a premium and paid tier for a hosted enterprise feature. This includes advantages such as SSO, high availability, and dedicated support. After team discussions and evaluations about the most effective pricing structure and the disadvantages of event-based or MTU-based pricing models, we concluded that applying a fixed platform fee for our customers was the best solution.
 

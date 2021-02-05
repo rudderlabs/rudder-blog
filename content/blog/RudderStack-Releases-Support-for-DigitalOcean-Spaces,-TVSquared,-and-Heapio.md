@@ -9,6 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-releases-support-for-digitalocean-spaces-tvsquared-and-heap-io"
+weight: 1000
 ---
 RudderStack is delighted to announce three new destinations, DigitalOcean Spaces, TVSquared, and Heap Analytics.  
   

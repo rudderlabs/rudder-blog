@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "the-stack-of-the-future-building-a-warehouse-first-cdp-on-snowflake-using-rudderstack"
+weight: 1000
 ---
 The customer data stack of the future makes the warehouse a first-class citizen, leveraging both advanced storage/compute functionality and additional tooling to turn the warehouse into a customer data platform (CDP). 
 

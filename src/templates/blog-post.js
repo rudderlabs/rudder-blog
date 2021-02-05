@@ -207,7 +207,7 @@ export const pageQuery = graphql`
       }
     }
     recents : allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___weight], order: ASC }
       limit: 3
     ){
       edges {
@@ -226,6 +226,7 @@ export const pageQuery = graphql`
             author
             category
             slug
+            weight
           }
           excerpt(pruneLength: 130)
         }

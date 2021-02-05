@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "protect-your-event-data-before-its-too-late"
+weight: 1000
 ---
 Most enterprises know that [**PII** (**Personally Identifiable Information**)](https://en.wikipedia.org/wiki/Personal_data) within their customer data is extremely critical, and take extra steps to protect it. Databases holding PII are encrypted. Furthermore, organizations enforce strong access control and every access is logged. All that is really great. In this privacy and security-conscious world, the stakes of losing PII are too high. Not to mention that the risks of losing it now come with heavy penalties, especially with strong data protection laws such as GDPR and CCPA in place now. Event data should be an important consideration for data protection and this is why.  
 

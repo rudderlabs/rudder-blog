@@ -9,6 +9,7 @@ authorPic: ../assets/author/Dipanjan-Biswas.png
 authorPosition: 
 authorDescription: "Co-Founder and Director at RudderStack India. Has over 22 years of IT experience across various industry verticals, including leadership roles in some of the top IT MNCs. He's the architect of Electronic Fraud and Risk Management system for NPCI, which monitors most digital transactions in India."
 slug: "churn-prediction-using-bigqueryml"
+weight: 1000
 ---
 There are a lot of blogs out there on building churn prediction models using scikit-learn, R, or other advanced ML toolkits. However, most of them require strong engineering as well as data science skills. That said, it is now possible to create robust models using SQL and basic knowledge of data science by leveraging the tools that companies like Google have developed to democratize machine learning.
 

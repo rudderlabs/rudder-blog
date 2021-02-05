@@ -87,7 +87,7 @@ module.exports = {
         apiKey: process.env.ALGOLIA_ADMIN_KEY,
         queries: require("./src/utils/algolia"),
         enablePartialUpdates: true,
-        matchFields: ["title", "excerpt", "author", "date", "slug", "featureImg"]
+        matchFields: ["title", "excerpt", "author", "date", "slug", "featureImg", "weight"]
       },
     },
     {

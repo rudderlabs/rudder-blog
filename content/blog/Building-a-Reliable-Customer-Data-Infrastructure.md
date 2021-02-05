@@ -9,6 +9,7 @@ authorPic: ../assets/author/Eric-Dodds.png
 authorPosition: 
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 slug: "building-a-reliable-customer-data-infrastructure"
+weight: 1000
 ---
 **Customer Data Infrastructure (CDI)** is a typical example of a Data-Intensive Application. Martin Kleppmann’s book [Design Data-Intensive Applications](https://dataintensive.net/) does an amazing job of explaining what a data-intensive application is. CDI, at its core, is an infrastructure for capturing, processing, and routing streams of events from applications. 
 

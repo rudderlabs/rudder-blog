@@ -9,6 +9,7 @@ authorPic: ../assets/author/Kostas.png
 authorPosition: 
 authorDescription: "Head of Product at RudderStack."
 slug: "access-and-query-your-amazon-redshift-data-using-python-and-r"
+weight: 1000
 ---
 Overview
 --------

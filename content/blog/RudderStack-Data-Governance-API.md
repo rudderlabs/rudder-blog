@@ -18,6 +18,7 @@ authorPosition:
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 
 slug: "rudderstacks-data-governance-api"
+weight: 1000
 
 ---
 

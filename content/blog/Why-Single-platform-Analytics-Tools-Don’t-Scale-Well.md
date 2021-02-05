@@ -9,6 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "why-single-platform-analytics-tools-dont-scale-well"
+weight: 1000
 ---
 We recently came across this question on [Quora](https://www.quora.com/What-are-the-benefits-of-a-data-warehouse-for-a-web-startup-over-third-party-analytics-like-Google-Analytics-and-Mixpanel):  
 **_What are the benefits of a data warehouse for a web startup over third party analytics tools like Google Analytics and Mixpanel?_**  

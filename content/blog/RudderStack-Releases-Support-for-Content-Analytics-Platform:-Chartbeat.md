@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-content-analytics-platform-chartbeat"
+weight: 1000
 ---
 [RudderStack](https://rudderstack.com/) is proud to announce that it supports Chartbeat. Chartbeat is the leading content measurement, analytics, and optimization platform for businesses. With this integration, you can send events directly to Chartbeat via our native web SDKs using the RudderStack APIs.
 

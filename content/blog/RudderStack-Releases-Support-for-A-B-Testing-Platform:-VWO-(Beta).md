@@ -9,6 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-ab-testing-platform-vwo"
+weight: 1000
 ---
 We are pleased to announce RudderStack’s successful integration with VWO, an industry-leader in A/B testing, and improving digital customer experience. This is currently a beta release of the integration, as we plan on testing it more thoroughly and make it production-ready in all scenarios. We have built the integration with VWO to support our native web SDK. Once the integration is complete, you can send relevant events (experiments) from VWO directly to the destinations configured to the source.  
 
