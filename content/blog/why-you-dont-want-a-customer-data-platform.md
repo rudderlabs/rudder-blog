@@ -4,7 +4,7 @@ siteMetadescription: "Know everything about CDPs and the problems they solve. Al
 
 date: 2021-02-05T00:00:00+05:30
 
-featureImg: ../assets/markdown/9.blog.rs.png
+featureImg: ../assets/markdown/noCDP.png
 
 category:
 
