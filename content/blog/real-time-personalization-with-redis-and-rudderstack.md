@@ -97,17 +97,9 @@ No matter your pipeline structure, once you have the data, Redis enables the ele
 
 This is how you might call a user profile, including membership status, income bracket, and product recommendations based on their most recent purchase: 
 
-```
 
-// pseudo-code to retrieve user and recent purchases
+`gist:Veenap/f57a8d69390de41b080013d35acde37c.js`
 
-redis.call(“hget”, “user:”+userId+”:session:”_sessionId, “membership_status”, “income_bracket”, “recent_five_purchases”);
-
-// pseudo-code to determine recommendations based on user and recent purchases
-
-recommendations = getProductRecommendations(userId, recent_five_purchases)
-
-```
 
 
 ## Feeding Redis with the Right Data Using RudderStack
@@ -128,53 +120,15 @@ Our customers have called this the **real-time event feedback loop**, where the 
 
 Looking at our use case above, we want to send the most recent five purchases to Redis so that the model can use those data points to make personalized recommendations in the next step after checkout. Let’s say this set of data points is called `recent_five_purchases` with the item SKUs as the values. In this case, the user has only made 3 purchases. 
 
-```
+`gist:Veenap/0185ed7e018102b95ccff1739775c4e8.js`
 
-recent_five_purchases: {
 
-      purchase_1: ‘1578973’, 
 
-      purchase_2: ‘265098, 
+When the user makes an additional purchase, we can grab the item SKU, append it to the `recent_five_purchases` object that we already had in the data layer from our initial Redis call. Then we can include that object in an `identify()` call that RudderStack will send to Redis. The payload might look like this, where `purchase_4` is the most recent purchase: 
 
-      purchase_3: 998145, 
+`gist:Veenap/e60cc9e420dbd092370a8a8a5d0c4eb9.js`
 
-      purchase_4: null, 
 
-      purchase_5: null
-
-{
-
-```
-
-When the user makes an additional purchase, we can grab the item SKU, ppend it to the `recent_five_purchases` object that we already had in the data layer from our initial Redis call. Then we can include that object in an `identify()` call that RudderStack will send to Redis. The payload might look like this, where `purchase_4` is the most recent purchase: 
-
-```
-
-rudderanalytics.identify('a1b2c3d4e5f6g7h8i9', 
-
-  traits: {
-
-        email: ‘eric@rudderstack.com’, 
-
-        recent_five_purchases: {
-
-            purchase_1: ‘1578973’, 
-
-            purchase_2: ‘265098, 
-
-            purchase_3: ‘998145’, 
-
-            purchase_4: ‘7145087’, 
-
-            purchase_5: null
-
-         }
-
-     }
-
-);
-
-```
 
 When the `identify()` call runs, the user data is sent to Redis in real-time, making the complete set of recent purchases immediately available to the front-end, which can then use that data to call the model (whether via Redis or another API). The end result is that the page after the most recent purchase will include recommendations based on the users’ five most recent purchases, including the one they just made. 
 
