@@ -123,7 +123,7 @@ Our customers have called this the **real-time event feedback loop**, where the 
 
 
 
-![Real-time event feedback loop](..assets/markdown/RudderStackpersonalizationstack.jpg)
+![Real-time event feedback loop](../assets/markdown/RudderStackpersonalizationstack.jpg)
 
 
 Looking at our use case above, we want to send the most recent five purchases to Redis so that the model can use those data points to make personalized recommendations in the next step after checkout. Let’s say this set of data points is called `recent_five_purchases` with the item SKUs as the values. In this case, the user has only made 3 purchases. 
@@ -193,7 +193,7 @@ To get both data points to Redis, we can use RudderStack Cloud Extract to pull m
 
 
 
-![Profile Data Pipelines with RudderStack Cloud Extract and Warehouse Actions](..assets/markdown/RudderStackpersonalizationstack3.jpg)
+![Profile Data Pipelines with RudderStack Cloud Extract and Warehouse Actions](../assets/markdown/RudderStackpersonalizationstack3.jpg)
 
 
 **_Step 1: pulling membership status from Salesforce to the warehouse_**
