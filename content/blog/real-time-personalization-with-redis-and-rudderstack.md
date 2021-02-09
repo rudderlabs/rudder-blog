@@ -98,7 +98,7 @@ No matter your pipeline structure, once you have the data, Redis enables the ele
 This is how you might call a user profile, including membership status, income bracket, and product recommendations based on their most recent purchase: 
 
 
-`gist:Veenap/f57a8d69390de41b080013d35acde37c.js`
+`gist:Veenap/f57a8d69390de41b080013d35acde37c`
 
 
 
@@ -120,13 +120,13 @@ Our customers have called this the **real-time event feedback loop**, where the 
 
 Looking at our use case above, we want to send the most recent five purchases to Redis so that the model can use those data points to make personalized recommendations in the next step after checkout. Let’s say this set of data points is called `recent_five_purchases` with the item SKUs as the values. In this case, the user has only made 3 purchases. 
 
-`gist:Veenap/0185ed7e018102b95ccff1739775c4e8.js`
+`gist:Veenap/0185ed7e018102b95ccff1739775c4e8`
 
 
 
 When the user makes an additional purchase, we can grab the item SKU, append it to the `recent_five_purchases` object that we already had in the data layer from our initial Redis call. Then we can include that object in an `identify()` call that RudderStack will send to Redis. The payload might look like this, where `purchase_4` is the most recent purchase: 
 
-`gist:Veenap/e60cc9e420dbd092370a8a8a5d0c4eb9.js`
+`gist:Veenap/e60cc9e420dbd092370a8a8a5d0c4eb9`
 
 
 
