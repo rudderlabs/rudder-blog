@@ -340,7 +340,7 @@ function Header() {
                 </li>
 <li className={styles.menuItem}>
 <Link className={styles.menuLink}
-to="/integration"
+to="https://rudderstack.com/integration"
 tabIndex={2}
   >
   Integrations
