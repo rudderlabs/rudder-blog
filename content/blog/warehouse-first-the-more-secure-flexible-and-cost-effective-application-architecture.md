@@ -24,7 +24,7 @@ Last year may well have been the year of the cloud data warehouse (CDW). Snowfla
 
 A cohort of applications built on top of CDWs has risen from this huge, growing business. This trend was included as one of the most impactful ideas of 2020 in [Kleiner Perkins’ A 2020 Perspective](https://www.kleinerperkins.com/perspectives/a-2020-perspective/). Applications such as [Observe](https://www.observeinc.com/blog/welcome-to-observe/) use Snowflake to process all of their data and as their central data store, driving down the cost of storage to “[little more than the cost of Amazon S3](https://www.observeinc.com/blog/welcome-to-observe/).”
 
-In part one of this two-part series, we’ll define the warehouse-first architecture and its benefits. Next month our Friends at Message Gears will publish part two, diving deeper into warehouse-first applications.
+In part one of this two-part series, we’ll define warehouse-first architecture and its benefits. Next month our Friends at Message Gears will publish part two, diving deeper into warehouse-first applications.
 
 
 ## What is the Warehouse-First Architecture?
@@ -70,7 +70,7 @@ The resulting cost savings are substantial. At RudderStack, customers frequently
 
 Data silos and inflated bills from vendors of data-intensive applications are an artifact of design decisions made before CDWs were a viable option for their data lakes. Engineering teams had to build their own data stores, but that isn’t the case anymore. The capabilities and low cost of CDWs make them the perfect foundation to build modern applications.
 
-That’s why you should search for and choose warehouse-first applications. It’s a modern design decision based on modern technology that makes applications more secure, flexible, and cost-effective.  \
+That’s why you should search for and choose warehouse-first applications. It’s a modern design decision based on modern technology that makes applications more secure, flexible, and cost-effective. 
 
 
 Check back next month for more on warehouse-first architecture from our friends at [MessageGears](https://messagegears.com/). They’ll take the baton and elaborate on the results you can drive by adopting warehouse-first applications.
