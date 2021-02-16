@@ -10,7 +10,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "1mgs-data-stack-explained-how-they-harness-and-activate-unlimited-real-time-data"
-weight: 1000
+weight: 4
 ---
 Overview
 --------
