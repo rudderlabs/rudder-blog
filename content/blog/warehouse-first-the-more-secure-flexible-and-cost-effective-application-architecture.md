@@ -70,7 +70,7 @@ The resulting cost savings are substantial. At RudderStack, customers frequently
 
 Data silos and inflated bills from vendors of data-intensive applications are an artifact of design decisions made before CDWs were a viable option for their data lakes. Engineering teams had to build their own data stores, but that isn’t the case anymore. The capabilities and low cost of CDWs make them the perfect foundation to build modern applications.
 
-That’s why you should search for and choose warehouse-first applications. It’s a modern design decision based on modern technology that makes applications more secure, flexible, and cost-effective. 
+That’s why you should search for and choose warehouse-first applications. It’s a modern design decision based on modern technology that makes applications more secure, flexible, and cost-effective.
 
 
 Check back next month for more on warehouse-first architecture from our friends at [MessageGears](https://messagegears.com/). They’ll take the baton and elaborate on the results you can drive by adopting warehouse-first applications.
