@@ -1,7 +1,7 @@
 ---
 title: "RudderStack Supports Google Analytics as a Cloud Extract Source"
 siteMetadescription: "RudderStack now supports Google Analytics as a Cloud Extract source. Seamlessly ingest your customer event data and route it to your data warehouse or your favorite third-party destinations."
-featureImg: ../assets/supportsgoogleanalytics.png
+featureImg: ../assets/markdown/supportsgoogleanalytics.png
 category: Product Announcements
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
