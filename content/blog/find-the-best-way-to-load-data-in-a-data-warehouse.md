@@ -6,7 +6,7 @@ metaTitle: "The Best Way to Load Data in a Data Warehouse | Rudderstack"
 
 date: 2021-02-11T00:00:00+05:30
 
-featureImg: ../assets/markdown/9.blog.rs.png
+featureImg: ../assets/markdown/findbestwaytoloaddata.png
 
 category:
 
