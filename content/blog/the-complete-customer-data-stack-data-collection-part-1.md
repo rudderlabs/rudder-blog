@@ -9,7 +9,7 @@ authorPic: ../assets/author/Kostas.png
 authorPosition:
 authorDescription: "Head of Product at RudderStack."
 slug: "the-complete-customer-data-stack-data-collection-part-1"
-weight:1
+weight: 1
 ---
 
 # The Importance of Categories
