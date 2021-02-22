@@ -1,25 +1,16 @@
 ---
 title: "The Complete Customer Data Stack: Data Collection (Part 1)"
 siteMetadescription: "Tackle problems while building data infrastructure for your organization - what data you are going collect, from where, and how to do it"
-
 date: 2021-02-22T00:00:00+05:30
-
 featureImg: ../assets/markdown/thecompletecustomerdatastack.png
-
 category:
-
 author: Kostas
-
 authorPic: ../assets/author/Kostas.png
-
 authorPosition:
-
 authorDescription: "Head of Product at RudderStack."
-
 slug: "the-complete-customer-data-stack-data-collection-part-1"
 weight:1
 ---
-
 
 # The Importance of Categories
 
