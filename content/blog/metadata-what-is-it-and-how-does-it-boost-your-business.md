@@ -11,6 +11,7 @@ authorDescription: "Content Writer at RudderStack. Loves to be updated with the 
 slug: "metadata-what-is-it-and-how-does-it-boost-your-business"
 weight: 50
 ---
+
 The entire internet is flooded with the concept of metadata, and yet the majority of users have no clue what metadata is or how it works. In essence, the word _meta_ translates to _beyond_. 
 
 The specific interpretation of metadata cannot be pinpointed as the meaning depending on the context of use. However, as per most information glossaries, the prefix _meta_ stands for _an underlying definition or description_.
