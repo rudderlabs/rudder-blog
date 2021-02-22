@@ -2,7 +2,7 @@
 title: "Metadata: What is it, and How Does it Boost Your Business?"
 siteMetadescription: "Understand what is metadata, types of metadata, how does it help your website for search enine optimization, and how to use metadata."
 date: 2021-02-17T00:00:00+05:30
-featureImg: ../assets/markdown/9.blog.rs.png
+featureImg: ../assets/markdown/whatismetadata.png
 category: 
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
