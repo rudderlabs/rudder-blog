@@ -9,7 +9,7 @@ authorPic: ../assets/author/Dipanjan-Biswas.png
 authorPosition: 
 authorDescription: "Co-Founder and Director at RudderStack India. Has over 22 years of IT experience across various industry verticals, including leadership roles in some of the top IT MNCs. He's the architect of Electronic Fraud and Risk Management system for NPCI, which monitors most digital transactions in India."
 slug: "protect-personally-identifiable-information-pii-using-rudderstack"
-weight: 1000
+weight: 
 ---
 Introduction
 ------------

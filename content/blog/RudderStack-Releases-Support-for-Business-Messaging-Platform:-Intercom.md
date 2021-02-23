@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-business-messaging-platform-intercom"
-weight: 1000
+weight: 
 ---
 We are pleased to announce the successful integration of [RudderStack](https://rudderstack.com) with Intercom – the industry-leading business messaging platform today. You can now send your customer event data to Intercom directly through RudderStack’s server or our native [Android](https://github.com/rudderlabs/rudder-integration-intercom-android) or [iOS](https://github.com/rudderlabs/rudder-integration-intercom-ios) SDKs by calling the relevant APIs.
 

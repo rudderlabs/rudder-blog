@@ -17,7 +17,7 @@ authorPosition:
 authorDescription: "Savia Lobo is a Content Writer at RudderStack. She is a techie at heart and loves to stay up to date with tech happenings across the globe. If she is not writing or reading, you will find her singing and composing songs."
 
 slug: "rudderstack-supports-salesforce-as-a-cloud-extract-source"
-weight: 16
+weight: 
 ---
 
 We're excited to announce that [RudderStack](http://www.rudderstack.com) now supports Salesforce as a Source. We already support [Salesforce as a destination](https://rudderstack.com/integration/salesforce/). By integrating Salesforce as a source, you can effortlessly send the events captured by Salesforce to RudderStack. You can then forward these events to your desired destinations for further analytics and detailed insights.

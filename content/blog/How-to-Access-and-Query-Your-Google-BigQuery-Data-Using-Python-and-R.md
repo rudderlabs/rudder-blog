@@ -9,7 +9,7 @@ authorPic: ../assets/author/Kostas.png
 authorPosition: 
 authorDescription: "Head of Product at RudderStack."
 slug: "how-to-access-and-query-your-bigquery-data-using-python-and-r"
-weight: 1000
+weight: 
 ---
 Overview
 --------

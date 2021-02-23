@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-releases-support-for-google-pub-sub-and-monetate"
-weight: 1000
+weight: 
 ---
 [RudderStack](http://www.rudderstack.com) is proud to announce two new additions to our integrations’ suite – Google Pub/Sub and Monetate. You can now send your real-time customer event data to Google Pub/Sub and Monetate by simply adding them as a destination on the [RudderStack dashboard](http://app.rudderlabs.com/signup?type=freetrial).
 

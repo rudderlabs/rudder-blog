@@ -17,7 +17,7 @@ authorPosition:
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 
 slug: "rudderstack-cloud-extract-makes-cloud-to-warehouse-pipelines-easy"
-weight: 1000
+weight: 
 ---
 
 When it comes to your customer data there tend to be very common silos for many businesses. One is around the event data from different customer touchpoints, frequently residing in your customer data platform and streamed to different tools, or in individual analytics tools (product, marketing, etc.). 

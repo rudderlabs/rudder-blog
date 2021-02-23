@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition:
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-releases-support-for-source-integrations-looker-and-auth0"
-weight: 1000
+weight: 
 ---
 RudderStack is proud to announce two new additions to the Source Integrations catalog – Looker and Auth0. Sources are a specified set of tools or platforms through which event data can be easily ingested into RudderStack and then can be routed to your preferred destination for further analytics. 
 

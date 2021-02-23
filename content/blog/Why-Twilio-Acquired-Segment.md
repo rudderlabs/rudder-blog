@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "why-twilio-acquired-segment"
-weight: 1000
+weight: 9
 ---
 Congratulations to the team at **Segment** for their massive acquisition by Twilio. From being founded in 2012 to getting acquired in 2020 (for billions) is a huge success and a testament to their team’s outstanding execution.
 

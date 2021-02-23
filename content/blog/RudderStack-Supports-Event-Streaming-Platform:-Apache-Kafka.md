@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-supports-event-streaming-platform-apache-kafka"
-weight: 1000
+weight: 
 ---
 RudderStack is proud to announce support for Apache Kafka as a destination. By adding Apache Kafka as a destination, you can build real-time data pipelines and scalable streaming applications with ease. You can also integrate with the popular event sources (PostgreSQL, Amazon S3, Elasticsearch, and more!) and store your event streams in a secure, distributed, and fault-tolerant manner.
 

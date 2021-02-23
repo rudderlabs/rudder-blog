@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-case-study-casino-game-analytics"
-weight: 1000
+weight: 
 ---
 Wynn Casino, a mobile casino game, is one of the first enterprise customers of [RudderStack](/). Their spin wheel game is one of the most popular games in the casino game category. Their engagement numbers double every six months. In this post, we give you a brief overview of how Wynn Casino Game used RudderStack to optimize mobile game analytics.
 

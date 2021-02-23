@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "metadata-what-is-it-and-how-does-it-boost-your-business"
-weight: 50
+weight: 
 ---
 
 The entire internet is flooded with the concept of metadata, and yet the majority of users have no clue what metadata is or how it works. In essence, the word _meta_ translates to _beyond_. 

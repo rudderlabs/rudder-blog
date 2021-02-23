@@ -9,7 +9,7 @@ authorPic: ../assets/author/Arnab-Pal.png
 authorPosition: 
 authorDescription: "Software Team Lead at RudderStack. Leads the integrations team, and specializes in Java and Android development."
 slug: "5-best-practices-for-tracking-in-app-events-data-analysis"
-weight: 1000
+weight:
 ---
 This is the era of mobile apps. We get everything – from critical business information to entertaining videos and games – on our mobile devices. Information is right at our fingertips, and we are always striving to catch up with the outside world. As per [App Annie](https://www.appannie.com/en/insights/market-data/app-annie-2017-retrospective/), an average smartphone user has 80 apps installed.
 

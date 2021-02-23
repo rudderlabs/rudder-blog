@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-customer-engagement-platforms-customerio-leanplum-braze"
-weight: 1000
+weight: 
 ---
 [RudderStack](https://rudderstack.com/) is pleased to announce its successful integration with three of the most popularly used targeted marketing and customer engagement platforms for the mobile and web. We now support Customer.io, Leanplum, and Braze. RudderStack allows you to send your customer event data to these platforms in two ways. You can send your data through the Server-to-Server cloud mode. You can also send event data through our dedicated SDKs for native web, iOS, and Android.
 

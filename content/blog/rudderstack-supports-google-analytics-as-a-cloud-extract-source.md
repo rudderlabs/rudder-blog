@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-supports-google-analytics-as-a-cloud-extract-source"
-weight: 35
+weight: 
 ---
 We're excited to share that [RudderStack](http://www.rudderstack.com) now supports Google Analytics as a Cloud Extract source. With this addition, you can seamlessly ingest your customer event data and route it to your data warehouse or your favorite third-party destinations. 
 

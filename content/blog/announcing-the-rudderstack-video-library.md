@@ -9,7 +9,7 @@ authorPic: ../assets/author/Eric-Dodds.png
 authorPosition: 
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 slug: "announcing-rudderstack-video-library"
-weight: 1000
+weight: 
 ---
 
 Today we’re launching our RudderStack Video Library, a collection of informative videos that help developers understand our product’s features and usage. We’re starting small, but the library will proliferate with all kinds of helpful content. Check out the first few webinars we have listed [here](https://resources.rudderstack.com/video-library). 

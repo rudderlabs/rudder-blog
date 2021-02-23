@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-an-open-source-customer-data-infrastructure-podcast-with-soumyadeb-mitra"
-weight: 1000
+weight: 
 ---
 RudderStack is an open-source Customer Data Infrastructure for collecting and routing your customer data for analytics. With a special focus on data privacy, security, and reliability, RudderStack is enterprise-ready and gives you the flexibility of transforming your event data to suit your business requirements.
 

@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-support-for-analytics-platforms-google-analytics-amplitude-firebase-kissmetrics-mixpanel-keenio"
-weight: 1000
+weight: 
 ---
 RudderStack is happy to announce its successful integration with some of the leading analytics platforms out there – namely Google Analytics, Amplitude, Mixpanel, Firebase, Keen.io, and Kissmetrics. We have built these integrations to support our web-native SDKs as well as the cloud mode. In the cloud mode, the event data is sent directly to the RudderStack servers, which transform and route the data to these platforms in the desired format. For Firebase, we have released the [Android](https://github.com/rudderlabs/rudder-integration-firebase-android) and [iOS](https://github.com/rudderlabs/rudder-integration-firebase-ios) native SDKs so that you can send your event data directly from your mobile devices for seamless analytics.  
 

@@ -17,7 +17,7 @@ authorPosition:
 authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
 
 slug: "why-you-dont-want-a-customer-data-platform"
-weight: 15
+weight: 
 ---
 It’s been almost a year since Segment and a group of their partners declared that [CRM is not enough](https://segment.com/crm-is-not-enough/). We agree with their assessment that you have to go far beyond CRM to connect the disparate channels through which Sales, Support, Marketing, and Product engage your customers. 
 

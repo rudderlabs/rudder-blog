@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "clickstream-analytics-gamechanger-for-ecommerce"
-weight: 1000
+weight:
 ---
 Today, websites and mobile applications have become the digital storefronts of every eCommerce company. This move to the digital platform has lowered the entry point to establish a retail business. It has also made time and distance irrelevant in the pursuit of customer acquisition and sales. However, the loss of the in-person interaction has also introduced some new and unique challenges such as ensuring good conversion rates, optimizing the customer experience, and more. **Clickstream Analytics** has proved to be a vital tool in addressing these challenges faced by the eCommerce industry.
 

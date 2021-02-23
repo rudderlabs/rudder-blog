@@ -10,7 +10,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Techie at heart and loves to stay up to date with tech happenings across the globe. Loves singing and composing songs."
 slug: "rudderstack-adds-support-for-google-analytics-4-as-a-destination"
-weight: 1000
+weight: 
 ---
 
 We're happy to announce that [RudderStack](http://www.rudderstack.com) now [supports Google Analytics 4 as a destination](https://rudderstack.com/integration/google-analytics-4/). Google Analytics 4 is the latest property with better instrumentation and reports than the previous version (popularly known as [Universal Analytics](https://support.google.com/analytics/answer/10220206)).  

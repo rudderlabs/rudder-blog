@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-supports-new-google-services-as-cloud-extract-sources"
-weight: 55
+weight: 
 ---
 RudderStack is excited to announce support for a few new Google Services - [Google Sheets](https://rudderstack.com/integration/google-sheets-source/), [Google Ads](https://rudderstack.com/integration/google-ads-source/), and [Google Search Console](https://rudderstack.com/integration/google-search-console-source/) - as Cloud Extract Sources. 
 

@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-website-recording-platforms-fullstory-hotjar"
-weight: 1000
+weight: 
 ---
 We are pleased to announce RudderStack’s successful integration with FullStory and Hotjar. FullStory and Hotjar offer rich website recording, behavioral analytics, and digital experience capabilities. You can easily integrate RudderStack with these platforms using our native web SDKs. Once integrated, you can use our SDK to send customer event data directly to FullStory. Hotjar automatically tracks user data related to page visits and their activity, so there is no need to call any of the page or track methods explicitly.  
 

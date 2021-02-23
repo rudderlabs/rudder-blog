@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-cloud-data-storage-platforms-amazon-s3-microsoft-azure-blob-storage-minio"
-weight: 1000
+weight: 
 ---
 [RudderStack](https://rudderstack.com) is pleased to announce support for four major cloud data storage platforms, namely Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, and MinIO. Once you add these as destinations, RudderStack automatically collects the event data. After this, RudderStack stores it into the data buckets as configured on these platforms.
 

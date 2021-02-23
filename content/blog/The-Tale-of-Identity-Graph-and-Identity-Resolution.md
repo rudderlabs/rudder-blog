@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "the-tale-of-identity-graph-and-identity-resolution"
-weight: 1000
+weight: 
 ---
 In our previous article on [Game Analytics for Mobil](https://rudderstack.com/blog/rudderstack-case-study-casino-game-analytics/)e, we showed how to build an open-source analytics solution using [RudderStack](http://www.rudderstack.com). As highlighted in the article, understanding users is crucial to every analysis. Hence, it is essential to tie the events or activities to the individual users generating those events. Analytics platforms help collect this data. Unfortunately, this is not trivial in the world where users often browse anonymously or use multiple identities (e.g., email, phone) with the same product or access from different devices and channels. The problem of ID resolution is to able to tie these different identities together whenever possible in a privacy-preserving way. An identity graph helps to understand these relationships better.
 

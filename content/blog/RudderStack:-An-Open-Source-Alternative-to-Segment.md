@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "rudder-an-open-source-alternative-to-segment"
-weight: 1000
+weight: 
 ---
 How to Setup RudderStack
 ------------------------

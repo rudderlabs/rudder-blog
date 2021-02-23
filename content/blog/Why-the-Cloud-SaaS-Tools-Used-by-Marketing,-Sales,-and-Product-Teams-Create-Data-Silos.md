@@ -9,7 +9,7 @@ authorPic: ../assets/author/Eric-Dodds.png
 authorPosition: 
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 slug: "heres-why-the-cloud-tools-used-by-marketing-sales-and-product-create-data-silos/"
-weight: 1000
+weight: 
 ---
 Over the last 5 years, cloud SaaS tools have made the jobs of developers and data engineering teams much easier in many ways. One of the most profound improvements has been the ability for teams to ‘outsource’ the build and infrastructure management of core functionalities. 
 

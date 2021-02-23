@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition:
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-webinar-for-nshm-kolkata-an-open-source-initiative"
-weight: 13
+weight: 
 ---
 
 RudderStack is an **open-source** customer data pipeline tool. 

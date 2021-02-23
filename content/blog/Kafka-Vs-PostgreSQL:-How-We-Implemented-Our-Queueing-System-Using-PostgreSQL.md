@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "kafka-vs-postgresql-implementing-our-queueing-system-using-postgresql"
-weight: 1000
+weight: 
 ---
 **Overview**
 ------------

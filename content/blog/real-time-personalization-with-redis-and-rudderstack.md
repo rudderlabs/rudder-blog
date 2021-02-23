@@ -17,7 +17,7 @@ authorPosition:
 authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
 
 slug: "real-time-personalization-with-redis-and-rudderstack"
-weight: 12
+weight:
 ---
 
 Personalization is a big topic, and for a good reason. Companies that achieve high-quality personalization see significant improvements, to the tune of a [5-15 percent increase](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-future-of-personalization-and-how-to-get-ready-for-it#) in _revenue_! There’s much excitement on the topic; however, the reality is that many businesses haven’t moved past basic personalization. Companies are still providing users only basic customization, such as one-size-fits-all recommendations or one of a few simple, pre-defined customer journeys. 

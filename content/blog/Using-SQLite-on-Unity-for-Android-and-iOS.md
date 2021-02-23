@@ -9,7 +9,7 @@ authorPic: ../assets/author/Kostas.png
 authorPosition: 
 authorDescription: "Head of Product at RudderStack."
 slug: "mobile-persistent-storage-with-sqlite-on-unity-for-android-and-ios"
-weight: 1000
+weight: 
 ---
 While going through the [RudderStack](https://github.com/rudderlabs/rudder-server) SDK roadmap, we decided to include Unity next in the list of the supported platforms. Why Unity? We found that despite heavily relying on data, the hosted customer data management solutions out there underserve the gaming industry. This dependency on data is the result of a number of factors. Games generate a high volume of data, especially telemetry data coming from mobile devices while gaming companies face great difficulty in the monetization of their products.
 

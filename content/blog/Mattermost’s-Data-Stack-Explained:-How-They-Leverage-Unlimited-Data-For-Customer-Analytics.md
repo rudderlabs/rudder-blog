@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "mattermosts-data-stack-explained-how-they-leverage-unlimited-data-for-customer-analytics"
-weight: 1000
+weight: 
 ---
 **Overview**
 ------------

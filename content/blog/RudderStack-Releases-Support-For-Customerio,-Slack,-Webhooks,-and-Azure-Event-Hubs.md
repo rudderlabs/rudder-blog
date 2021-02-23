@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-releases-support-for-customer-io-slack-webhooks-and-azure-event-hubs"
-weight: 1000
+weight: 
 ---
 RudderStack is proud to announce its support for a new source – [Customer.io](https://rudderstack.com/sources/customerio/), as well as 3 new destinations namely [Slack](https://rudderstack.com/integration/slack/), [Webhooks](https://rudderstack.com/integration/webhooks/), and [Azure Event Hubs](https://rudderstack.com/integration/azure-event-hubs/).
 

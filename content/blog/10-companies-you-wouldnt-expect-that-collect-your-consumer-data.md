@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "ten-companies-you-wouldnt-expect-that-collect-consumer-data"
-weight: 1000
+weight:
 ---
 
 How concerned are you about companies collecting your personal data? This isn’t a new concern. In fact, it’s been almost eight years since Edward Snowden’s release of materials detailing the sharing of personal data by companies like Facebook, Google, and Apple with the NSA. 

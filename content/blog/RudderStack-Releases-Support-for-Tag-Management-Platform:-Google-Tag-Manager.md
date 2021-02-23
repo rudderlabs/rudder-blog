@@ -9,7 +9,7 @@ authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition: 
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 slug: "rudderstack-supports-tag-management-platform-google-tag-manager"
-weight: 1000
+weight: 
 ---
 We are delighted to announce RudderStack’s successful integration with Google Tag Manager – the world’s leading tag management platform used by many businesses. Once added as an integration, you can send your customer events to the Google Tag Manager (GTM) data layer directly using RudderStack’s JavaScript SDK.
 

@@ -9,7 +9,7 @@ authorPic: ../assets/author/Savia-Lobo.png
 authorPosition: 
 authorDescription: "Content Writer at RudderStack. Loves to be updated with the tech happenings around the globe. Loves singing and composing songs. Believes in putting the art in smart."
 slug: "rudderstack-releases-support-for-aws-services-amazon-kinesis-amazon-eventbridge-aws-personalize"
-weight: 1000
+weight: 
 ---
 We’re pleased to announce that [RudderStack](http://www.rudderstack.com/) now supports three more AWS services – namely Amazon Kinesis, EventBridge, and Personalize. By adding these as destinations, you can seamlessly send data from your different event sources for further data processing and analysis.
 

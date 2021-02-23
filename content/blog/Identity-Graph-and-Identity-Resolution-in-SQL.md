@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "identity-graph-and-identity-resolution-in-sql"
-weight: 1000
+weight: 
 ---
 In our previous blog, [The Tale of Identity Graph and Identity Resolution](https://rudderstack.com/blog/the-tale-of-identity-graph-and-identity-resolution/), we described the problem of identity resolution. We used a concrete example of a user visiting an eCommerce site from multiple websites. Specifically, we showed how the app events can be associated with multiple identities and how these identities can be tied together using the `identify()` call. We captured the association using the following identity graph:
 

@@ -19,7 +19,7 @@ authorPosition:
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
 
 slug: "find-the-best-way-to-load-data-in-a-data-warehouse"
-weight: 35
+weight:
 ---
 
 Data warehousing is the process of collecting and managing different-source data to provide meaningful business insights. 

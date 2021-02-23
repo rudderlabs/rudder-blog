@@ -9,7 +9,7 @@ authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
 slug: "rudderstack-it-is-time-to-take-back-control-of-your-data"
-weight: 1000
+weight: 
 ---
 The explosion of SaaS tools in sales and marketing departments has led to the flow of customer data into numerous third-party organizations. Although this data flow is sometimes necessary, customers are often in the dark about how the data is being collected and used. Also, these third-party tools tend to collect more data than necessary for their functionality. Finally, with data privacy regulations around the horizon such as [GDPR](https://gdpr-info.eu/) and [CCPA](https://oag.ca.gov/privacy/ccpa), having a good understanding of the customer data flow – both within and outside the organization – has now become more important than ever. That’s why we are now presenting-RudderStack!
 

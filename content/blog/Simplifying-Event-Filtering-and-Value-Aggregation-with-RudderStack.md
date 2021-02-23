@@ -9,7 +9,7 @@ authorPic: ../assets/author/Kostas.png
 authorPosition: 
 authorDescription: "Head of Product at RudderStack."
 slug: "simplifying-event-filtering-and-value-aggregation-with-rudderstack"
-weight: 1000
+weight: 
 ---
 Dealing with event data is dirty work at times. Developers may transmit events with errors because of a change a developer made. Also, sometimes errors could be introduced if the data engineering team decides to change something on the data warehouse schema. Due to these changes to the schema, data type conflict may occur.  How can someone deal with all the different event data issues that might arise in a production environment? This blog discusses how [RudderStack](http://www.rudderstack.com) handles event filtering and value aggregation without introducing manual errors.  
 
