@@ -32,22 +32,22 @@ Adding a destination and connecting it to a source from the RudderStack dashboar
 
 
 
-*   1. From your RudderStack workspace, click on the **ADD DESTINATION** option. You can find this option on the **Connections** home page from the **Destinations** list.
-*   2. Search for the desired destination in the **Destinations** catalog, and click on the destination’s tile (e.g., **ActiveCampaign**).
+*   **Step 1:** From your RudderStack workspace, click on the **ADD DESTINATION** option. You can find this option on the **Connections** home page from the **Destinations** list.
+*   **Step 2:**. Search for the desired destination in the **Destinations** catalog, and click on the destination’s tile (e.g., **ActiveCampaign**).
 
 
 
 ![Destinations](../assets/markdown/AddSourcedirectory.png)
 
 
-*   3. Enter the desired name for your destination and click on **Next**.
+*   **Step 3:**. Enter the desired name for your destination and click on **Next**.
 
     
 
 ![Name Destination](../assets/markdown/Adddestination.png)
 
 
-*   4. Choose which source(s) should send data to this destination, and click **Next**.
+*   **Step 4:** Choose which source(s) should send data to this destination, and click **Next**.
 
     
 
@@ -55,14 +55,14 @@ Adding a destination and connecting it to a source from the RudderStack dashboar
 ![Choose Sources](../assets/markdown/ConnectSources.png)
 
 
-*   5. Next, in the **Connection Settings** section, enter the required fields, such as **API Key**, **ActID**, **Event Key**, and click **Next**.  
+*   **Step 5:** Next, in the **Connection Settings** section, enter the required fields, such as **API Key**, **ActID**, **Event Key**, and click **Next**.  
 
     
 
 ![Connection Settings](../assets/markdown/Connectionsettingsdestination.png)
 
 
-*   6. Next, choose the transformation you wish to use. You can write your custom transformation and select it. Else, you can select **No transformation needed** and click **Next**.
+*   **Step 6:**. Next, choose the transformation you wish to use. You can write your custom transformation and select it. Else, you can select **No transformation needed** and click **Next**.
 
     
 
@@ -70,7 +70,7 @@ Adding a destination and connecting it to a source from the RudderStack dashboar
 
 
 
-   Voila! You have successfully added your destination to your sources(s):
+   Voilà! You have successfully added your destination to your sources(s):
 
 
 
@@ -97,7 +97,7 @@ Adding a source on the RudderStack dashboard is simple and takes just a few minu
 
 
 
-*   1. Log into your [RudderStack workspace](http://app.rudderstack.com/) and click on **ADD SOURCE**. This option appears on the **Connections** home page or the **Sources** list.
+*   **Step 1:**. Log into your [RudderStack workspace](http://app.rudderstack.com/) and click on **ADD SOURCE**. This option appears on the **Connections** home page or the **Sources** list.
 
     
 
@@ -106,7 +106,7 @@ Adding a source on the RudderStack dashboard is simple and takes just a few minu
 ![Add Source](../assets/markdown/SourceHomepage.png)
 
 
-*   2. Select your desired Source from the **Sources** catalog, and click the Source’s tile (e.g., **iOS**)
+*   **Step 2:** Select your desired Source from the **Sources** catalog, and click the Source’s tile (e.g., **iOS**)
 
     
 
@@ -114,7 +114,7 @@ Adding a source on the RudderStack dashboard is simple and takes just a few minu
 ![Select the Desired Source](../assets/markdown/AddSourcedirectory.png)
 
 
-*   3. Enter the desired name for your source and click on **Next**, and It’s done!
+*   **Step 3:** Enter the desired name for your source and click on **Next**, and It’s done!
 
     
 
@@ -125,7 +125,7 @@ Adding a source on the RudderStack dashboard is simple and takes just a few minu
 Now, you can connect your source to your preferred destination to route your customer data from the [Six Simple Steps to Adding New Destinations](#six-simple-steps-to-adding-new-destinations).
 
 
-## Explore More with RudderStack
+## Explore More With RudderStack
 
 We currently support over 20 sources, including [Warehouse Actions](https://docs.rudderstack.com/warehouse-actions), [Cloud Extracts](https://docs.rudderstack.com/cloud-extract-sources), and [Event streams](https://docs.rudderstack.com/rudderstack-event-streams). We also support over 80 [destinations](https://docs.rudderstack.com/destinations) and add a new one every two weeks, so be sure to look at the other [integrations](https://rudderstack.com/integration/) we support.    
 
