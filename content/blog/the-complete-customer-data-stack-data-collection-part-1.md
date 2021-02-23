@@ -55,14 +55,19 @@ You need reliability and high availability because when dealing with capturing d
 
 The good thing with event data, though, is that a small data loss is not going to kill you; customer behavioral data is not P&L report entries.
 
+### Capture
 Working with event data starts at the point where they are captured. This usually happens by using some kind of SDK, which can be incorporated into your web app, mobile app, or website. Then you use the SDK to generate an event every time an action happens and enrich it with useful metadata, for example, who triggered the event. 
 
+### Deliver
 After the event is captured by the SDK, it will be pushed into the data infrastructure. The SDK needs to take care of any failures while respecting the resources of the host, e.g., you don’t want the SDK to blow up the CPU or memory of a mobile device. Keep in mind that guaranteeing that there will be zero data loss is impossible. For example, a mobile app has to push data to the infrastructure, the network is down, and the user decides to kill the app. 
 
+### Queue
 After the data is delivered to the data infrastructure, it’s usually received into a queuing system that can maintain the ordering of the events. This is important, especially if the events drive some kind of behavior. This is the reason why systems like Kafka have very well-defined ordering semantics. 
 
+### Process
 After the event data is queued in such a system, they can be processed in a streaming fashion. In this case, it’s ideal to have a queuing system that can sustain high throughput, as these applications are usually real-time. 
 
+### Store
 Finally, the data can also be stored for batch processing or archiving.  
 
 
