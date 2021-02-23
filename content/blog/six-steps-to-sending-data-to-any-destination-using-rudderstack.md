@@ -9,7 +9,7 @@ authorPic: ../assets/author/Arnab-Pal.png
 authorPosition:
 authorDescription: "Software Team Lead at RudderStack. Leads the integrations team, and specializes in Java and Android development."
 slug: "six-steps-to-sending-data-to-any-destination-using-rudderstack"
-weight: 
+weight: 10
 ---
 
 RudderStack is an open-source platform that enables collecting and routing your customer event data to focus on data privacy and security. RudderStack replaces the need to build separate integration with each third-party tool and unlocks rapid iteration for your product and growth teams.
