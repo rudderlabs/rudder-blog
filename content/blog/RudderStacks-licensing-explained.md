@@ -57,7 +57,7 @@ Features licensed under our enterprise license include:
 *   Cloud Extract
 *   Transformations
 *   Event Replay
-*   **SSO (Single Sign-On)**
+*   SSO (Single Sign-On)
 
 A simplified explanation of our enterprise license is that you can only use the software under it as we specify. You can only use it in your RudderStack instance and only if you are an Enterprise customer. If you build anything on top of it or spin up your own instance, you cannot distribute or commercialize it and are not allowed to use it if you aren’t an Enterprise customer.
 
