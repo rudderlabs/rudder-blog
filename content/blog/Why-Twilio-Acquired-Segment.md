@@ -1,6 +1,6 @@
 ---
 title: "Why Twilio Acquired Segment"
-siteMetadescription: RudderStack unveils the heavy acquirement of the Segment by Twilio. Application Stack to the End-to-End Marketing Cloud Twilio active gained the segment.  
+siteMetadescription: "RudderStack unveils the heavy acquirement of the Segment by Twilio. Application Stack to the End-to-End Marketing Cloud Twilio active gained the segment."
 date: 2020-10-11T00:00:00+05:30
 featureImg: ../assets/RudderStack-Cloud-teaser-images-2-750x355.jpg
 category: Thoughts & Opinions
