@@ -12,7 +12,7 @@ slug: "reverse-etl-is-just-another-data-pipeline"
 weight: 1
 ---
 
-Astasia from RedPoint Ventures wrote a great post on new technologies supporting “reverse ETL” functionality in the customer data stack. 
+Astasia from RedPoint Ventures wrote a [great post](https://www.linkedin.com/feed/update/urn:li:activity:6770012325396262912/) on new technologies supporting “reverse ETL” functionality in the customer data stack. 
 
 We’re excited to be innovating in the area of reverse ETL tech (via our Warehouse Actions feature) and our product and engineering teams discuss these topics and industry trends often, so we thought it would be helpful to provide a bit more technical depth on a few of Astasia’s points. 
 
