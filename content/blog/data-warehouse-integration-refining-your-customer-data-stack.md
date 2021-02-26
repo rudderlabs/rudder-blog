@@ -19,12 +19,12 @@ Users can consolidate such information by setting up an ETL-powered data pipe.
 This pipeline can extract data from essential systems, cleanse and integrate it before storing it all in one huge relational database, i.e., a data warehouse.
 
 
-# Eight-Step Plan for Data Warehouse Implementation
+## Eight-Step Plan for Data Warehouse Implementation
 
 Once users have recognized the need for data warehouse management, it is time to start planning. The following steps for a data warehouse implementation are a must-know for successful data management.
 
 
-## #1 Gather Requirements
+### #1 Gather Requirements
 
 Multiple stakeholders will most likely be involved in such a company-wide data project. 
 
@@ -45,7 +45,7 @@ If so, contact with the following professionals is essential:
 Once everything is in place, implementing the data warehouse is ready to kick off. 
 
 
-## #2 Create Warehouse Environments 
+### #2 Create Warehouse Environments 
 
 
 Following this stage, several options for the warehouse environment will be available:  
@@ -63,7 +63,7 @@ Following this stage, several options for the warehouse environment will be avai
 You will also need to create three separate environments: development, testing, and production.
 
 
-## #3 Choose a Data Model 
+### #3 Choose a Data Model 
 
 
 Data modeling is the most challenging aspect in implementing a data warehouse. By default, each source database has an individual schema. Once a warehouse schema has been established, all incoming data should fit it. 
@@ -78,7 +78,7 @@ Here are some of the main schema-types available:
 *   **Constellation schema**: Boosted galaxy schema dimensional tables through an added hierarchy
 
 
-### #4 Connect to Sources 
+#### #4 Connect to Sources 
 
 
 In this stage, you need to extract data from the target source before uploading it to the warehouse. You can achieve the extraction in several ways, such as **API call** (a transaction processed by a secure interface), **file transfer** (legacy systems might export data as a file), and **direct query** (obtaining database results by using an SQL query).  
@@ -87,7 +87,7 @@ Once obtained, the data needs to be loaded into the data warehouse. Learn more a
 
 
 
-### #5 Transform Incoming Data 
+#### #5 Transform Incoming Data 
 
 
 Transformation of the data is an essential step of the **ETL (Extract, Transform, Load)**  process. In this process, the data is transformed from its original schema to the destination schema. Transformation can also include any of the following steps:
@@ -101,7 +101,7 @@ Transformation of the data is an essential step of the **ETL (Extract, Transform
 
 
 
-### #6 Create Data Marts 
+#### #6 Create Data Marts 
 
 
 Even though most people don't need overall availability, data warehouses store everything. Just as sales teams need sales figures- operations teams want ops data.
@@ -110,14 +110,14 @@ To do it seamlessly, you will have to rely on a data mart. Marts are a logical d
 
 
 
-### #7 Configure BI and Analytics 
+#### #7 Configure BI and Analytics 
 
 
 Most analytics tools and commercial BI (Business Intelligence) offer simple data warehouse integration. Both of them rely on **volume** (bigger data quantity equals more detailed analytics), **velocity**, and **veracity** (quality), offering a precise evaluation of the current state. 
 
 
 
-### #8 Audit and Review 
+#### #8 Audit and Review 
 
 
 Once the data warehouse is fully operational and the analytics team isn't short of options, it is time to apply measures to ensure overall data quality. This might include testing tools for automated data quality, making it easier to measure the warehouse content quality.  
@@ -140,4 +140,4 @@ Join us on [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to 
 
  
 
- 
+
