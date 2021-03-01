@@ -9,7 +9,7 @@ authorPic: ../assets/author/Gavin-Johnson.png
 authorPosition:
 authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
 slug: "RudderStacks-licensing-explained"
-weight: 1
+weight: 
 ---
 Software licensing can be a tricky subject, especially when you are a commercial company building an open-source product like RudderStack.
 
