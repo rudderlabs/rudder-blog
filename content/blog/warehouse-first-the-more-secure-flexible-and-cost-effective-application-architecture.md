@@ -17,7 +17,7 @@ authorPosition:
 authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
 
 slug: "warehouse-first-the-more-secure-flexible-and-cost-effective-application-architecture"
-weight: 8
+weight: 
 ---
 
 Last year may well have been the year of the cloud data warehouse (CDW). Snowflake had the [biggest software IPO ever](https://www.cnn.com/2020/09/16/investing/snowflake-ipo/index.html) (at the time) and a [blistering growth rate](https://www.cnbc.com/2020/12/02/snowflake-snow-earnings-q3-2021.html) to go with it. It became a household name in IT and tech. This year looks to continue that trend, with [Databricks raising $1B in funding at a $28B valuation](https://www.cnbc.com/2020/12/02/snowflake-snow-earnings-q3-2021.html) already. CDWs have become a huge, growing business.
