@@ -2,7 +2,7 @@
 title: "Data Warehouse Integration: Refining Your Customer Data Stack"
 siteMetadescription: "Know what is data warehouse integration and Eight-Step Plan for Data Warehouse Implementation."
 date: 2021-02-24T00:00:00+05:30
-featureImg: ../assets/markdown/datawarehouseintegration.png
+featureImg: ../assets/markdown/datawarehouseintegrationblog.png
 category: 
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
