@@ -184,6 +184,12 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     {
+    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+    options: {
+        siteUrl: `https://rudderstack.com/blog`,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-intercom-spa',
       options: {
         app_id: 'xchdaps4',
