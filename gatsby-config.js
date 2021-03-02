@@ -185,6 +185,12 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     {
+    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+      options: {
+        siteUrl: process.env.SITE_URL,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-intercom-spa',
       options: {
         app_id: 'xchdaps4',
