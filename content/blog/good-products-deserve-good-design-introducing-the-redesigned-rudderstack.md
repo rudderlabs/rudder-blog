@@ -45,7 +45,7 @@ Now always visible, the navbar features an enterprise-friendly company dropdown,
 
 
 
-![Enterprise Friendly](..assets/markdown/image1.png)
+![Enterprise Friendly](../assets/markdown/image1.png)
 
 
 
@@ -58,7 +58,7 @@ You’ll notice visual refinements such as tighter grouping, a new color scheme,
 
 
 
-![Improved Aesthetics](..assets/markdown/image5.png)
+![Improved Aesthetics](../assets/markdown/image5.png)
 
 
 
@@ -69,7 +69,7 @@ You can now drill down into each Source, Destination, Connection, & Transformati
 
 
 
-![Drilling Down](..assets/markdown/image4.png)
+![Drilling Down](../assets/markdown/image4.png)
 
 
 
@@ -84,7 +84,7 @@ See sync information between each integration:
 
 
 
-![Syncs](..assets/markdown/image6.png)
+![Syncs](../assets/markdown/image6.png)
 
 
 
@@ -94,7 +94,7 @@ See a history of everything that happened on RudderStack.
 
 
 
-![Audit Log](..assets/markdown/image3.png)
+![Audit Log](../assets/markdown/image3.png)
 
 
 
