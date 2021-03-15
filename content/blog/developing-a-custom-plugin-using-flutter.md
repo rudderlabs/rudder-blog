@@ -187,6 +187,8 @@ You can also check out the following Github repositories:
 
 You can download Rudderstack`s Flutter SDK as a dependency for your Flutter Apps from[ pub.dev](http://pub.dev).
 
+If you’re interested in app development, check out [this post from G2i](https://www.g2i.co/blog/hiring-a-react-native-developer) on React Native to learn more about the most important skills and attributes for React Native developers.
+
 
 ## Explore More With RudderStack
 
