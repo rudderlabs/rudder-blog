@@ -1,5 +1,5 @@
 ---
-title: "How to Simplify Data Warehouse Integration"
+title: "How to Simplify Data Integration"
 siteMetadescription: "Understand the four components of data integration: data migration, enterprise application integration, master data management, and data aggregation."
 date: 2021-03-02T00:00:00+05:30
 featureImg: ../assets/markdown/howtosimplifydatawarehouse.png
@@ -8,7 +8,7 @@ author: Amey Varangaonkar
 authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition:
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
-slug: "how-to-simplify-data-warehouse-integration"
+slug: "how-to-simplify-data-integration"
 weight:
 ---
 
