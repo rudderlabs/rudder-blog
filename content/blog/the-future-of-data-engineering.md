@@ -17,6 +17,8 @@ But what about the next five to 10 years? As the data engineering megatrend impa
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"\"chief data officer\"","geo":"US","time":"2004-01-01 2021-03-17"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=%22chief%20data%20officer%22","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
+View the ![Google Trends](https://trends.google.com/trends/explore?date=all&geo=US&q=%22chief%20data%20officer%22) for Chief Data Officer.
+
 
 ## Data Roles Will Get a Board Level Seat
 
@@ -28,8 +30,8 @@ Leadership and the decisions made by leadership shape organizations. As we see m
 
 In full fruition, this will shape organizations around data. Data engineering and related functions will be strategically positioned to accelerate everything happening at the company (as opposed to answering requests from “internal customers”), with the goal of leveraging data as a key competitive advantage.
 
-
-    As the lines between data science and data infrastructure blur, Data/ML engineering roles will replace data science roles as the most sought-after hires.
+**_As the lines between data science and data infrastructure blur, Data/ML engineering roles will replace data science roles as the most sought-after hires._**
+    
 
 A recent blog and Hacker News thread, “[We Don’t Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/),” reinforces the fact that data engineering has become cool again. No one would deny the power of data science when leveraged well, but companies are realizing that the more pressing need is to solve more fundamental issues around collecting, cleaning, storing, and analyzing data — before they can do anything with the data.
 
@@ -85,8 +87,9 @@ Because real-time pipelines are still nascent, many companies build their own so
 
 Over the next 10 years, though, as more companies enter the customer data infrastructure market and build their products on modern cloud technology, real-time pipelines will be used by most companies and difficult challenges like real-time personalization will be turnkey.
 
+**_The future looks good for data engineers and businesses who value data._**
 
-    The future looks good for data engineers and businesses who value data.
+    
 
 These trends are good news for both data engineers and the companies who employ them. As data becomes more valued inside of businesses and the technology makes what were once challenging problems easy to solve, data engineers will be able to spend more time adding strategic value — not trying to make the data and plumbing work.
 
