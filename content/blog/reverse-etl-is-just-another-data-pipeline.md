@@ -1,6 +1,6 @@
 ---
 title: "Reverse ETL is Just Another Data Pipeline"
-siteMetadescription: ""  
+siteMetadescription: "This blog discusses how reverse ETL is nothing bu just another data pipeline that carries data from one end to the other, and a Single Pipe Simplifies Your Stack, Security, and Data governance."  
 date: 2021-02-25T00:00:00+05:30
 featureImg: ../assets/markdown/ReverseETLisapipeline.png
 category: 
