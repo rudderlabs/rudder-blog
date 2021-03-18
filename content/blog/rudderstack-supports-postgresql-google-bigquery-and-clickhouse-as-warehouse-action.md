@@ -27,6 +27,17 @@ Why look later? With Warehouse Actions, you can make your warehouse an active pa
 Warehouse Actions enables you to act quickly with the already processed data within your data warehouse, set it as a source, route your data to third-party destinations, and derive meaningful insights.  
 
 
+## How Do Our Customers Use It? 
+
+
+Here are a few use cases of how customers use these Warehouses as sources:
+
+
+
+*   **Source of truth**: Businesses use data to power their campaign, personalized messaging, and much more. Connecting with your data warehouse allows you to stay close to the source of true information about your customers.
+*   **Real-time data updates**: Data warehouses can process huge and complex queries in real-time and have fresh and ready-to-go data. So, syncing your tools with your data warehouse helps customers yield the most recent updates about your product/ customer.
+*   **Data security:** Data within these popular warehouses (PostgreSQL, ClickHouse, Google BigQuery) is centralized and properly secured, which reduces the risk of a data breach. With recent cases of businesses affected by data breaches, customers ensure total security with data warehouses. 
+
 
 ## What's Next?
 
