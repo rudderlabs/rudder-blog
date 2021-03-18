@@ -1,7 +1,6 @@
 ---
 title: "RudderStack Supports PostgreSQL, Google BigQuery, and ClickHouse as Warehouse Actions"
-siteMetadescription: "Integrate with PostgreSQL, Google BigQuery, and ClickHouse warehouses to connect your customer data and send them to your favorite third-party destinations securely via RudderStack.
-"
+siteMetadescription: "Integrate with PostgreSQL, Google BigQuery, and ClickHouse warehouses to connect your customer data and send them to your favorite third-party destinations securely via RudderStack."
 date: 2021-03-02T00:00:00+05:30
 featureImg: ../assets/markdown/supportspostgresqlbigqueryclickhouse.png
 category:
