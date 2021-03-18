@@ -1,6 +1,6 @@
 ---
 title: "Meaningful Lead Engagement Through Product Usage Enrichment"
-siteMetadescription: "This blog exposes ten companies that collect consumer data but do not appear to collect data."
+siteMetadescription: "This post will highlight how placing customer usage data in the sales team’s hands unlocks their ability to have educated and well-timed conversations with potential customers - lead scoring."
 date: 2021-03-18T00:00:00+05:30
 featureImg: ../assets/markdown/warehousebasedleadscoring.png
 category: 
