@@ -8,7 +8,7 @@ author: Amey Varangaonkar
 authorPic: ../assets/author/Amey-Varangaonkar.png
 authorPosition:
 authorDescription: "Content Manager at RudderStack. Loves all things data. Manchester United, music, and sci-fi fan, among other things."
-slug: "implement-a-successful-data-integration-strategy"
+slug: "how-to-implement-a-successful-data-integration-strategy"
 weight:
 ---
 
