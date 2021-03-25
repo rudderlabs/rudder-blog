@@ -85,7 +85,7 @@ Keeping an engineering team motivated to keep messy integrations up to date is a
 
 ### Unifying Data Isn’t as Easy as Dumping Customer Events Into Your Data Warehouse / Data Lake
 
-At face value, it doesn’t seem hard to take an event stream and dump it into a data warehouse like BigQuery or Snowflake or a data like (or “lakehouse”) like Databricks Delta Lake.
+At face value, it doesn’t seem hard to take an event stream and dump it into a data warehouse, such as BigQuery or Snowflake, or a data lake (or “lakehouse”), such as Databricks Delta Lake.
 
 Well, it turns out that it is hard. You must: 
 
