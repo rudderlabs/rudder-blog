@@ -184,3 +184,5 @@ RudderStack was built from the beginning with the warehouse-first approach in mi
 [Sign up](https://app.rudderstack.com/signup) today to see how RudderStack can simplify your customer data pipelines. 
 
 Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). 
+
+**This blog was originally published in Nov 2020. It is refreshed in Mar 2021 for maintain accuracy and readability.**
