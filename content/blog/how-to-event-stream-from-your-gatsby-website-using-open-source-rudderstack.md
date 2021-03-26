@@ -101,8 +101,7 @@ To instrument your Gatsby website with RudderStack, we will leverage the open-so
 
 
 
-
-![NPM Install](../assets/markdown/6.png)
+![NPM Install](../assets/markdown/6.JPG)
 
 
 3. To set up the plugin, you will need to configure your **gatsby-config.js** file with the source **Write Key** and the **Data Plane URL** that you have obtained from the previous section (**Create a source in RudderStack**). 
@@ -135,7 +134,7 @@ plugins: [
 
 
 
-![The Configuration](../assets/markdown/7.png)
+![The Configuration](../assets/markdown/7.JPG)
 
 
 For details on each of the above parameters, please check out our [docs](https://docs.rudderstack.com/how-to-guides/how-to-integrate-rudderstack-with-a-gatsby-website#the-configuration-options).
@@ -194,7 +193,7 @@ RudderStack supports over 80 tools to which you can reliably send your event dat
 
 
 
-![Add a Destination](i../assets/markdown/8.png)
+![Add a Destination](../assets/markdown/8.png)
 
 
 2. Select **Google Analytics** from the list of destinations.
@@ -237,7 +236,7 @@ RudderStack supports over 80 tools to which you can reliably send your event dat
  
 
 
-6. RudderStack gives you the option to transform your events before sending them to your destination. Get more information on RudderStack’s user transformation feature in our **[docs](https://docs.rudderstack.com/adding-a-new-user-transformation-in-rudderstack)**. \
+6. RudderStack gives you the option to transform your events before sending them to your destination. Get more information on RudderStack’s user transformation feature in our **[docs](https://docs.rudderstack.com/adding-a-new-user-transformation-in-rudderstack)**. 
 
 
 7. Your destination is now configured. You should now see the following source-destination connection in your dashboard:
@@ -310,7 +309,7 @@ Follow these steps:
 
 
 
-![Local site folder](../assets/markdown/18.png)
+![Local site folder](../assets/markdown/18.JPG)
 
 
 2. Run the command `gatsby build` if you are using a production environment. If you are using a development environment, run the command `gatsby develop`.
@@ -318,7 +317,7 @@ Follow these steps:
 
 
 
-![Gatsby build](../assets/markdown/19.png)
+![Gatsby build](../assets/markdown/19.JPG)
 
 
 3. Since we are using a production environment, let’s deploy our site using `gatsby serve`. A localhost URL will be served, which we can then use to access our site:
@@ -327,7 +326,7 @@ Follow these steps:
 
 
 
-![Gatsby serve](../assets/markdown/20.png)
+![Gatsby serve](../assets/markdown/20.JPG)
 
 
 4. Browse through your website by clicking on different posts or pages.
@@ -340,7 +339,7 @@ Follow these steps:
 
 
 
-![Live events](../assets/markdown/21.png)
+![Live events](../assets/markdown/21.JPG)
 
 
 6. RudderStack can successfully track and capture the pageview events, as seen below:
@@ -348,7 +347,7 @@ Follow these steps:
 
 
 
-![Pageview events](../assets/markdown/22.png)
+![Pageview events](../assets/markdown/22.JPG)
 
 
 7. Now, let’s check if the events are sent to Google Analytics as well by going to your Google Analytics dashboard and navigating to **Realtime** - **Events**.
@@ -367,6 +366,6 @@ We see one active user on our Gatsby website, which means the page view event wa
 Start using a smarter customer data pipeline that builds your customer data lake on your data warehouse. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for RudderStack Cloud Free today.
 
 
-[![Sign Up](../assets/markdown/signup.png)](https://app.rudderlabs.com/signup?type=freetrial)
+[![Sign Up](../assets/markdown/singup.png)](https://app.rudderlabs.com/signup?type=freetrial)
 
 Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don't miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
