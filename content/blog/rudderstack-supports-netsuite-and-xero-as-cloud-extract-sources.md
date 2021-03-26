@@ -23,7 +23,6 @@ RudderStack is happy to announce support for [NetSuite](https://rudderstack.com/
 
 By adding NetSuite and Xero as Cloud Extract Sources, you can easily ingest customer data residing within these tools and route them to other third-party tools for further analysis. You can also route the data within your data warehouses for analysis. This ensures you do not create unnecessary data silos on your NetSuite and Xero and utilize all of the data for customer analysis. 
 
-By adding Zendesk as a source, you can collect the Zendesk and Zendesk Chat data and route it to supported [data warehouses](https://docs.rudderstack.com/data-warehouse-integrations) (Snowflake, Google BigQuery, etc.) or other [customer tools](https://docs.rudderstack.com/destinations) (Salesforce, HubSpot, Intercom, and so on) for further analysis.
 
 
 ## How do our Customers use it?
