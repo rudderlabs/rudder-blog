@@ -1,6 +1,6 @@
 ---
 title: "New Feature Roundup: Transformations API, Warehouse Syncs, Audit Logs, and More"
-siteMetadescription: ""
+siteMetadescription: "This blog summarizes the latest RudderStack features and bugfixed for March 2021 - inclusding Trnasformations API, Warehouse Syncs, and Audit Logs."
 date: 2021-03-30T00:00:00+05:30
 featureImg: ../assets/markdown/newfeatureroundup.png
 category:
