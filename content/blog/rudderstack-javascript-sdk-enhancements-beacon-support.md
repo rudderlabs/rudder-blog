@@ -1,6 +1,6 @@
 ---
 title: "RudderStack JavaScript SDK Enhancements: Beacon Support"
-siteMetadescription: "This post details the steps to track real-time event streams from your Gatsby website using open-source RudderStack."
+siteMetadescription: "This post will talk about our latest enhancement to the JavaScript SDK - adding Beacon support making it more efficient, fast, and easy to use."
 date: 2021-03-26T00:00:00+05:30
 featureImg: ../assets/markdown/javascriptenhancementsbeacon.png
 category:
