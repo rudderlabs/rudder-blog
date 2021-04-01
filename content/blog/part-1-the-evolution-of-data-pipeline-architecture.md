@@ -100,7 +100,7 @@ As I was interacting with more customers at Blendo and today at [RudderStack](ht
 
 As the market changes and becomes more demanding, and as technologies are maturing, new opportunities for rethinking our architectures arise.
 
-In Part 2, we go through the market and technology changes that allow us to redesign the architecture of data pipelines and how this new architecture will look.
+In [Part 2](https://rudderstack.com/blog/part-2-the-evolution-of-data-pipeline-architecture), we go through the market and technology changes that allow us to redesign the architecture of data pipelines and how this new architecture will look.
 
 
 Join us on [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, explore our open source repos on<span style="text-decoration:underline;"> [GitHub](https://github.com/rudderlabs)</span>, subscribe to [our blog](https://rudderstack.com/blog/), and follow us on our socials: [Twitter](https://twitter.com/RudderStack)<span style="text-decoration:underline;">, [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/)</span>, [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don't miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
