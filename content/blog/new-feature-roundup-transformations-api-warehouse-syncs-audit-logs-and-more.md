@@ -8,7 +8,7 @@ author: Gavin Johnson
 authorPic: ../assets/author/Gavin-Johnson.png
 authorPosition:
 authorDescription: "Product Marketer at RudderStack. Ex-PMM at New Relic & AT&T. Ex-consultant at Deloitte. Ex-sys admin. (Sometimes) Ex-developer."
-slug: "inew-feature-roundup-2021-03-3"
+slug: "new-feature-roundup-2021-03-3"
 weight: 1
 ---
 
