@@ -26,7 +26,7 @@ As per [Truvantis](https://www.truvantis.com/soc-2-certification), “**_SOC 2 (
 
 RudderStack is a smart customer data pipeline that connects your entire data stack and carries customer data throughout. Even though we don’t persist any customer data, our clients trust us with the sensitive data that flows through our systems. RudderStack protects customers’ **PII (Personally Identifiable Information)** using PII detection and masking code.
 
-**Note: Read more on how RudderStack protects PII in this [article](https://rudderstack.com/blog/protect-personally-identifiable-information-pii-using-rudderstack). **
+**Note: Read more on how RudderStack protects PII in this [article](https://rudderstack.com/blog/protect-personally-identifiable-information-pii-using-rudderstack).**
 
 If you deal with highly sensitive customer data (such as financial companies), the SOC 2 certification makes your life easier and reduces your effort in auditing RudderStack before buying. The certificate means that we follow industry-standard security compliance for your sensitive data. 
 
