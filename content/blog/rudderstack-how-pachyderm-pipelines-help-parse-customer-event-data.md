@@ -2,7 +2,7 @@
 title: "RudderStack: How Pachyderm Pipelines Help Parse Customer Event Data"
 siteMetadescription: "The blos shows how Pachyderm leverages real-time customer event data across different sources to gain deeper insights into user behavior in its product and optimize the UX to increase customer adoption."
 date: 2021-04-05T00:00:00+05:30
-featureImg: ../assets/markdown/2generic.png
+featureImg: ../assets/markdown/pachydermpipelines.png
 category:
 author: Amey Varangaonkar
 authorPic: ../assets/author/Amey-Varangaonkar.png
