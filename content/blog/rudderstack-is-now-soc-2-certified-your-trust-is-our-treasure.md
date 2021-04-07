@@ -2,7 +2,7 @@
 title: "RudderStack is Now SOC 2 Certified"
 siteMetadescription: "RudderStack is now more secure than ever before. Here's how we received our SOC 2 Type 1 certification."
 date: 2021-04-06T00:00:00+05:30
-featureImg: ../assets/markdown/11generic.png
+featureImg: ../assets/markdown/rudderstackisSOCcertified.png
 category: 
 author: Vedika Naik
 authorPic: ../assets/author/Vedika-Naik.JPG
