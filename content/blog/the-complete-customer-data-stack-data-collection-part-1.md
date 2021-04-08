@@ -12,7 +12,7 @@ slug: "the-complete-customer-data-stack-data-collection-part-1"
 weight: 1
 ---
 
-# The Importance of Categories
+## The Importance of Categories
 
 Even the best possible data stack is completely useless without data. For this reason, the first problem we always face when building data infrastructure is what data we are going to be collecting, from where, and how we should do it. 
 
@@ -25,7 +25,7 @@ But let’s start with the basics and build a practical taxonomy of the differen
 The data we will be working with can be categorized into a small set of categories, as we will see. Depending on the category, we need different infrastructure, and we can support different business objectives. This post will cover the first major category, event data, and how to collect it. In part two, we’ll cover relation data and note a few other commonly used sources of data. 
 
 
-# Event Data
+## Event Data
 
 In this category, we are dealing mainly with clickstream data. We need the right infrastructure to capture, route, and deliver the data to various destinations. In most cases, this data represents some kind of behavior, with the most common one being customer behavior. 
 
