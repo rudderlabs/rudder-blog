@@ -12,7 +12,7 @@ slug: "identity-resolution-is-more-valuable-when-its-on-your-warehouse"
 weight: 
 ---
 
-Identity resolution lets you combine unique identifiers across your digital touchpoints to identify users in real-time. With it, you can create a unified, omnichannel view of your customers. By leveraging an identity graph - a database that houses these identifiers - you can identify and connect details related to different aspects of your customers’ journies and stitch them all together in one customer profile.
+Identity resolution lets you combine unique identifiers across your digital touchpoints to identify users in real-time. With it, you can create a unified, omnichannel view of your customers. By leveraging an identity graph - a database that houses these identifiers - you can identify and connect details related to different aspects of your customers’ journeys and stitch them all together in one customer profile.
 
 
 ## RudderStack Builds Your Identity Graph on Your Data Warehouse. Other Customer Data Tools Don’t.
