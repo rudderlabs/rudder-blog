@@ -1,5 +1,5 @@
 ---
-title: "The future of data pipeline tools must include better transformations than ETL ever had"
+title: "The Future of Data Pipeline Tools Must Include Better Transformations Than ETL Ever Had"
 siteMetadescription: "RudderStack Transformations API Launch - RudderStack Transformations are easy to build, debug, and manage; and they run in real-time. They’re data transformations that work like you think they should."
 date: 2021-04-13T00:00:00+05:30
 featureImg: ../assets/markdown/transformationslaunch.png
