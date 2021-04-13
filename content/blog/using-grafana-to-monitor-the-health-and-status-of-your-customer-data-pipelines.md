@@ -4,7 +4,7 @@ siteMetadescription: "This blog exposes ten companies that collect consumer data
 date: 2021-04-12T00:00:00+05:30
 featureImg: ../assets/markdown/usinggrafana.png
 category: 
-author: Soumyadeb Mitra
+author: Sumanth Puram
 authorPic: ../assets/author/Sumanth.png
 authorPosition: 
 authorDescription: "Head of Engineering at RudderStack"
