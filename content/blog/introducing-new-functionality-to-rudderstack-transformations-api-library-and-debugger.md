@@ -39,7 +39,7 @@ The Transformations Library lets you save blocks of transformation code to your 
 
 
 
-![Transformations Library](../assets/author/transormations.png)
+![Transformations Library](../assets/markdown/transormations.png)
 
 
 
