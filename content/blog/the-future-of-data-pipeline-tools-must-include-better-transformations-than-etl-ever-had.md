@@ -117,7 +117,7 @@ Not only do we give you a code debugger so you can confirm your transformation w
 
 **RudderStack Transformations run in real-time.** They aren’t batch. They are applied in-transit after data collection and before delivery to a destination. So they work with our event streaming and reverse-ETL pipelines in addition to our ELT pipelines.
 
-_Learn more about all of the new functionality we added to Transformations in our post, [Introducing New Functionality to RudderStack Transformations: API, Libraries, and Debugger](https://rudderstack.com/blog/introducing-new-functionality-to-rudderstack-transformations-api-libraries-and-debugger)._
+_Learn more about all of the new functionality we added to Transformations in our post, [Introducing New Functionality to RudderStack Transformations: API, Libraries, and Debugger](https://rudderstack.com/blog/introducing-new-functionality-to-rudderstack-transformations-api-library-and-debugger)._
 
 _Learn more about the Transformations API in our post, [RudderStack’s Transformations API](https://rudderstack.com/blog/rudderstacks-transformations-api)._
 
