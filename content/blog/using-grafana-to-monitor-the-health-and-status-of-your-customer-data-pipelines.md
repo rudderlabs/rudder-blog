@@ -25,7 +25,7 @@ Here’s a high-level visualization of RudderStack’s architecture. Below, we d
 
 
 
-![RudderStack Architecture](../content/assets/markdown/Image1_copy.png)
+![RudderStack Architecture](../assets/markdown/Image1_copy.png)
 
 
 
@@ -49,17 +49,17 @@ RudderStack uses [Telegraf](https://www.influxdata.com/time-series-platform/tele
 
 
 
-![Metrics Overview](../content/assets/markdown/Image2_copy.png)
+![Metrics Overview](../assets/markdown/Image2_copy.png)
 
 
 
 
-![Event Delivery](../content/assets/markdown/Image3_copy.png)
+![Event Delivery](../assets/markdown/Image3_copy.png)
 
 
 
 
-![Router Responses](../content/assets/markdown/Image4_copy.png)
+![Router Responses](../assets/markdown/Image4_copy.png)
 
 
 ### RudderStack System Metrics in Action
