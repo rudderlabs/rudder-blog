@@ -20,7 +20,7 @@ Today, we’re making Transformations even better and easier to use. We exposed 
 ## Transformations API
 
 
-Currently, our users could only deploy transformations from within the RudderStack Control Plane (aka our UI). To make Transformations easier to create and manage, we’ve launched the RudderStack Transformations API.
+Previously, our users could only deploy transformations from within the RudderStack Control Plane (aka our UI). To make Transformations easier to create and manage, we’ve launched the RudderStack Transformations API.
 
 
 The Transformations API enables you to perform multiple operations - create, read, update and delete - on your transformations and transformation libraries programmatically via simple HTTP API calls. It also allows you to publish multiple transformations/libraries in a single operation - a functionality that is not yet available on the RudderStack UI.
