@@ -46,7 +46,7 @@ Before you get started, you will need to set up a JavaScript source in your Rudd
 
 
 
-![RudderStack Dashboard](..assets/markdown/nextjs1.png)
+![RudderStack Dashboard](../assets/markdown/nextjs1.png)
 
 
 3. Note the **Data Plane URL**. You will need this URL to integrate your Next.js app with RudderStack. 
@@ -56,7 +56,7 @@ Before you get started, you will need to set up a JavaScript source in your Rudd
 
 
 
-![Data Plane URL](..assets/markdown/nextjs2.png)
+![Data Plane URL](../assets/markdown/nextjs2.png)
 
 
 4. Next, create a Source. To do so, simply click on the **Add Source** button. You can also click on the **Directory** option in the left nav bar and select **Event Streams** under **Sources**, as shown. Then, select **JavaScript**.
@@ -66,14 +66,14 @@ Before you get started, you will need to set up a JavaScript source in your Rudd
 
 
 
-![Add Source](..assets/markdown/nextjs3.png)
+![Add Source](../assets/markdown/nextjs3.png)
 
 
 5. After assigning a name to your source, click on **Next**. 
 
 
 
-![Assign a Name to the Source](..assets/markdown/nextjs4.png)
+![Assign a Name to the Source](../assets/markdown/nextjs4.png)
 
 
 6. Your JavaScript source is now configured and ready to track events. Note the **Write Key** associated with this source. This is also required to set up the RudderStack integration with your Next.js app. 
@@ -82,7 +82,7 @@ Before you get started, you will need to set up a JavaScript source in your Rudd
 
 
 
-![Write Key](..assets/markdown/nextjs5.png)
+![Write Key](../assets/markdown/nextjs5.png)
 
 
 
@@ -97,7 +97,7 @@ To integrate RudderStack with your Next.js app and set up the tracking code, fol
 
 
 
-![Create _document.js file](..assets/markdown/nextjs6.PNG)
+![Create _document.js file](../assets/markdown/nextjs6.PNG)
 
 
 
@@ -111,7 +111,7 @@ To integrate RudderStack with your Next.js app and set up the tracking code, fol
 
 
 
-![Update the Index.js file](..assets/markdown/nextjs7.PNG)
+![Update the Index.js file](../assets/markdown/nextjs7.PNG)
 
 
 **Important: You can refer to our sample Next.js app present in our [RudderStack Next.js repository](https://github.com/rudderlabs/rudder-analytics-next) for more information on modifying these files.**
@@ -132,7 +132,7 @@ RudderStack currently supports more than [80 third-party tools](https://rudderst
 
 
 
-![Add Destination](..assets/markdown/nextjs8.png)
+![Add Destination](../assets/markdown/nextjs8.png)
 
 
 
@@ -142,7 +142,7 @@ RudderStack currently supports more than [80 third-party tools](https://rudderst
 
 
 
-![Select Google Analytics](..assets/markdown/nextjs9.png)
+![Select Google Analytics](../assets/markdown/nextjs9.png)
  
 
 
@@ -153,7 +153,7 @@ RudderStack currently supports more than [80 third-party tools](https://rudderst
 
 
 
-![Name Your Destination](..assets/markdown/nextjs10.png)
+![Name Your Destination](../assets/markdown/nextjs10.png)
  
 
 
@@ -165,7 +165,7 @@ RudderStack currently supports more than [80 third-party tools](https://rudderst
 
 
 
-![Select JavaScript as a Source](..assets/markdown/nextjs11.png)
+![Select JavaScript as a Source](../assets/markdown/nextjs11.png)
 
 
 
@@ -176,7 +176,7 @@ RudderStack currently supports more than [80 third-party tools](https://rudderst
 
 
 
-![Configure Your Google Analytics Tracking ID](..assets/markdown/nextjs12.png)
+![Configure Your Google Analytics Tracking ID](../assets/markdown/nextjs12.png)
 
 
 
@@ -190,7 +190,7 @@ RudderStack currently supports more than [80 third-party tools](https://rudderst
 
 
 
-![Source-Desgtination Connection in Your RudderStack Destination](..assets/markdown/nextjs13.png)
+![Source-Desgtination Connection in Your RudderStack Destination](../assets/markdown/nextjs13.png)
 
 
 
@@ -209,21 +209,21 @@ Once you have set up the project and assigned the required user permissions, fol
 
 
 
-![Select Google BigQuery as a Destination](..assets/markdown/nextjs14.png)
+![Select Google BigQuery as a Destination](../assets/markdown/nextjs14.png)
 
 
 2. Give a name to this destination. Then, click on **Next**.
 
 
 
-![Name the Destination](..assets/markdown/nextjs15.png)
+![Name the Destination](../assets/markdown/nextjs15.png)
 
 
 3. Choose the **JavaScript** source from which we will track our Next.js app events. Then, click on **Next**.
 
 
 
-![Choose the JavaScript Source](..assets/markdown/nextjs16.png)
+![Choose the JavaScript Source](../assets/markdown/nextjs16.png)
 
 
 4. Specify the **Connection Credentials**. Enter the **BigQuery Project ID** and the **Staging Bucket Name**. Follow these [instructions](https://docs.rudderstack.com/data-warehouse-integrations/google-bigquery#setting-up-google-bigquery) to get this information.
@@ -231,7 +231,7 @@ Once you have set up the project and assigned the required user permissions, fol
 
 
 
-![Specify the Connection Credentials](..assets/markdown/nextjs17.png)
+![Specify the Connection Credentials](../assets/markdown/nextjs17.png)
 
 
 5. Finally, copy the contents of the private JSON file. Find more information on how to do this in our [doc](https://docs.rudderstack.com/data-warehouse-integrations/google-bigquery#setting-up-the-service-account-for-rudderstack).
@@ -253,7 +253,7 @@ To do this, follow these steps:
 
 
 
-![npm run dev](..assets/markdown/nextjs18.PNG)
+![npm run dev](../assets/markdown/nextjs18.PNG)
 
 
 3. Open your app by going to the URL [http://localhost:3000](http://localhost:3000) on your browser. Refresh the page and click on various links to track different events:
@@ -261,7 +261,7 @@ To do this, follow these steps:
 
 
 
-![Open Your App](..assets/markdown/nextjs19.PNG)
+![Open Your App](../assets/markdown/nextjs19.PNG)
 
 
 4. To verify if `rudder-analytics.js` (RudderStack’s JavaScript SDK) has loaded correctly, you can go to your browser's developer tools and navigate to the **Network** tab. The following screenshot highlights this option for Google Chrome:
@@ -270,7 +270,7 @@ To do this, follow these steps:
 
 
 
-![Check the Network Tab](..assets/markdown/nextjs20.PNG)
+![Check the Network Tab](../assets/markdown/nextjs20.PNG)
 
 
 5. See if RudderStack can track the different pageviews and clicks by going to the **Live Events** tab of your JavaScript source on the RudderStack dashboard page:
@@ -281,7 +281,7 @@ To do this, follow these steps:
 
 
 
-![Tracking Pageviews and Clicks](..assets/markdown/nextjs21.JPG)
+![Tracking Pageviews and Clicks](../assets/markdown/nextjs21.JPG)
 
 
 6. RudderStack has successfully tracked and captured the events, as seen below:
@@ -290,7 +290,7 @@ To do this, follow these steps:
 
 
 
-![Successful Tracking](..assets/markdown/nextjs22.PNG)
+![Successful Tracking](../assets/markdown/nextjs22.PNG)
 
 
 7. Now, let’s check if the events are sent to our Google Analytics destination. Go to your Google Analytics dashboard and navigate to the **Realtime** - **Events **option.
@@ -298,7 +298,7 @@ To do this, follow these steps:
 
 
 
-![Google Analytics Dashboard](..assets/markdown/nextjs23.png)
+![Google Analytics Dashboard](../assets/markdown/nextjs23.png)
 
 
 We see one active user on our Next.js app, and the track event is visible too. This means the event was tracked and delivered successfully. Similarly, you should also receive the event in your Google BigQuery warehouse. 
