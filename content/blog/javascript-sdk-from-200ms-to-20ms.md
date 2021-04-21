@@ -63,7 +63,7 @@ We had been working for some time on improving the performance of our JavaScript
 Here’s how we did it. 
 
 
-# Improving the Performance of JavaScript SDK
+## Improving the Performance of JavaScript SDK
 
 The two problems we mentioned earlier require different tactics for improving speed. We will start by first explaining what we did to handle the arbitrary size of the used library. 
 
@@ -123,7 +123,7 @@ This is an actual chart from the Loveholidays test:
 
 
 
-![Actual Chart from the Loveholidays Test](..assets/markdown/200to20chart.png)
+![Actual Chart from the Loveholidays Test](../assets/markdown/200to20chart.png)
 
 
 While sending data asynchronously via Beacon might not be right for every company, it can drive material improvement for high performance-sensitive use cases.
