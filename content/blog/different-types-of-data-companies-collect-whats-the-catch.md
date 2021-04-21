@@ -7,7 +7,7 @@ category:
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
 authorDescription: "Savia Lobo is a Content Writer at RudderStack. She is a techie at heart and loves to stay up to date with tech happenings across the globe. If she is not writing or reading, you will find her singing and composing songs."
-slug: "different-types-of-data-companies-collect-whats-cthe-catch"
+slug: "different-types-of-data-companies-collect-whats-the-catch"
 weight: 
 ---
 
