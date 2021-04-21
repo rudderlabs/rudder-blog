@@ -81,13 +81,13 @@ Fetching native libraries inevitably adds to the latency; however, the main prob
 
 The high-level solution here was quite simple, thanks in large part to some good thinking by David and his team.
 
-At a basic level, the high-performance JavaScript SDK doesn’t bundle the instrumentation code for end destinations in the core SDK. Instead, the SDK only fetches the destination configuration settings from the RudderStack dashboard (such as track ID, API key, secret, etc.) using the **_requireIntegration_** method. 
+At a basic level, the high-performance JavaScript SDK doesn’t bundle the instrumentation code for end destinations in the core SDK. Instead, the SDK only fetches the destination configuration settings from the RudderStack dashboard (such as track ID, API key, secret, etc.) using the `requireIntegration_` method. 
 
 Let’s look at a quick example to see how this works in practice. 
 
-Once the JavaScript SDK receives a call such as **rudderanalytics.requireIntegration("GA")**,  it automatically fetches the Google Analytics instrumentation code (such as GAPlugin.js) that handles the transformation and mapping logic for the RudderStack event payload. This includes the call type and the API calls.
+Once the JavaScript SDK receives a call such as `rudderanalytics.requireIntegration("GA")`,  it automatically fetches the Google Analytics instrumentation code (such as GAPlugin.js) that handles the transformation and mapping logic for the RudderStack event payload. This includes the call type and the API calls.
 
-The core SDK maintains a queue for all the calls. When a **_requireIntegration_** call happens, any related calls are queued, and the SDK starts fetching the necessary library. When this is done, the queue will start executing the enqueued calls.
+The core SDK maintains a queue for all the calls. When a `requireIntegration` call happens, any related calls are queued, and the SDK starts fetching the necessary library. When this is done, the queue will start executing the enqueued calls.
 
 By this strategy accomplishes the following: 
 
