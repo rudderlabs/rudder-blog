@@ -4,10 +4,10 @@ siteMetadescription: "This blog shows how RudderStack developed a high-performan
 date: 2021-04-21T00:00:00+05:30
 featureImg: ../assets/markdown/from200to20ms.png
 category:
-author: Eric Dodds
-authorPic: ../assets/author/Eric-Dodds.png
+author: Kostas
+authorPic: ../assets/author/Kostas.png
 authorPosition:
-authorDescription: "Eric leads our Customer Success team and has a long history of helping companies architect customer data stacks and use their data to grow."
+authorDescription: "Head of Product at RudderStack."
 slug: "javascript-sdk-from-200ms-to-20ms"
 weight: 1
 ---
