@@ -304,7 +304,7 @@ To do this, follow these steps:
 We see one active user on our Next.js app, and the track event is visible too. This means the event was tracked and delivered successfully. Similarly, you should also receive the event in your Google BigQuery warehouse. 
 
 
-## **Try RudderStack Today**
+## Try RudderStack Today
 
 Start using a smarter customer data pipeline that builds your customer data lake on your data warehouse. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. 
 
