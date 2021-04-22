@@ -1,5 +1,5 @@
 ---
-title: "How Proposify Leverages Real-time Data for Inbound Attribution, Marketing, and Analyticsk"
+title: "How Proposify Leverages Real-time Data for Inbound Attribution, Marketing, and Analytics"
 siteMetadescription: "Know everything about Proposify's customer data stack, data collection, standardization, analytics, and more through this insightful blog."
 date: 2021-04-22T00:00:00+05:30
 featureImg: ../assets/markdown/proposifybusinesscasestudy.png
