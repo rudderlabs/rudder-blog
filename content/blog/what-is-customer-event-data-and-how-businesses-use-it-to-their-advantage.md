@@ -2,7 +2,7 @@
 title: "What is Customer Event Data and How Businesses Use it to Their Advantage?"
 siteMetadescription: "Know what is customer event data, how to use it for improving your business, and more through this informative blog."
 date: 2021-04-23T00:00:00+05:30
-featureImg: ../assets/whatiscustomereventdata.png
+featureImg: ../assets/markdown/whatiscustomereventdata.png
 category:
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
