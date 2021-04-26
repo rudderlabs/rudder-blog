@@ -8,70 +8,120 @@ author: Soumyadeb Mitra
 authorPic: ../assets/author/Soumyadeb-Mitra.png
 authorPosition: 
 authorDescription: "Founder and CEO of RudderStack. Passionate about finding engineering solutions to real-world problems."
-slug: "rudder-an-open-source-alternative-to-segment"
+slug: "rudderstack-an-open-source-alternative-to-segment"
 weight: 
 ---
-How to Setup RudderStack
-------------------------
+RudderStack is an open-source **customer data pipeline **tool. It collects, routes, processes data from your websites, apps, cloud tools, and data warehouse. With RudderStack, you can build efficient data pipelines that connect your entire customer data stack and leverage your warehoused data to trigger your analytics and other activation use-cases.
 
-RudderStack can easily be set up in a dockerized environment. We also support Terraform for AWS EC2 while support for Azure and GCP is coming soon. Terraform setup will be covered in a separate post
+Some of the key features of RudderStack include:
 
-### Pre-Req
 
-Install the latest docker (v19+) and docker-compose (v1.24+)
 
-### Steps
+*   **Complete flexibility**: Unlike most commercial systems that charge you based on the event volume, RudderStack lets you collect all of your event data without worrying about overrunning your budget.
+*   **Warehouse-first architecture**: Most modern companies are building their CDP on top of a data warehouse. RudderStack treats your data warehouse as a first-class citizen among your destinations. It offers advanced features and configurable, real-time sync to safely collect and route your events to your data warehouse.
+*   **Built for developers**: RudderStack is built API-first and easily integrates with the tools that you already use and love.
+*   **User-specified event transformation**: RudderStack offers a powerful JavaScript-based transformation framework that lets you transform and enhance your in-transit events before routing them to your warehouse or other preferred destinations.
+*   **High Availability**: RudderStack’s sophisticated error handling and retry system ensures all of your event data will be delivered despite any network or destination downtime.
 
-*   Clone [https://github.com/rudderlabs/rudder-oss](https://github.com/rudderlabs/rudder-oss)
-*   Run “**docker-compose up**” to bring up all the services (described below)
-*   Go to [http://localhost:3000](http://localhost:3000/) to configure sources and destinations.
-*   Add a new source from the dropdown for Android/iOS source definitions. Note down the **writeKey**
-*   Configure your Google Analytics destination with the right **trackingID** (can be obtained from Google Analytics)
-*   We have bundled a shell script that can generate test events. Get the “writeKey” from our app dashboard and then run the following command:
-    *   **“./generate-event <writeKeyHere>”**
+For more information on RudderStack, feel free to join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) and start a conversation. We’ll love to hear from you!
 
-“Generate-event” script generates a sample event and sends it to the backend container that is running in docker.    Based on our destination configuration the backend will transform the event and forward it to the configured destination.
 
-*   Login to your Google Analytics account and verify that events are delivered in the correct order.
+## How to set up RudderStack
 
-Overall Architecture
---------------------
+The easiest and fastest way to get started with RudderStack is using the Docker setup. However, if you wish to use RudderStack in production environments, we strongly recommend using our [Kubernetes Helm charts](https://docs.rudderstack.com/installing-and-setting-up-rudderstack/kubernetes).
 
-The following is a  brief overview of the major components of RudderStack:
+The steps for setting up RudderStack using Docker are as follows:
 
-![](../assets/markdown/5qOMs6e7WY1fKbsS.png)
 
-### RudderStack Control Plane
 
-The UI to configure the sources, destinations, etc. of RudderStack Control Plane consists of:
+*   Sign up on the [RudderStack app](https://app.rudderlabs.com/signup). You can easily set up and configure your event data sources and destinations through the RudderStack dashboard. RudderStack self-hosts these configurations and does not charge you for it.  \
+ 
+**Note**: If you want to host your own source and destination configurations, you can use the open-source [RudderStack Config Generator](https://docs.rudderstack.com/how-to-guides/rudderstack-config-generator). However, note that this open-source dashboard lacks features such as user-defined transformations and live event debugging, which are present in the RudderStack-hosted dashboard.
+*   Then, copy the workspace token at the top of the dashboard page, as shown:
 
-*   **Config backend:** This is the backend service that handles the sources, destinations, and their connections. User management and access based roles are defined here.
-*   **Customer web app:** This is the front end application that enables the teams to set up their customer data routing with RudderStack. These will show you high-level data on event deliveries and more stats. It also provides access to custom enterprise features.
+ 
 
-### Rudderstack Data Plane
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-> Data plane is our core engine that receives the events, stores, transforms them and reliably delivers to the destinations. This engine can be customized to your business requirements by a wide variety of configuration options. Eg. You can choose to enable backing up events to any S3 bucket, the maximum size of the event for the server to reject malicious requests. Sticking to defaults will work well for most of the companies but you have the flexibility to customize the data plane.
 
-The data plane uses Postgres as the store for events. We built our own streaming framework on top of Postgres – that’s a topic for a future blog post. Reliable delivery and order of the events are the first principles in our design.
+![Connections](../assets/markdown/opensource_image1.png)
 
-### RudderStack Destination Transformation
 
-> Conversion of events from RudderStack format into destination-specific format is handled by the transformation module. The transformation codes are written in Javascript.
 
-The following blogs provide an overview of our transformation module:
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-rudder-labs"><div class="wp-block-embed__wrapper"><blockquote class="wp-embedded-content" data-secret="bViCF8bZyq"><a href="https://rudderlabs.com/transformations-in-rudder-part-1/">Transformations in Rudder: Part 1</a></blockquote><iframe title="“Transformations in Rudder: Part 1” — Rudder Labs" class="lazy lazy-hidden wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" data-lazy-type="iframe" data-src="https://rudderlabs.com/transformations-in-rudder-part-1/embed/#?secret=bViCF8bZyq" data-secret="bViCF8bZyq" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><noscript><iframe title="&#8220;Transformations in Rudder: Part 1&#8221; &#8212; Rudder Labs" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://rudderlabs.com/transformations-in-rudder-part-1/embed/#?secret=bViCF8bZyq" data-secret="bViCF8bZyq" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript></div></figure>
+*   Next, download the **docker-compose** file <code>[rudder-docker.yml](https://raw.githubusercontent.com/rudderlabs/rudder-server/master/rudder-docker.yml)</code>.
+*   Open this file, and replace <code>&lt;your_workspace_token> </code>with the workspace token that you have copied above:
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-rudder-labs"><div class="wp-block-embed__wrapper"><blockquote class="wp-embedded-content" data-secret="ZtzXShm2nh"><a href="https://rudderlabs.com/transformations-in-rudder-part-2/">Transformations in Rudder: Part 2</a></blockquote><iframe title="“Transformations in Rudder: Part 2” — Rudder Labs" class="lazy lazy-hidden wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" data-lazy-type="iframe" data-src="https://rudderlabs.com/transformations-in-rudder-part-2/embed/#?secret=ZtzXShm2nh" data-secret="ZtzXShm2nh" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><noscript><iframe title="&#8220;Transformations in Rudder: Part 2&#8221; &#8212; Rudder Labs" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://rudderlabs.com/transformations-in-rudder-part-2/embed/#?secret=ZtzXShm2nh" data-secret="ZtzXShm2nh" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript></div></figure>
 
-If you are missing a transformation, please feel free to add it to the repository.
 
-### RudderStack User Transformation
+![Workspace Token](../assets/markdown/opensource_image2.png)
 
-RudderStack also supports user-specific transformations for real-time operations like aggregation, sampling, modifying events, etc. The following blog describes one real-life use case of the transformation module
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-rudder-labs"><div class="wp-block-embed__wrapper"><blockquote class="wp-embedded-content" data-secret="1PsqPduCp8"><a href="https://rudderlabs.com/customer-case-study-casino-game/">Customer Case Study: Casino Game</a></blockquote><iframe title="“Customer Case Study: Casino Game” — Rudder Labs" class="lazy lazy-hidden wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" data-lazy-type="iframe" data-src="https://rudderlabs.com/customer-case-study-casino-game/embed/#?secret=1PsqPduCp8" data-secret="1PsqPduCp8" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><noscript><iframe title="&#8220;Customer Case Study: Casino Game&#8221; &#8212; Rudder Labs" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://rudderlabs.com/customer-case-study-casino-game/embed/#?secret=1PsqPduCp8" data-secret="1PsqPduCp8" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript></div></figure>
 
-### Client SDKs
 
-The client SDKs provide APIs collecting events and sending it to the RudderStack Backend.
+
+*   Finally, navigate to the location where you want to set up RudderStack and run the command `docker-compose -f rudder-docker.yml up`
+*   To verify if the setup is successful, send test events to your destination by following this [guide](https://docs.rudderstack.com/installing-and-setting-up-rudderstack#how-to-send-test-events).
+
+
+## RudderStack Architecture
+
+RudderStack's architecture consists of 2 major components:
+
+
+
+*   **Control Plane**: This component handles the source and destination configurations and the user-specified connections. \
+
+*   **Data Plane**: This is the RudderStack backend - the core engine that collects, transforms, and routes the events to the specified destinations. 
+
+Here’s a broad visual representation of  RudderStack’s architecture:
+
+
+
+![RudderStack Architecture](../assets/markdown/opensource_image3.png)
+
+
+For more details on the architecture, check out our [documentation](https://docs.rudderstack.com/get-started/rudderstack-architecture).
+
+
+## RudderStack Transformations
+
+RudderStack’s Transformations module allows you to transform and enrich your in-transit events into a destination-specific format, before routing them to the desired destination. These transformation codes are written in JavaScript. 
+
+We recently released our Transformations API that makes it easier for you to write custom transformation functions for your business-specific use-cases. With this API, you can also reuse specific blocks of JavaScript code (called **libraries**) by simply importing them in the desired transformation using the module name, thus reducing your engineering work.
+
+
+## RudderStack Integrations
+
+RudderStack currently supports more than 80 integrations, with newer sources and destinations added to the catalog almost every week.
+
+
+### Event Streams
+
+RudderStack Event Streams allow you to track and collect event data from your websites and applications in real-time. This feature includes client-side SDKs for website, mobile and server-side event tracking, as well as integrations with some third-party platforms like Looker, PostHog, and Customer.io.
+
+Read more about this feature in our [docs](https://docs.rudderstack.com/rudderstack-event-streams).
+
+
+### Cloud Extract
+
+With [RudderStack Cloud Extract](https://docs.rudderstack.com/cloud-extract-sources), you can seamlessly build ELT pipelines from your cloud applications to your data warehouse. RudderStack also gives you the ability to choose what data you want to ingest, and specify the sync time when the data should be loaded into the warehouse.
+
+
+### Warehouse Actions
+
+RudderStack’s [Warehouse Actions](https://docs.rudderstack.com/warehouse-actions) feature lets you leverage the enriched warehouse data as a source for your entire customer data stack. This way, you can send the warehoused data to your preferred customer tools.
+
+
+### Support for 80+ Destinations
+
+With support for over 80 third-party tools and destinations, RudderStack reliably routes all the tracked customer events to your preferred destinations for various activation use-cases like analytics, attribution, marketing, CRM, and personalization. Check out all our supported destinations [here](https://docs.rudderstack.com/destinations).
+
+
+## Try RudderStack Today
+
+Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your marketing and analytics stack. Sign up for[ RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+If you haven’t already, sign up for [RudderStack Free](https://app.rudderlabs.com/signup?type=freetrial) today. Start using a smarter customer data pipeline that builds your customer data lake on your data warehouse. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack.
+
+Join us on [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, explore our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on our socials: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
