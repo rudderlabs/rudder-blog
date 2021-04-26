@@ -57,7 +57,7 @@ Looking into the cons and pros of SaaS, one can easily say that the pros are man
 Privacy regulations are becoming more and more strict, while any kind of data leak has devastating effects on the brand and the people who are trusting it with their information.
 
 
-## The On-Premises Model
+## The On-Premise Model
 
 This model exists for a much longer time than SaaS. In fact, SaaS came to replace it. The idea here is pretty simple, the software is deployed on the customer's premises, and after this happens, the total control of it on the customer's side.
 
