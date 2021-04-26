@@ -1,6 +1,6 @@
 ---
 title: "RudderStack: An Open-Source Alternative to Segment"
-siteMetadescription:
+siteMetadescription: "We confer you the setup steps for RudderStack in a dockerized setting, an open-source alternative to Segment. Plus we are supporting Terraform for AWS EC2."
 date: 2019-12-26T00:00:00+05:30
 featureImg: ../assets/photo-1472898965229-f9b06b9c9bbe-750x355.jpeg
 category: Engineering
