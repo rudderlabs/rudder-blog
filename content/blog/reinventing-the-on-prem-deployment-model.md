@@ -2,7 +2,7 @@
 title: "Reinventing the On-Prem Deployment Model"
 siteMetadescription: "Here's a blog on Deploying and Managing Hybrid Data Infrastructure on the Cloud. The Control Pane - Data Plane Architecture"
 date: 2021-04-26T00:00:00+05:30
-featureImg: ../assets/markdown/12generic.png
+featureImg: ../assets/markdown/deployinghybridinfrastructurecloud.png
 category:
 author: Kostas
 authorPic: ../assets/author/Kostas.png
