@@ -47,7 +47,7 @@ RudderStack Warehouse Actions let you send this rich analysis from your warehous
 _Learn more about Warehouse Actions including how to use it in our post [RudderStack Warehouse Actions unlocks the data in your warehouse](https://rudderstack.com/blog/rudderstack-warehouse-actions-unlocks-the-data-in-your-warehouse)._
 
 
-## Solve more complex analytical problems
+## Solve More Complex Analytical Problems
 
 Cloud Extract and Warehouse Actions are both powerful features that when used along with Event Stream can help you solve difficult problems that aren’t easy to tackle with the existing tools on the market.
 
