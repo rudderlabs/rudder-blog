@@ -2,7 +2,7 @@
 title: "RudderStack Supports Salesforce Pardot and Google Sheets as Destinationse"
 siteMetadescription: "A detailed blog on how send customer event data from RudderStack to Google Sheets and Salesforce Pardot. Find all the benefits, steps, and relevant documentation links for integrating Google Sheets and Salesforce Pardot with RudderStack."
 date: 2021-04-30T00:00:00+05:30
-featureImg: ../assets/markdown/supportsgoogleanalytics.png
+featureImg: ../assets/markdown/11generic.png
 category: 
 author: Savia Lobo
 authorPic: ../assets/author/Savia-Lobo.png
