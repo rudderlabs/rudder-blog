@@ -115,3 +115,9 @@ These two languages make it quite easy to build a statistical model on top of th
 There is a significant advantage to using a database to store your data compared to using other mediums such as CSV files. Apart from the flexibility to store large volumes of data with varying data types, you can leverage SQL’s power to generate complex queries that give you meaningful insights.
 
 While this post focuses on Google BigQuery, using any other database tool with R and Python is equally easy. The only difference will be the choice of Python/R library used to connect to the database.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

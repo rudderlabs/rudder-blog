@@ -99,3 +99,9 @@ Along with the ability to import or export visualizations outside Looker’s das
 According to Alex, the main drive behind building Mattermost’s data stack was to architect an infrastructure that could bring together all their data in one place, complemented by the tools that allow their users to operate on the data without getting into unnecessary technical complexities. 
 
 Today, Alex has helped Mattermost set up a robust customer data stack that allows them to get an end-to-end view of their customer journeys. They can also translate this view into useful insights to build a product that improves the user experience and, in turn, boosts their business.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

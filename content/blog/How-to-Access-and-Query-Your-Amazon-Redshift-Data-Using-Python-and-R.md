@@ -123,3 +123,9 @@ The first step in any data analysis process is to correctly procure the data and
 While we focused on Amazon Redshift in this blog, the process is also applicable to other databases like PostgreSQL. In this post, we used psycopg to connect to our Redshift instance – the same Python connector can be used to connect to a PostgreSQL instance as well.
 
 One of the advantages of residing your data within a database as opposed to other formats such as CSV files is the ability to query it using SQL. You can run complex SQL queries to preprocess your data effectively and save a lot of your time and effort in building statistical models for an in-depth data analysis.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

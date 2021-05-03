@@ -114,3 +114,9 @@ Getting Started With RudderStack Cloud
 We’ve launched all new pricing. RudderStack Cloud starts at $750/month for 25 million events and includes all of our key features. As you scale into billions of monthly events, you can transition seamlessly into our enterprise edition. 
 
 Interested in RudderStack cloud? [Sign up for a free 14-day trial](https://app.rudderlabs.com/signup?type=freetrial) or get in touch with our team.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

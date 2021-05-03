@@ -142,3 +142,9 @@ Conclusion
 Building reliable data applications is not an easy task, especially with an [open system like RudderStack](https://rudderstack.com/blog/open-source-analytics/). In this post, we sketched a high-level algorithm of how we handle failed delivery to destinations using a combination of a state machine and queues for achieving satisfactory fault tolerance and consistency. 
 
 The algorithm on its own does not guarantee the above objectives completely. What happens if the RudderStack node that handles the data crashes? What if we run out of memory, and the Queues cannot fit anymore? There are more details on how we deal with these. For example, we implement the queues we mentioned as rotating tables on Postgres, but this is material for another blog post.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

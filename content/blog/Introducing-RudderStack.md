@@ -41,3 +41,9 @@ RudderStack’s Data Plane – where all the collection, transformation, and rou
 We are very excited to have built RudderStack. If you are worried about protecting your data from unauthorized usage by the third-party tools and are looking for an open-source solution to routing your customer data securely, we’re here to help!
 
 Do [contact us](https://rudderstack.com/contact/), or [sign up for a demo](https://rudderstack.com/request-a-demo/) to get a more hands-on understanding of RudderStack. We are just getting started!
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
