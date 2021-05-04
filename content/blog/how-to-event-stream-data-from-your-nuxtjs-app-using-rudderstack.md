@@ -105,64 +105,16 @@ Integrate RudderStack with your Nuxt.js app and set up the tracking code followi
 1. Modify the `nuxt.config.js` file in your app’s folder to include the following script:
 
 
-```
-    script: [
-      {
-        hid: 'Rudder-JS',
-        src: 'http://cdn.rudderlabs.com/v1/rudder-analytics.min.js',
-        defer: true
-      },
-      {
-        hid: 'rudder-js',
-        innerHTML: `
-        rudderanalytics = window.rudderanalytics = [];
-        var  methods = [
-            'load',
-            'page',
-            'track',
-            'identify',
-            'alias',
-            'group',
-            'ready',
-            'reset',
-            'getAnonymousId',
-            'setAnonymousId'
-        ];
-        for (var i = 0; i < methods.length; i++) {
-              var method = methods[i];
-              rudderanalytics[method] = function (methodName) {
-                    return function () {
-                                       rudderanalytics.push([methodName].concat(Array.prototype.slice.call(arguments)));
-                    };
-                  }(method);
-        }
-        rudderanalytics.load("YOUR_WRITE_KEY", "DATA_PLANE_URL");
-        rudderanalytics.ready(()=>{
-          console.log("We are all set");
-        });
-        //rudderanalytics.page();
-        `,
-        type: 'text/javascript',
-        charset: 'utf-8'
-      }
-    ],
-```
 
-
- 
-
-
-```
-
-
-```
+    
+`gist: Veenap/3626e9bac218dde5a66fc2583eb31bd1.js`
 
 
 
 
 
 
-![Update the nuxt.config.js file](../assets/markdown/updatethenuxtjsconfig)
+![Update the nuxt.config.js file](../assets/markdown/updatethenuxtjsconfig.png)
 
 
 
