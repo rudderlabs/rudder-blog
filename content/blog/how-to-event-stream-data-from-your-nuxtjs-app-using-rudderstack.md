@@ -107,9 +107,7 @@ Integrate RudderStack with your Nuxt.js app and set up the tracking code followi
 
 
     
-`gist: Veenap/3626e9bac218dde5a66fc2583eb31bd1`
-
-
+`gist:Veenap/3626e9bac218dde5a66fc2583eb31bd1`
 
 
 
