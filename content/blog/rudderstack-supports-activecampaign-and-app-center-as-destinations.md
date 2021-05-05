@@ -32,7 +32,7 @@ On the other hand, [App Center](https://docs.rudderstack.com/destinations/appcen
 Customers use ActiveCampaign to automate, segment and personalize communications across different parts of the business. Companies use it to track custom funnels and integrate with social profiles for lead scoring based on interactions, interest, site activity, and social media details.
 
 
-### Manage App Lifecycle and More with App Center \
+### Manage App Lifecycle and More with App Center 
 
 
 With App Center, customers track usage and crash data analytics, push notifications, and data synchronization, among other services. Customers also integrate it with multiple mobile app technologies.
@@ -44,4 +44,8 @@ RudderStack is an open-source product, and we will continue to develop multiple 
 
 We currently support over 20 sources, including [Warehouse Actions](https://docs.rudderstack.com/warehouse-actions), [Cloud Extracts](https://docs.rudderstack.com/cloud-extract-sources), and [Event streams](https://docs.rudderstack.com/rudderstack-event-streams). We also support over 80 [destinations](https://docs.rudderstack.com/destinations) and add a new one every two weeks, so be sure to look at the other [integrations](https://rudderstack.com/integration/) we support. 
 
-Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, explore our open source repos on [GitHub](https://github.com/rudderlabs), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don't miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

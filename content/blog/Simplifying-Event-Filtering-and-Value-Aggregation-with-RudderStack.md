@@ -59,3 +59,9 @@ In the above snippet:
 *   After this, the system assigns the aggregated values to the respective attributes of the first `spin_result` event in the array.
 *   Now, the code separates the events that are not of the target type (`spin_result` in this case) into another array. If there were no such events, an empty array is created.
 *   Finally, the system adds the `single spin_result` event to the array created in the previous step, and the result is returned.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

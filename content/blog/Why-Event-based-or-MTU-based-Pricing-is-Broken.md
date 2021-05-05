@@ -50,3 +50,9 @@ For example, a system that handles 10 million events is similar to a system that
 Most companies between a start-up and a large-scale organization use off-the-shelf technologies to handle the scaling aspect of their growth. The same applies to effort, and ultimately the value when selling to engineers doesn’t scale with the value of users or Events. For this reason, **FIXED PRICE** is a better representation of the value delivered.
 
 For a business user (Marketing/Sales), the value of the data collected by RudderStack comes from the increase in business metrics. This includes increased sales, better product experience, reduced churn, and so on. These are some of the applications we are building using RudderStack, and these would be priced-aligned with the value they deliver.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

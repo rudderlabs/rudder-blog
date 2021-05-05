@@ -111,4 +111,8 @@ In this post, we looked at some of the reasons why we decided to build our own q
 
 With our queueing system powered by PostgreSQL, we could easily change the logic for ordering the events as well as debugging them. In addition, we had complete visibility over all the events coming from a source, user or a destination just by running a SQL query – something that was not possible with Apache Kafka.
 
-To know more about RudderStack and its features, check out our [website](https://rudderstack.com). You can also track our progress on [GitHub](https://github.com/rudderlabs/rudder-server).
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

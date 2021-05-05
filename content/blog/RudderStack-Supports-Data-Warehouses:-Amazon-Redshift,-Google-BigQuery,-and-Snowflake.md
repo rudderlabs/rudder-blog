@@ -40,4 +40,8 @@ Amazon Redshift, Google BigQuery, and Snowflake are powerful and scalable column
 
 With the current release, we have set the foundation to achieve this. However, we are committed to building a lot more optimization and many new features. 
 
-Please check our [](https://github.com/rudderlabs/rudder-server) GitHub repository, try the RudderStack platform, and take a look at our new integrations. Pull requests, issues, comments, and suggestions are more than welcome. Join us on [Discord](https://discordapp.com/invite/xNEdEGw) to discuss the Salesforce integration, browse our [documentation](https://docs.rudderstack.com/), or give [the platform a try](https://app.rudderlabs.com/signup).
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

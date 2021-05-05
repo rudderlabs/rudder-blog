@@ -38,4 +38,9 @@ Business messaging platforms such as Intercom allow you to:
 ---------------
 
 RudderStack currently supports Intercom v1.4. Work is in progress to support their Intercom v2.0 API, and we are committed to doing this at the earliest. Also, we are working hard to add more business messaging platforms as supported integrations. Please stay tuned!  
-We encourage you to check our [website](https://rudderstack.com/) as well as our [GitHub](https://github.com/rudderlabs/rudder-server) repository to learn more about RudderStack. You can also join us on [Discord](https://discordapp.com/invite/xNEdEGw) and discuss the integration with Intercom – our supported business messaging integration. If you want to get up and running with Intercom, make sure you give our [platform a try](https://app.rudderlabs.com/signup) and browse through our [documentation](https://docs.rudderstack.com/destinations).
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

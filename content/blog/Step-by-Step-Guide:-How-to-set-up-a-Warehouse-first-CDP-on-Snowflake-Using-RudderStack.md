@@ -137,10 +137,8 @@ Let’s say you work in a SaaS company. Your analytics team leverages all the un
 
 To do this, you can use RudderStack to send all your customer behavior data residing in Snowflake to downstream marketing automation tools like Braze or Customer.io. With these tools, you can build a segment of audiences who have not used that particular product feature and use their marketing automation capabilities to trigger personalized messages for these users – asking them to try the feature.
 
-**Start Building Your own Warehouse-First CDP on Snowflake using RudderStack**
-------------------------------------------------------------------------------
+## Try RudderStack Today
 
-In this post, we detailed how modern, warehouse-first CDPs built on cloud data warehouses like Snowflake with RudderStack allow you to effectively capture, analyze, and productize your data. 
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
 
-While RudderStack allows for seamless data capture across all your data sources, you can go beyond the traditional use-cases of a typical data warehouse with Snowflake. By mobilizing and activating your data in a secure and robust manner, Snowflake allows you to unlock the full potential of your data, without creating any data silos.  
-RudderStack and Snowflake combine to give you the data platform for a perfect CDP. [Sign up for a 14-day free trial](https://app.rudderstack.com/signup?type=freetrial) of RudderStack Cloud, and build the warehouse-first CDP that delivers complete, unified data to every part of your marketing and analytics stack.
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

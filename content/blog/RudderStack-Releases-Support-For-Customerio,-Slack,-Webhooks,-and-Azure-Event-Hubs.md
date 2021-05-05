@@ -32,6 +32,9 @@ Slack is a popular customer messaging platform used by many businesses today. Se
 ----------------
 
 RudderStack is an [open-source product](https://rudderstack.com/blog/rudderstack-an-open-source-customer-data-infrastructure-podcast-with-soumyadeb-mitra/). We are committed to developing a vast array of supported integrations to ease your day-to-day work. We are working diligently to add more destinations such as Lotame, Heap.io as well as PostgreSQL as a warehouse destination.  
-Please check our [website](/) and the [GitHub](https://github.com/rudderlabs/rudder-server) repository to learn more about RudderStack.
 
-You can also join [Discord](https://discordapp.com/invite/xNEdEGw) and start a conversation about these newly released integrations. If you want to get up and running with them, give our [platform a try](https://app.rudderlabs.com/signup) or browse through our [documentation](https://docs.rudderstack.com/destinations).
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

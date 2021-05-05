@@ -111,3 +111,9 @@ Conclusion
 
 Unity is a feature-rich and versatile game development platform. We wanted to offer gamer developers functionalities around data that are commonly accessible to mobile and server-side developers. Although supporting an embedded database is not trivial in Unity, the platform allows you to do it in an elegant way through the plugin system.  
 RudderStack and all the SDKs are open-source and available on [GitHub](https://github.com/rudderlabs). You can also find the detailed documentation for this Unity SDK [here](https://docs.rudderstack.com/sdk-integration-guide/getting-started-with-unity-sdk). We’d love to hear your feedback on how to improve our SDKs.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

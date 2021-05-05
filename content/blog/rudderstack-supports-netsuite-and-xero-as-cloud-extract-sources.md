@@ -36,4 +36,8 @@ Along with Cloud Extract Sources, RudderStack also launched another cool feature
 
 RudderStack supports more than 20 sources, which includes [Cloud Extracts](https://docs.rudderstack.com/cloud-extract-sources), [Warehouse Actions](https://docs.rudderstack.com/warehouse-actions), and [Event streams](https://docs.rudderstack.com/rudderstack-event-streams). We also support over 80 [destinations](https://rudderstack.com/integration/?q=&hPP=100&idx=wp_posts_integration&p=0&dFR%5Btaxonomies.integration_types%5D%5B0%5D=Destinations&is_v=1) and add a new integration every two weeks.
 
-Explore our open source repos on [GitHub](https://github.com/rudderlabs), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don't miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

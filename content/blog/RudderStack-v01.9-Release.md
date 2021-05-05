@@ -47,5 +47,8 @@ Summary
 
 We are quite excited about this new RudderStack v0.1.9 release, as it includes several enhancements and new features that are a sign of a maturing product. Some bug fixes have also been released, with the most notable being a bug that could cause the router to crash together with fixes related to our support of Data Warehouses.   
 
-The above are just some of the features and fixes that we are excited about; there are more included in this release. Please have a look at the complete release notes [here](https://github.com/rudderlabs/rudder-server/releases) for more information.  
-If you have any questions, please join our community on [Discord](https://discordapp.com/invite/xNEdEGw), we will be happy to hear from you.
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

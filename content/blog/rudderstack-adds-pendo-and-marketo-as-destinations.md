@@ -15,7 +15,7 @@ weight:
 
 We're thrilled to announce support for three new destinations, [Pendo](https://rudderstack.com/integration/pendo/) and [Marketo](https://rudderstack.com/integration/marketo/), to our rich suite of third-party integrations. With these integrations, you can now seamlessly send event data from your preferred data sources to Pendo and Marketo via RudderStack. 
 
-We encourage you to try these integrations and feel free to contact us for questions, feedback, or issues to report. You can also start a conversation on these integrations on our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) channel. We would love to talk to you! \
+We encourage you to try these integrations and feel free to contact us for questions, feedback, or issues to report. You can also start a conversation on these integrations on our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) channel. We would love to talk to you! 
 
 
 
@@ -39,4 +39,8 @@ RudderStack's mission is to deliver your customer events to your favorite destin
 
 Do [check out some of our other integrations](https://rudderstack.com/blog/rudderstack-supports-email-marketing-platform-mailchimp/) that suit your business needs perfectly!
 
-Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your marketing and analytics stack by signing up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today. [Subscribe to our blogs](https://rudderstack.com/blog/), join [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open-source repos on [GitHub](https://github.com/rudderlabs), and follow us on our socials: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](http://dev.to/), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

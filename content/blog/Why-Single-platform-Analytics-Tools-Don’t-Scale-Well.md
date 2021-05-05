@@ -108,3 +108,9 @@ How to Move to the Warehouse-first Model
 A warehouse-first approach sounds appealing, but it is easier said than done without the right tooling. Building SDKs and routing tools to manage a pipeline is non-trivial, especially for teams busy building products for users.
 
 We’ve felt the pain of trying to build these pipelines; both from an engineering standpoint and from the cost of delaying work on key features. We built [RudderStack](https://rudderstack.com/) to solve that very problem. Our mission is to make it easy for data engineering teams to build a warehouse-first foundation for their organization.
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

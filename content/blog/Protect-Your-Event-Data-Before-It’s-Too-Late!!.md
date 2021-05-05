@@ -28,4 +28,10 @@ How RudderStack ensures event data privacy and protection
 ---------------------------------------------------------
 
 With RudderStack, you get complete control over your event data. With the open-source, self-hosted Rudder data plane, your customer event data doesn’t leave your control. Rudder’s transformation framework lets you enforce policies (such as scrubbing for sensitive data) on the event stream before the event data are sent to external third parties. This can prevent accidental leakages like the incident above. Know more about RudderStack’s features in our blog on [Introducing RudderStack](https://rudderstack.com/blog/introducing-rudderstack/).  
-If you think data privacy and protection of your customers’ PII is a critical issue that can impact your business, we’re here to help you. [Contact us](https://rudderstack.com/contact/) today!
+If you think data privacy and protection of your customers’ PII is a critical issue that can impact your business, we’re here to help you. [Contact us](https://rudderstack.com/contact/).
+
+## Try RudderStack Today
+
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

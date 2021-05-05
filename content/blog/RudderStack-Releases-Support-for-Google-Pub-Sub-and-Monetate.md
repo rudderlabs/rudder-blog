@@ -32,6 +32,8 @@ On the other hand, using RudderStack’s `track` method, you can send your event
 
 We at RudderStack are committed to helping you make the most of your event data via the integrations that we develop. You do not want to miss that important little detail about your customers that makes them keep coming back to your website or app – and we plan on building cutting-edge integrations for RudderStack to help you do just that!
 
-Make sure you also [check out some of our other integrations](https://rudderstack.com/blog/rudderstack-supports-email-marketing-platform-mailchimp/) that suit your business needs perfectly!
+## Try RudderStack Today
 
-You can join us on [Discord](https://discordapp.com/invite/xNEdEGw) and discuss these integrations in more detail. If you simply want to get up and running with these integrations, make sure you give our [platform a try](http://app.rudderlabs.com/signup?type=freetrial) or browse through our [documentation](https://docs.rudderstack.com/destinations).
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
+
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!

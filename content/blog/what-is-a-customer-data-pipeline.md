@@ -68,10 +68,8 @@ To design customer data pipelines, you can use a regular container service.
 The most common mistake people make during the designing of functional response is distributing operations which then perform unevenly. The general idea is to adjust the CTAS method to set various operations and file parameters.
 
 
-## Try RudderStack Customer Data Pipeline Today!
+## Try RudderStack Today
 
-[RudderStack](https://app.rudderstack.com/) is an open-source Customer Data Pipeline that helps you leverage in-depth analysis of your customer data with support for different customer tools, transformations, and out-of-the-box features! When implemented correctly, data pipelines help you dramatically change the course of doing business in the future.
+Start building a smarter customer data pipeline. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack. Sign up for [RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
 
-Start building a smarter customer data pipeline with RudderStack, use all customer data available, answer all challenging questions, and share your vision with your customers.
-
-Join RudderStack [Slack](https://resources.rudderstack.com/join-rudderstack-slack) group to chat with our team. Explore our open source repos on [GitHub](https://github.com/rudderlabs), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
+Join our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) to chat with our team, check out our open source repos on [GitHub](https://github.com/rudderlabs), subscribe to [our blog](https://rudderstack.com/blog/), and follow us on social: [Twitter](https://twitter.com/RudderStack), [LinkedIn](https://www.linkedin.com/company/rudderlabs/), [dev.to](https://dev.to/rudderstack), [Medium](https://rudderstack.medium.com/), [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw). Don’t miss out on any updates. [Subscribe](https://rudderstack.com/blog/) to our blogs today!
