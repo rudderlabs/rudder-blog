@@ -1,6 +1,7 @@
 ---
 title: "Modern Companies Need a Customer Data Platform. Should You Build or Buy?"
-siteMetadescription: RudderStack clears out the confusion of whether to buy or build a Customer Data Platform. The CDP helps to feed all sorts of downstream marketing & tools.
+metaTitle: "Customer Data Platform - Should You Build or Buy?"
+siteMetadescription: "RudderStack clears out the confusion of whether to buy or build a Customer Data Platform. The CDP helps to feed all sorts of downstream marketing & tools."
 date: 2020-11-20T00:00:00+05:30
 featureImg: ../assets/buildvsbuy.blog_.rs_-750x355.png
 category: 

@@ -1,6 +1,7 @@
 ---
 title: "The Complete Customer Data Stack"
-siteMetadescription: RudderStack explains the guide of The Complete Customer Data Stack. And puts an argument that individual tools are always part of the customer data stack. 
+metaTitle: "The Complete Customer Data Stack | RudderStack"
+siteMetadescription: "RudderStack explains the guide of The Complete Customer Data Stack. And puts an argument that individual tools are always part of the customer data stack." 
 date: 2020-08-25T00:00:00+05:30
 featureImg: ../assets/6.blog_.rs_-750x355.png
 category: Thoughts & Opinions

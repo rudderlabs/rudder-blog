@@ -1,6 +1,6 @@
 ---
 title: "RudderStack Supports Event Streaming Platform: Apache Kafka"
-siteMetadescription: To build real-time data pipelines RudderStack now supports Apache Kafka.Apart from that one can also build scalable streaming applications & mix the events
+siteMetadescription: "To build real-time data pipelines RudderStack now supports Apache Kafka.Apart from that one can also build scalable streaming applications & mix the events"
 date: 2020-11-02T00:00:00+05:30
 featureImg: ../assets/integration3.blog_.rs_.png
 category: Product Announcements

@@ -1,5 +1,6 @@
 ---
 title: "RudderStack Releases Support for Source Integrations: Looker and Auth0"
+metaTitle: "RudderStack Releases Support for Source Integrations"
 siteMetadescription: "RudderStack got new addition in the Source Integrations catalog Looker & Auth0. This will ingest and route the named destination for further analytics."
 date: 2020-11-18T00:00:00+05:30
 featureImg: ../assets/rudderstack-sources-looker-auth0.jpg

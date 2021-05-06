@@ -1,6 +1,7 @@
 ---
 title: "Announcing the RudderStack Video Library"
-siteMetadescription: RudderStack launches its Video library. A set of detailed informative videos that will help developers to gain knowledge about the features of the product.
+siteMetadescription: "RudderStack launches its Video library. A set of detailed informative videos that will help developers to gain knowledge about the features of the product."
+metaTitle: "Announcing the RudderStack Video Library | RudderStack"
 date: 2020-12-31T00:00:00+05:30
 featureImg: ../assets/markdown/rudderstackvideolibrary.jpg
 category: 

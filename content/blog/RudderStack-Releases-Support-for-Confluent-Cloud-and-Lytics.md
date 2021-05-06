@@ -1,7 +1,8 @@
 ---
 
 title: "RudderStack Releases Support for Confluent Cloud and Lytics"
-siteMetadescription: "Adding into the 3rd party integrations Rudderstack now supports Confluent Cloud & Lytics. With which an individual can send event data from preferred data."
+
+siteMetadescription: "Adding into the third party integrations Rudderstack now supports Confluent Cloud & Lytics. With which an individual can send event data from preferred data."
 
 date: 2020-12-09T00:00:00+05:30
 

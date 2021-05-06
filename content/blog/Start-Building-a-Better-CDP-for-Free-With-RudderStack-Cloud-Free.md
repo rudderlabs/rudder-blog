@@ -1,6 +1,7 @@
 ---
 title: "Start Building a Better CDP for Free With RudderStack Cloud Free"
-siteMetadescription: RudderStack allows building CDP free of cost. They aim to eliminate the customer data cribs that are always created through the sales & product technologies.
+metaTitle: "Start Building a Better CDP for Free With RudderStack"
+siteMetadescription: "RudderStack allows building CDP free of cost. They aim to eliminate the customer data cribs that are always created through the sales & product technologies."
 date: 2020-11-12T00:00:00+05:30
 featureImg: ../assets/freetier.blog_.rs_.png
 category: 

@@ -1,6 +1,7 @@
 ---
 title: "Kafka Vs. PostgreSQL: How We Implemented Our Queueing System Using PostgreSQL"
-siteMetadescription: RudderStack shows the concept behind the queueing System and how it is implemented. Which one is better the Kafka or the PostgreSQL for the implementation.
+metaTitle: "Kafka Vs. PostgreSQL | RudderStack"
+siteMetadescription: "RudderStack shows the concept behind the queueing System and how it is implemented. Which one is better the Kafka or the PostgreSQL for the implementation."
 date: 2020-09-23T00:00:00+05:30
 featureImg: ../assets/5.blog_.rs_-750x355.png
 category: Engineering

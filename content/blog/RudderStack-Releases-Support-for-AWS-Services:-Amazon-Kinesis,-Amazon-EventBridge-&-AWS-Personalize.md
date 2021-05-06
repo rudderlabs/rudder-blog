@@ -1,6 +1,7 @@
 ---
 title: "RudderStack Releases Support for AWS Services: Amazon Kinesis, Amazon EventBridge & AWS Personalize"
-siteMetadescription: Rudderstack holds three more AWS services -Amazon Kinesis, EventBridge, and Personalize. One can easily send the data for more data processing and analysis
+metaTitle: "RudderStack Releases Support for AWS Services | RudderStack"
+siteMetadescription: "Rudderstack holds three more AWS services -Amazon Kinesis, EventBridge, and Personalize. One can easily send the data for more data processing and analysis."
 date: 2020-11-05T00:00:00+05:30
 featureImg: ../assets/integration2.blog_.rs_.png
 category: Product Announcements

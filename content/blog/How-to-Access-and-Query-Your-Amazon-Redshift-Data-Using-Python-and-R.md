@@ -1,6 +1,7 @@
 ---
 title: "How to Access and Query Your Amazon Redshift Data Using Python and R"
-siteMetadescription: Get to know how to access and query your Amazon Redshift Data using the Python from Rudder Stack. By uniting the Redshift & saving the events for analysis.
+metaTitle: "How to Access and Query Your Amazon Redshift Data"
+siteMetadescription: "Get to know how to access and query your Amazon Redshift Data using the Python from Rudder Stack. By uniting the Redshift & saving the events for analysis."
 date: 2020-08-10T00:00:00+05:30
 featureImg: ../assets/7.blog_.rs_-1-750x355.png
 category: Tutorials

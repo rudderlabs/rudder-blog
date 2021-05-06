@@ -1,6 +1,7 @@
 ---
 title: "Introducing RudderStack Cloud: The Warehouse-First CDP for Developers"
-siteMetadescription: RudderStack declares the most capable, affordable and advanced customer data product for developers RudderStack Cloud. Get, Verify & Modify the data easily.
+metaTitle: "The Warehouse-First CDP for Developers | RudderStack Cloud"
+siteMetadescription: "RudderStack declares the most capable, affordable and advanced customer data product for developers RudderStack Cloud. Get, Verify & Modify the data easily."
 date: 2020-10-15T00:00:00+05:30
 featureImg: ../assets/ruddercloud.bg_.blog_.rs_.nokeel-750x355.png
 category: Product Announcements

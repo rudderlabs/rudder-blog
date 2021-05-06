@@ -1,6 +1,6 @@
 ---
 title: "The Data Engineering Megatrend: A Brief History"
-siteMetadescription: Rudderstack explains the detailed history of the Data Engineering and the Megatrends. Also tells the modifications in the data design philosophy and tooling.
+siteMetadescription: "RudderStack explains the detailed history of the Data Engineering and the Megatrends. Also tells the modifications in the data design philosophy and tooling."
 date: 2020-12-03T00:00:00+05:30
 featureImg: ../assets/markdown/riseofdataengineer.blog.rs.png
 category: 

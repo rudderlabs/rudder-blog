@@ -1,6 +1,6 @@
 ---
 title: "RudderStack Supports Segment as a Source Integration"
-siteMetadescription: Rudderstack proudly adds the Segment into the Source Integration. Segment is known to be a popular CDP that makes the transitions as seamless as possible. 
+siteMetadescription: "Rudderstack proudly adds the Segment into the Source Integration. Segment is known to be a popular CDP that makes the transitions as seamless as possible." 
 date: 2020-12-09T00:00:00+05:30
 featureImg: ../assets/markdown/releasesupportsegment.blog.rs.png
 category: 

@@ -1,6 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to set up a Warehouse-first CDP on Snowflake Using RudderStack"
-siteMetadescription: Now using RudderStack set up a Warehouse first CDP on Snowflake by following the step by step guide and along with that get an overview of the architecture
+metaTitle: "How to set up a Warehouse-first CDP on Snowflake"
+siteMetadescription: "Now using RudderStack set up a Warehouse first CDP on Snowflake by following the step by step guide and along with that get an overview of the architecture."
 date: 2020-11-06T00:00:00+05:30
 featureImg: ../assets/integration6.blog_.rs_.png
 category: 
