@@ -54,11 +54,9 @@ RudderStack uses staging object storage for two reasons. First, it does not pers
 
 **That’s it!** The connection should now be active, and visible on your RudderStack Cloud dashboard.
 
-![](../assets/markdown/itb0k7sU2vPCm99N.png)
+![RudderStack Cloud Dashboard](../assets/markdown/itb0k7sU2vPCm99N.png)
 
-We’ve also detailed this entire process in the following GIF: 
 
-https://cdn-std.droplr.net/files/acc\_253797/QHDShF
 
 **Architecture Overview** 
 --------------------------

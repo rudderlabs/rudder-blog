@@ -208,7 +208,7 @@ Alternatively, you can write a JavaScript library yourself that captures the eve
 
 The third – and the best – alternative is to use [an open source Customer Data Infrastructure tool like RudderStack](https://rudderstack.com). Not only do they provide a client-side SDK to capture your events, you also get the flexibility to store the events wherever you want.  
 
-> This [Quora post](https://stackoverflow.com/questions/3195773/how-should-i-capture-clickstream-data/3195819) answers the ‘**How should I capture clickstream data**’ question in detail.
+> This [Stackoverflow post](https://stackoverflow.com/questions/3195773/how-should-i-capture-clickstream-data/3195819) answers the ‘**How should I capture clickstream data**’ question in detail.
 
 ## Try RudderStack Today
 

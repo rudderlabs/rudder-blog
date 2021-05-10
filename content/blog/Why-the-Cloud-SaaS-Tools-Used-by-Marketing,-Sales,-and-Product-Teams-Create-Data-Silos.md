@@ -75,7 +75,7 @@ Even if you accomplish ubiquitous data capture, though, the true power comes in 
 
 Infrastructure tools that enable this functionality are intentionally built to solve the data silo problem. For example, [Hightouch](https://www.hightouch.io/) allows you to orchestrate robust marketing campaigns from your warehouse data. 
 
-And we would be remiss not to mention [RudderStack](http://www.rudderstack.debugme.in): we’re designed to _not_ persist any data and can turn your warehouse into a source for your larger data pipeline directly. We’ve launched [RudderStack Cloud](https://resources.rudderstack.com/rudderstack-cloud) that lets you collect, transform and route your customer events data to not just data warehouses, but also your preferred real-time streaming services and cloud apps.
+And we would be remiss not to mention [RudderStack](http://www.rudderstack.com): we’re designed to _not_ persist any data and can turn your warehouse into a source for your larger data pipeline directly. We’ve launched [RudderStack Cloud](https://resources.rudderstack.com/rudderstack-cloud) that lets you collect, transform and route your customer events data to not just data warehouses, but also your preferred real-time streaming services and cloud apps.
 
 In this new paradigm, advanced data engineering teams are using developer-first tooling that is often open source to achieve non-siloed insights from their warehouse. ([Models on the DBT hub](https://hub.getdbt.com/) are a great example.) 
 

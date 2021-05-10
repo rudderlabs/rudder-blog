@@ -1,6 +1,6 @@
 ---
 title: "Building a Reliable Customer Data Infrastructure"
-siteMetadescription: A typical example of Data-Intensive Application. RudderStack briefly tells CDI and its core & the infrastructure for seizing, processing and routing events.
+siteMetadescription: "A typical example of Data-Intensive Application. RudderStack briefly tells CDI and its core & the infrastructure for seizing, processing and routing events."
 date: 2020-05-24T00:00:00+05:30
 featureImg: ../assets/16.blog_.rs_.png
 category: Thoughts & Opinions
@@ -139,7 +139,7 @@ The above algorithm manages the state and the order of events in RudderStack. It
 Conclusion
 ----------
 
-Building reliable data applications is not an easy task, especially with an [open system like RudderStack](https://rudderstack.com/blog/open-source-analytics/). In this post, we sketched a high-level algorithm of how we handle failed delivery to destinations using a combination of a state machine and queues for achieving satisfactory fault tolerance and consistency. 
+Building reliable data applications is not an easy task, especially with an [open system like RudderStack](https://rudderstack.com). In this post, we sketched a high-level algorithm of how we handle failed delivery to destinations using a combination of a state machine and queues for achieving satisfactory fault tolerance and consistency. 
 
 The algorithm on its own does not guarantee the above objectives completely. What happens if the RudderStack node that handles the data crashes? What if we run out of memory, and the Queues cannot fit anymore? There are more details on how we deal with these. For example, we implement the queues we mentioned as rotating tables on Postgres, but this is material for another blog post.
 

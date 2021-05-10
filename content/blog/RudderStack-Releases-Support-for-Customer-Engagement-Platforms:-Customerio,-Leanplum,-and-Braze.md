@@ -1,6 +1,6 @@
 ---
 title: "RudderStack Releases Support for Customer Engagement Platforms: Customer.io, Leanplum, and Braze"
-siteMetadescription: RudderStack proudly announces the release of Customer.io, Slack, Webhooks and Azure Event Hubs support. Events gained by Customer.io are sent directly to us.
+siteMetadescription: "RudderStack proudly announces the release of Customer.io, Slack, Webhooks and Azure Event Hubs support. Events gained by Customer.io are sent directly to us."
 date: 2020-01-02T00:00:00+05:30
 featureImg: ../assets/Together-750x355.jpg
 category: Product Announcements

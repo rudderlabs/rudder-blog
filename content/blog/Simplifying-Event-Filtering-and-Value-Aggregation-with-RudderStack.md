@@ -1,6 +1,6 @@
 ---
 title: "Simplifying Event Filtering and Value Aggregation with RudderStack"
-siteMetadescription: RudderStack endorses its sophisticated mechanism solution to Simplifying Event Filtering and Value Aggregation outwardly introducing any standard mistakes.
+siteMetadescription: "RudderStack endorses its sophisticated mechanism solution to Simplifying Event Filtering and Value Aggregation outwardly introducing any standard mistakes."
 date: 2020-05-20T00:00:00+05:30
 featureImg: ../assets/15.blog_.rs_-750x355.png
 category: Engineering
@@ -25,7 +25,7 @@ You can define user transformations in the Configuration Plane of your RudderSta
 *   **Event Filtering:** This stops events from passing to a destination. You might need to filter events where an organization employs multiple tools/platforms for addressing different business requirements. Also, you may want to route only specific events to specific tool/platform destinations.
 *   **Value aggregation:** This allows aggregation of values on specific attributes of particular event types. You might need to aggregate values where an organization is not looking to employ a tool/platform to perform transaction-level record keeping and/or analysis. Instead, they want consolidated records/analytics. So, this kind of transformation helps in reducing the network traffic, and request/message volume. This is because the system can replace multiple events of a particular type by a single event of the same type with the aggregated value(s). This transformation also helps in cost reduction, where the destination platform charges by volume of events/messages. 
 
-You can view the sample transformation on our [GitHub](https://github.com/rudderlabs/sample-user-transformers/blob/master/Selective_Event_Removal_And_Value_Aggregation_User_Transformation.js) page.
+You can view the sample transformation on our [GitHub](https://github.com/rudderlabs/sample-user-transformers/blob/master/SelectiveEventRemoval.js) page.
 
 Implementation
 --------------

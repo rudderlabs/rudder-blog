@@ -60,7 +60,7 @@ Here’s a visualization of Mattermost’s data stack: 
 **Data Collection and Storage**
 -------------------------------
 
-A large chunk of data collected by Mattermost comes in user events, which drive most of their analytics and other downstream use-cases. To collect these events in real-time from their web and mobile apps, they use RudderStack’s [JavaScript](https://docs.rudderstack.com/rudderstack-sdk-integration-guides/rudderstack-javascript-sdk) and [iOS](https://docs.rudderstack.com/rudderstack-sdk-integration-guides/rudderstack-ios-sdk) SDKs, respectively. For the server-side events, they use the [Go](https://docs.rudderstack.com/rudderstack-sdk-integration-guides/rudderstack-go-sdk) SDK.
+A large chunk of data collected by Mattermost comes in user events, which drive most of their analytics and other downstream use-cases. To collect these events in real-time from their web and mobile apps, they use RudderStack’s JavaScript and iOS SDKs, respectively. For the server-side events, they use the Go SDK.
 
 Alex noted that with RudderStack, Mattermost overcame event volume limitations—a problem they faced with their previous vendor. Because of the vendor’s pricing model, they could capture only 2% of their user event data, which meant missing out on valuable customer insights. With RudderStack, Mattermost collects 100% of their event data, giving them rich insights into their customer journeys. 
 

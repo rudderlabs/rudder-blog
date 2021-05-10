@@ -11,7 +11,7 @@ authorDescription: "Content Manager at RudderStack. Loves all things data. Manch
 slug: "introducing-rudderstack-transformations"
 weight: 
 ---
-[RudderStack](/) is an open-source platform for collecting and routing your customer event data (commonly known as [customer data infrastructure](https://rudderstack.com/blog/building-a-customer-data-platform-on-your-data-warehouse/) or CDI platform). RudderStack is enterprise-ready, with a special focus on data privacy and security. This blog talks more about RudderStack and RudderStack Transformations that allow you to customize your customer data platforms.  
+RudderStack is an open-source platform for collecting and routing your customer event data (commonly known as [customer data infrastructure](https://rudderstack.com/blog/building-a-customer-data-platform-on-your-data-warehouse/) or CDI platform). RudderStack is enterprise-ready, with a special focus on data privacy and security. This blog talks more about RudderStack and RudderStack Transformations that allow you to customize your customer data platforms.  
 
 We started building RudderStack because, as data engineers ourselves, we found that existing CDI solutions lack crucial attributes that today’s data-driven enterprises need. Most solutions have a trade-off between flexibility and complexity. On the complete opposite side of the spectrum, extensibility and functionality are sacrificed on the altar of usability for cloud SaaS products.  
 
@@ -68,7 +68,7 @@ Errors in your data are inevitable- event schemas might change, developers intro
 
 Many times, you want to transform data into different representations. In one system, you might have only one field for the name and the surname. In another, you would like to have two separate fields. You may also want to extract and break down UTM parameters from a URL. Being able to transform the schema of the events is very important in maintaining a realistic data infrastructure for any company, and _RudderStack Transformations_ provide all the functionality needed to do that.  
 
-The above are just some everyday use cases that we have encountered so far, and they demonstrate the versatility of _RudderStack Transformations_. You can find templates for these cases on our [Github Repository for _RudderStack Transformations_](https://github.com/rudderlabs/sample-user-transformers).  
+The above are just some everyday use cases that we have encountered so far, and they demonstrate the versatility of _RudderStack Transformations_.  
 
 We Want You to Contribute
 -------------------------
