@@ -30,7 +30,7 @@ RudderStack brings **transparency** into the data exchange protocols, which are 
 
 ### **A Single Platform for all Your Data Collection and Routing Needs**
 
-RudderStack has [SDKs](https://docs.rudderstack.com/sdk-integration-guide/getting-started-with-android-sdk) to collect data from the web as well as mobile devices, including both Android and iOS platforms. It currently supports over 20 destinations, such as Google Analytics, Amplitude, MixPanel, Facebook Ads, and more. In addition, RudderStack also has the Unity SDK which can be used to collect event data from games. With our SDKs, you will notice an improvement in the page load times, which is an important metric for Google ranking, when it comes to ranking the search results. This impact is even bigger on mobile devices.
+RudderStack has SDKs to collect data from the web as well as mobile devices, including both Android and iOS platforms. It currently supports over 20 destinations, such as Google Analytics, Amplitude, MixPanel, Facebook Ads, and more. In addition, RudderStack also has the Unity SDK which can be used to collect event data from games. With our SDKs, you will notice an improvement in the page load times, which is an important metric for Google ranking, when it comes to ranking the search results. This impact is even bigger on mobile devices.
 
 RudderStack replaces the need for a separate integration with each third-party tool, thereby unlocking rapid iteration for your product and growth teams.
 
@@ -38,9 +38,7 @@ RudderStack replaces the need for a separate integration with each third-party t
 
 RudderStack’s Data Plane – where all the collection, transformation, and routing of event data happens – is completely **open source**. Being open source offers **extensibility** and the power of **customization** – something that is often needed by enterprises. Very often, developers working in large organizations find themselves struggling to extend software tools to adapt to their varying and complex requirements. For instance, it is not uncommon to see tools such as S3, Redshift, Snowflake, Azure all being supported in the same organization for various reasons. At RudderStack, we believe that one open-source platform is a great alternative to using multiple proprietary tools, especially for setting up a fundamental infrastructure such as a data collection and routing layer. It also allows for a vibrant developer community to contribute via a wide array of integrations. Having an organization behind an open-source project such as ours, you can receive the best of both worlds – all the advantages of open source coupled with an enterprise-grade product and support.
 
-We are very excited to have built RudderStack. If you are worried about protecting your data from unauthorized usage by the third-party tools and are looking for an open-source solution to routing your customer data securely, we’re here to help!
-
-Do [contact us](https://rudderstack.com/contact/), or [sign up for a demo](https://rudderstack.com/request-a-demo/) to get a more hands-on understanding of RudderStack. We are just getting started!
+We are very excited to have built RudderStack. If you are worried about protecting your data from unauthorized usage by the third-party tools and are looking for an open-source solution to routing your customer data securely, we’re here to help! We are just getting started!
 
 ## Try RudderStack Today
 

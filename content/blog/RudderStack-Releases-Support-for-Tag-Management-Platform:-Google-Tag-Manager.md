@@ -13,7 +13,7 @@ weight:
 ---
 We are delighted to announce RudderStack’s successful integration with Google Tag Manager – the world’s leading tag management platform used by many businesses. Once added as an integration, you can send your customer events to the Google Tag Manager (GTM) data layer directly using RudderStack’s JavaScript SDK.
 
-We encourage you to try out this integration and [contact us](https://rudderstack.com/contact/) in case you come across any issues or bugs. Suggestions for improvement, as well as any feedback on the integration, is also welcome!  
+We encourage you to try out this integration and [contact us](https://sso.secureserver.net/?realm=pass&app=ox&saas=0&region=am2) in case you come across any issues or bugs. Suggestions for improvement, as well as any feedback on the integration, is also welcome!  
 
 **Why we Decided to Support a Tag Management Platform as a Destination**
 ------------------------------------------------------------------------

@@ -13,7 +13,7 @@ weight:
 ---
 We are pleased to announce that RudderStack now supports integration with Google Ads – the world’s most popular online advertising platform. You can now use RudderStack’s APIs to directly send customer event data to Google Ads by simply configuring Google Ads as a destination in the RudderStack UI.
 
-We encourage you to try out this integration and get back to us in case of any queries or issues. If you have any suggestions or feedback for improvement, please feel free to [contact us](https://rudderstack.com/contact/). We would be pleased to talk with you.   
+We encourage you to try out this integration and get back to us in case of any queries or issues. If you have any suggestions or feedback for improvement, please feel free to [contact us](https://sso.secureserver.net/?realm=pass&app=ox&saas=0&region=am2). We would be pleased to talk with you.   
 
 **Why we Decided to Support an Advertising Platform as a Destination for RudderStack**
 --------------------------------------------------------------------------------------

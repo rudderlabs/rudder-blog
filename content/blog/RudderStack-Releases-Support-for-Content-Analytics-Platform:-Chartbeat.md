@@ -13,7 +13,7 @@ weight:
 ---
 [RudderStack](https://rudderstack.com/) is proud to announce that it supports Chartbeat. Chartbeat is the leading content measurement, analytics, and optimization platform for businesses. With this integration, you can send events directly to Chartbeat via our native web SDKs using the RudderStack APIs.
 
-We encourage you to try out this integration and [contact us](https://rudderstack.com/contact/) if you have any queries or issues to report. We also welcome any feedback or suggestions for improvement.  
+We encourage you to try out this integration and [contact us](https://sso.secureserver.net/?realm=pass&app=ox&saas=0&region=am2) if you have any queries or issues to report. We also welcome any feedback or suggestions for improvement.  
 
 **Why we decided to support a content analytics platform as destinations for RudderStack**
 ------------------------------------------------------------------------------------------

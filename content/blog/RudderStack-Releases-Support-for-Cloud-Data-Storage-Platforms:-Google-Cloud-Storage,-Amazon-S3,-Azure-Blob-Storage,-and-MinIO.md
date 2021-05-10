@@ -13,7 +13,7 @@ weight:
 ---
 [RudderStack](https://rudderstack.com) is pleased to announce support for four major cloud data storage platforms, namely Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, and MinIO. Once you add these as destinations, RudderStack automatically collects the event data. After this, RudderStack stores it into the data buckets as configured on these platforms.
 
-We encourage you to try out these integrations by setting them up as destinations. Feel free to [contact us](https://rudderstack.com/contact/) if you come across any issues or face any bugs. Suggestions and feedback for improvement are, as always, most welcome!  
+We encourage you to try out these integrations by setting them up as destinations. Feel free to [contact us](https://sso.secureserver.net/?realm=pass&app=ox&saas=0&region=am2) if you come across any issues or face any bugs. Suggestions and feedback for improvement are, as always, most welcome!  
 
 **Why we Decided to Support Data Storage Platforms as Destinations**
 --------------------------------------------------------------------
