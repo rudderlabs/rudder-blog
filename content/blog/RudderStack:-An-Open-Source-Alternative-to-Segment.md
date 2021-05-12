@@ -116,11 +116,7 @@ RudderStack’s [Warehouse Actions](https://docs.rudderstack.com/warehouse-actio
 With support for over 80 third-party tools and destinations, RudderStack reliably routes all the tracked customer events to your preferred destinations for various activation use-cases like analytics, attribution, marketing, CRM, and personalization. Check out all our supported destinations [here](https://docs.rudderstack.com/destinations).
 
 
-## Try RudderStack Today
-
-Start building a better, warehouse-first CDP that delivers complete, unified data to every part of your marketing and analytics stack. Sign up for[ RudderStack Cloud Free](https://app.rudderlabs.com/signup?type=freetrial) today.
-
-If you haven’t already, sign up for [RudderStack Free](https://app.rudderlabs.com/signup?type=freetrial) today. Start using a smarter customer data pipeline that builds your customer data lake on your data warehouse. Use all your customer data. Answer more difficult questions. Send insights to your whole customer data stack.
+For an in depth comparison of RudderStack and Segment check out this post on [Marketing Arsenal: An open source Segment alternative? Rudderstack vs Segment](https://marketingarsenal.io/segment-vs-rudderstack/#pricing).
 
 ## Try RudderStack Today
 
