@@ -1,7 +1,7 @@
 ---
 title: "Why RudderStack Used Postgres Over Apache Kafka for Streaming Engine"
 metaTitle: "Why RudderStack Used Postgres Over Apache Kafka"
-siteMetadescription: "Finally RudderStack keys "Why they did not prefer Apache Kafka over PostgreSQL for building RudderStack?". Focuses on the challenges using Apache Kafka."
+siteMetadescription: "Finally RudderStack keys \"Why they did not prefer Apache Kafka over PostgreSQL for building RudderStack?\". Focuses on the challenges using Apache Kafka."
 date: 2020-09-08T00:00:00+05:30
 featureImg: ../assets/4.blog_.rs1_-750x355.png
 category: Engineering
